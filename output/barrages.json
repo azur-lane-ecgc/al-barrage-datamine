@@ -35180,7 +35180,7 @@
         "name": "Strict Flower of Sardegna",
         "parts": [
           {
-            "aim_type": 3,
+            "aim_type": 0,
             "ammo": 1,
             "angle": 360,
             "armor_mod": [
@@ -37162,7 +37162,7 @@
             "velocity": 10
           },
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 4,
             "angle": 360,
             "armor_mod": [
@@ -37258,7 +37258,7 @@
         "name": "Dogged Pursuit",
         "parts": [
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 1,
             "angle": 120,
             "armor_mod": [
@@ -37298,7 +37298,7 @@
             "velocity": 10
           },
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 4,
             "angle": 60,
             "armor_mod": [
@@ -37350,7 +37350,7 @@
         "name": "Worldgorging Lionflame\n(15s)",
         "parts": [
           {
-            "aim_type": 1,
+            "aim_type": 0,
             "ammo": 3,
             "angle": 120,
             "armor_mod": [
@@ -37391,7 +37391,7 @@
             "velocity": 8
           },
           {
-            "aim_type": 1,
+            "aim_type": 0,
             "ammo": 3,
             "angle": 120,
             "armor_mod": [
@@ -37547,7 +37547,7 @@
         "name": "Upon This Blade, Shall Victory be Inscribed\n(Variant 1)",
         "parts": [
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 3,
             "angle": 100,
             "armor_mod": [
@@ -56372,7 +56372,7 @@
         "name": "All Out Assault - G-class II",
         "parts": [
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 1,
             "angle": 360,
             "armor_mod": [
@@ -56878,7 +56878,7 @@
         "name": "All Out Assault - Fiji-class II",
         "parts": [
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 1,
             "angle": 360,
             "armor_mod": [
@@ -70713,7 +70713,7 @@
         "name": "All Out Assault - Trafalgar II",
         "parts": [
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 3,
             "angle": 360,
             "armor_mod": [
@@ -70750,7 +70750,7 @@
             "velocity": 3
           },
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 3,
             "angle": 360,
             "armor_mod": [
@@ -70786,7 +70786,7 @@
             "velocity": 3
           },
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 2,
             "angle": 360,
             "armor_mod": [
@@ -70823,7 +70823,7 @@
             "velocity": 3
           },
           {
-            "aim_type": 0,
+            "aim_type": 1,
             "ammo": 2,
             "angle": 360,
             "armor_mod": [
@@ -78367,7 +78367,7 @@
         "name": "Nitouryuu - Sunset Glow",
         "parts": [
           {
-            "aim_type": 1,
+            "aim_type": 2,
             "ammo": 1,
             "angle": 360,
             "armor_mod": [
@@ -78509,7 +78509,7 @@
             "velocity": 0
           },
           {
-            "aim_type": 1,
+            "aim_type": 0,
             "ammo": 3,
             "angle": 360,
             "armor_mod": [

@@ -1,635 +1,646 @@
 {
-  "150960": [
+  "151220": [
     {
-      "name": "Apex Artist",
+      "name": "s1 (15s)",
       "parts": [
         {
-          "weapon_id": 167430,
-          "bullet_id": 167422,
-          "damage": 32,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 64,
-          "notes": [
-            "pierce 1"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 2048.0,
-          "med_dmg": 2355.2,
-          "heavy_dmg": 1843.2,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167440,
-          "bullet_id": 167423,
-          "damage": 141,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 3,
-          "notes": [
-            "Priority target",
-            "15 spread",
-            "20 splash"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 423.0,
-          "med_dmg": 486.45,
-          "heavy_dmg": 380.7,
-          "targetting": 1
-        }
-      ]
-    },
-    {
-      "name": "Apex Artist (Black)",
-      "parts": [
-        {
-          "weapon_id": 167430,
-          "bullet_id": 167422,
-          "damage": 32,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 64,
-          "notes": [
-            "pierce 1",
-            "50% crit"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 2048.0,
-          "med_dmg": 2355.2,
-          "heavy_dmg": 1843.2,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167440,
-          "bullet_id": 167423,
-          "damage": 141,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 3,
-          "notes": [
-            "Priority target",
-            "15 spread",
-            "20 splash",
-            "50% crit"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 423.0,
-          "med_dmg": 486.45,
-          "heavy_dmg": 380.7,
-          "targetting": 1
-        }
-      ]
-    },
-    {
-      "name": "Apex Artist (Black + White)",
-      "parts": [
-        {
-          "weapon_id": 167430,
-          "bullet_id": 167422,
-          "damage": 32,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 64,
-          "notes": [
-            "pierce 1",
-            "+50% crit",
-            "+20% crit dmg"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 2048.0,
-          "med_dmg": 2355.2,
-          "heavy_dmg": 1843.2,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167440,
-          "bullet_id": 167423,
-          "damage": 141,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 3,
-          "notes": [
-            "Priority target",
-            "15 spread",
-            "20 splash",
-            "+50% crit",
-            "+20% crit dmg"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 423.0,
-          "med_dmg": 486.45,
-          "heavy_dmg": 380.7,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "150964": [
-    {
-      "name": "Apex Artist (Black)",
-      "parts": [
-        {
-          "weapon_id": 167450,
-          "bullet_id": 167424,
-          "damage": 141,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 4,
-          "notes": [
-            "Target Debuff > Random",
-            "15 spread",
-            "20 splash",
-            "+50% crit"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 564.0,
-          "med_dmg": 648.6,
-          "heavy_dmg": 507.6,
-          "targetting": 4
-        }
-      ]
-    }
-  ],
-  "150963": [
-    {
-      "name": "Apex Artist (Black + White)",
-      "parts": [
-        {
-          "weapon_id": 167450,
-          "bullet_id": 167424,
-          "damage": 141,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
-          "notes": [
-            "Target Debuff > Random",
-            "15 spread",
-            "20 splash",
-            "+50% crit",
-            "+20%\n              crit dmg"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 846.0,
-          "med_dmg": 972.9,
-          "heavy_dmg": 761.4,
-          "targetting": 4
-        }
-      ]
-    }
-  ],
-  "150968": [
-    {
-      "name": "Apex Artist (crossfleet)",
-      "parts": [
-        {
-          "weapon_id": 167450,
-          "bullet_id": 167424,
-          "damage": 141,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
-          "notes": [
-            "Priority Target",
-            "15 spread",
-            "20 splash"
-          ],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 846.0,
-          "med_dmg": 972.9,
-          "heavy_dmg": 761.4,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "801600": [
-    {
-      "name": "Shadow of Eternal Night (on fire)",
-      "parts": [
-        {
-          "weapon_id": 167400,
-          "bullet_id": 167400,
-          "damage": 210,
+          "weapon_id": 167890,
+          "bullet_id": 167890,
+          "damage": 200,
           "bullet_type": "HE",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
-          "notes": [
-            "Priority target",
-            "19 spread",
-            "15 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801608,
-          "light_dmg": 1764.0,
-          "med_dmg": 1386.0,
-          "heavy_dmg": 1134.0,
-          "targetting": 1
-        },
-        {
-          "weapon_id": 167410,
-          "bullet_id": 167410,
-          "damage": 35,
-          "bullet_type": "HE",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 44,
-          "notes": [
-            "Priority target",
-            "19 spread",
-            "15 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801608,
-          "light_dmg": 1694.0,
-          "med_dmg": 1540.0,
-          "heavy_dmg": 1386.0,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "801602": [
-    {
-      "name": "Shadow of Eternal Night (proximity)",
-      "parts": [
-        {
-          "weapon_id": 167460,
-          "bullet_id": 167451,
-          "damage": 30,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 32,
-          "notes": [
-            "70 proximity"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801608,
-          "light_dmg": 960.0,
-          "med_dmg": 960.0,
-          "heavy_dmg": 960.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167470,
-          "bullet_id": 167461,
-          "damage": 60,
-          "bullet_type": "HE",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 4,
-          "notes": [
-            "70 proximity",
-            "Ignore shields"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801608,
-          "light_dmg": 264.0,
-          "med_dmg": 240.0,
-          "heavy_dmg": 216.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "150920": [
-    {
-      "name": "Odi Barbare",
-      "parts": [
-        {
-          "weapon_id": 167340,
-          "bullet_id": 161033,
-          "damage": 36,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 15,
-          "notes": [
-            "70 proximity",
-            "Ignore shields"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150929,
-          "light_dmg": 540.0,
-          "med_dmg": 432.0,
-          "heavy_dmg": 324.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167350,
-          "bullet_id": 161034,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 20,
-          "notes": [
-            "70 proximity",
-            "Ignore shields"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150929,
-          "light_dmg": 300.0,
-          "med_dmg": 240.0,
-          "heavy_dmg": 180.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "150930": [
-    {
-      "name": "Il Canto di Marzo",
-      "parts": [
-        {
-          "weapon_id": 167370,
-          "bullet_id": 161037,
-          "damage": 15,
-          "bullet_type": "Normal",
           "coeff": 1.0,
           "scaling": 1.0,
           "scaling_stat": "FP",
           "count": 1,
           "notes": [
-            "Nearest target",
-            "Shrapnel",
-            "Ignore shields"
+            "Ignore shields",
+            "pierce 99",
+            "Burn: 0.8 FP scaling + 100dmg",
+            "3s/tick",
+            "10% injureRatio"
           ],
           "proc_percent": 100.0,
-          "buff_id": 150929,
-          "light_dmg": 15.0,
-          "med_dmg": 15.0,
-          "heavy_dmg": 15.0,
-          "targetting": 3
+          "buff_id": 151222,
+          "light_dmg": 280.0,
+          "med_dmg": 220.0,
+          "heavy_dmg": 180.0,
+          "targetting": 0
         },
         {
-          "weapon_id": 167370,
-          "bullet_id": 161040,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 35,
-          "notes": [
-            "Nearest target",
-            "Ignore shields"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 525.0,
-          "med_dmg": 525.0,
-          "heavy_dmg": 525.0,
-          "targetting": 3
-        },
-        {
-          "weapon_id": 167370,
-          "bullet_id": 161039,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 35,
-          "notes": [
-            "Nearest target",
-            "6 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 498.75,
-          "med_dmg": 393.75,
-          "heavy_dmg": 236.25,
-          "targetting": 3
-        },
-        {
-          "weapon_id": 167420,
-          "bullet_id": 161036,
+          "weapon_id": 168010,
+          "bullet_id": 161110,
           "damage": 20,
-          "bullet_type": "Normal",
+          "bullet_type": "HE",
           "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
-          "notes": [
-            "Nearest target",
-            "6 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 120.0,
-          "med_dmg": 90.0,
-          "heavy_dmg": 48.0,
-          "targetting": 3
-        },
-        {
-          "weapon_id": 167480,
-          "bullet_id": 161043,
-          "damage": 40,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "TRP",
-          "count": 4,
-          "notes": [
-            "Nearest target",
-            "6 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 112.0,
-          "med_dmg": 144.0,
-          "heavy_dmg": 192.0,
-          "targetting": 3
-        }
-      ]
-    }
-  ],
-  "25022": [
-    {
-      "name": "All Out Assault II: Alfredo Oriani-class",
-      "parts": [
-        {
-          "weapon_id": 75022,
-          "bullet_id": 75021,
-          "damage": 12,
-          "bullet_type": "Normal",
-          "coeff": 1.25,
           "scaling": 1.0,
           "scaling_stat": "FP",
           "count": 20,
           "notes": [
-            "Nearest target",
-            "6 splash"
+            "Ignore shields",
+            "Burn: 0.8 FP scaling + 100dmg",
+            "3s/tick",
+            "10% injureRatio"
           ],
           "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 300.0,
-          "med_dmg": 240.0,
-          "heavy_dmg": 180.0,
-          "targetting": 3
-        }
-      ]
-    },
-    {
-      "name": "Alfredo Oriani-class II",
-      "parts": [
-        {
-          "weapon_id": 75022,
-          "bullet_id": 75021,
-          "damage": 12,
-          "bullet_type": "normal",
-          "coeff": 1.25,
-          "scaling": 1.0,
-          "scaling_stat": "fp",
-          "count": 20,
-          "notes": [],
-          "proc_percent": null,
-          "buff_id": null,
-          "light_dmg": 300.0,
-          "med_dmg": 240.0,
-          "heavy_dmg": 180.0,
+          "buff_id": 151222,
+          "light_dmg": 560.0,
+          "med_dmg": 440.0,
+          "heavy_dmg": 360.0,
           "targetting": 0
         }
       ]
     }
   ],
-  "150910": [
+  "151221": [
     {
-      "name": "Strict Flower of Sardegna",
+      "name": "s1 (on fire)",
       "parts": [
         {
-          "weapon_id": 167320,
-          "bullet_id": 161030,
-          "damage": 25,
-          "bullet_type": "Normal",
+          "weapon_id": 167900,
+          "bullet_id": 167891,
+          "damage": 140,
+          "bullet_type": "HE",
           "coeff": 1.0,
           "scaling": 1.0,
           "scaling_stat": "FP",
-          "count": 36,
-          "notes": [
-            "Nearest target",
-            "6 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 900.0,
-          "med_dmg": 900.0,
-          "heavy_dmg": 900.0,
-          "targetting": 3
-        },
-        {
-          "weapon_id": 167330,
-          "bullet_id": 161031,
-          "damage": 180,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 3,
+          "count": 9,
           "notes": [
             "Priority target",
-            "Ignore shields"
+            "16 spread",
+            "15 splash",
+            "Standard burn",
+            "shots can be lost if same barrage is procced within 3s"
           ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 648.0,
-          "med_dmg": 648.0,
-          "heavy_dmg": 648.0,
+          "proc_percent": 50.0,
+          "buff_id": 311,
+          "light_dmg": 1764.0,
+          "med_dmg": 1386.0,
+          "heavy_dmg": 1134.0,
           "targetting": 1
         }
       ]
     }
   ],
-  "28272": [
+  "151250": [
     {
-      "name": "All Out Assault II: Alberto di Giussano-class",
+      "name": "s1 (HE)",
       "parts": [
         {
-          "weapon_id": 75112,
-          "bullet_id": 75111,
-          "damage": 15,
-          "bullet_type": "Normal",
+          "weapon_id": 167920,
+          "bullet_id": 167684,
+          "damage": 40,
+          "bullet_type": "HE",
           "coeff": 1.0,
           "scaling": 1.0,
           "scaling_stat": "FP",
-          "count": 40,
+          "count": 1,
           "notes": [
             "Priority target",
-            "Ignore shields"
+            "Ignore shields",
+            "pierce 99",
+            "-2% AA"
           ],
           "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 600.0,
-          "med_dmg": 600.0,
-          "heavy_dmg": 600.0,
+          "buff_id": 151255,
+          "light_dmg": 54.0,
+          "med_dmg": 38.0,
+          "heavy_dmg": 30.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "151251": [
+    {
+      "name": "s1 (AP)",
+      "parts": [
+        {
+          "weapon_id": 167910,
+          "bullet_id": 167683,
+          "damage": 40,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 1,
+          "notes": [
+            "Priority target",
+            "Ignore shields",
+            "pierce 99",
+            "15% slow"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151256,
+          "light_dmg": 32.0,
+          "med_dmg": 40.0,
+          "heavy_dmg": 52.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "151262": [
+    {
+      "name": "s2",
+      "parts": [
+        {
+          "weapon_id": 167930,
+          "bullet_id": 167695,
+          "damage": 100,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 1,
+          "notes": [
+            "Priority target",
+            "16 splash",
+            "-10% eva rate",
+            "-15% dmg dealt to Trafalgar"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151265,
+          "light_dmg": 100.0,
+          "med_dmg": 100.0,
+          "heavy_dmg": 100.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "30472": [
+    {
+      "name": "aoa",
+      "parts": [
+        {
+          "weapon_id": 170782,
+          "bullet_id": 170781,
+          "damage": 30,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 8,
+          "notes": [
+            "Priority target",
+            "Shrapnel",
+            "Ignore shields",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151265,
+          "light_dmg": 324.0,
+          "med_dmg": 228.0,
+          "heavy_dmg": 180.0,
           "targetting": 1
         },
         {
-          "weapon_id": 75113,
-          "bullet_id": 75112,
-          "damage": 45,
-          "bullet_type": "Torpedo",
+          "weapon_id": 170782,
+          "bullet_id": 170782,
+          "damage": 30,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 8,
+          "notes": [
+            "Priority target",
+            "Reaim",
+            "Ignore shields",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151265,
+          "light_dmg": 324.0,
+          "med_dmg": 228.0,
+          "heavy_dmg": 180.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 170784,
+          "bullet_id": 170783,
+          "damage": 30,
+          "bullet_type": "AP",
           "coeff": 1.0,
           "scaling": 1.0,
           "scaling_stat": "TRP",
           "count": 8,
           "notes": [
             "Priority target",
-            "Ignore shields"
+            "Shrapnel",
+            "Ignore shields",
+            "pierce 99"
           ],
           "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 288.0,
-          "med_dmg": 360.0,
-          "heavy_dmg": 468.0,
+          "buff_id": 151265,
+          "light_dmg": 192.0,
+          "med_dmg": 240.0,
+          "heavy_dmg": 312.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 170784,
+          "bullet_id": 170784,
+          "damage": 30,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 8,
+          "notes": [
+            "Priority target",
+            "Reaim",
+            "Ignore shields",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151265,
+          "light_dmg": 192.0,
+          "med_dmg": 240.0,
+          "heavy_dmg": 312.0,
           "targetting": 1
         }
       ]
     }
   ],
-  "150981": [
+  "151281": [
     {
-      "name": "Thrill-Seeker",
+      "name": "s1",
       "parts": [
         {
-          "weapon_id": 167380,
-          "bullet_id": 161041,
-          "damage": 35,
+          "weapon_id": 167870,
+          "bullet_id": 170773,
+          "damage": 40,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 54,
+          "notes": [
+            "-15% accuracy",
+            "10s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151283,
+          "light_dmg": 2592.0,
+          "med_dmg": 2592.0,
+          "heavy_dmg": 2592.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167880,
+          "bullet_id": 170774,
+          "damage": 200,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 3,
+          "notes": [
+            "10% slow",
+            "10s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 480.0,
+          "med_dmg": 600.0,
+          "heavy_dmg": 780.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "30462": [
+    {
+      "name": "aoa",
+      "parts": [
+        {
+          "weapon_id": 170772,
+          "bullet_id": 170772,
+          "damage": 40,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 36,
+          "notes": [
+            "10% slow",
+            "10s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 1584.0,
+          "med_dmg": 1584.0,
+          "heavy_dmg": 1584.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "801760": [
+    {
+      "name": "s2",
+      "parts": [
+        {
+          "weapon_id": 167970,
+          "bullet_id": 170772,
+          "damage": 40,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "10% slow",
+            "10s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 1584.0,
+          "med_dmg": 1584.0,
+          "heavy_dmg": 1584.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167980,
+          "bullet_id": 2122,
+          "damage": 344,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 6,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 1651.2,
+          "med_dmg": 1857.6,
+          "heavy_dmg": 2270.4,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167990,
+          "bullet_id": 2122,
+          "damage": 344,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 3,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 1651.2,
+          "med_dmg": 1857.6,
+          "heavy_dmg": 2270.4,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 168000,
+          "bullet_id": 2111,
+          "damage": 288,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 12,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 2764.8,
+          "med_dmg": 3801.6,
+          "heavy_dmg": 4492.8,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "801778": [
+    {
+      "name": "s3",
+      "parts": [
+        {
+          "weapon_id": 167970,
+          "bullet_id": 2111,
+          "damage": 288,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 3,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 2764.8,
+          "med_dmg": 3801.6,
+          "heavy_dmg": 4492.8,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167980,
+          "bullet_id": 2122,
+          "damage": 344,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 6,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 1651.2,
+          "med_dmg": 1857.6,
+          "heavy_dmg": 2270.4,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167990,
+          "bullet_id": 2122,
+          "damage": 344,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 3,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 1651.2,
+          "med_dmg": 1857.6,
+          "heavy_dmg": 2270.4,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 168000,
+          "bullet_id": 2111,
+          "damage": 288,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 12,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151284,
+          "light_dmg": 2764.8,
+          "med_dmg": 3801.6,
+          "heavy_dmg": 4492.8,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151170": [
+    {
+      "name": "s1",
+      "parts": [
+        {
+          "weapon_id": 167850,
+          "bullet_id": 161069,
+          "damage": 300,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 1,
+          "notes": [
+            "Priority target",
+            "1 spread",
+            "15 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151173,
+          "light_dmg": 330.0,
+          "med_dmg": 330.0,
+          "heavy_dmg": 330.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 167860,
+          "bullet_id": 161071,
+          "damage": 100,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 12,
+          "notes": [
+            "Priority target",
+            "1 spread",
+            "15 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151173,
+          "light_dmg": 960.0,
+          "med_dmg": 1200.0,
+          "heavy_dmg": 1560.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "21162": [
+    {
+      "name": "aoa",
+      "parts": [
+        {
+          "weapon_id": 71162,
+          "bullet_id": 71161,
+          "damage": 22,
+          "bullet_type": "Normal",
+          "coeff": 1.25,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 27,
+          "notes": [
+            "Priority target",
+            "1 spread",
+            "15 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151173,
+          "light_dmg": 779.625,
+          "med_dmg": 594.0,
+          "heavy_dmg": 334.125,
+          "targetting": 1
+        }
+      ]
+    },
+    {
+      "name": "Fiji-class II",
+      "parts": [
+        {
+          "weapon_id": 71162,
+          "bullet_id": 71161,
+          "damage": 22,
+          "bullet_type": "normal",
+          "coeff": 1.25,
+          "scaling": 1.0,
+          "scaling_stat": "fp",
+          "count": 27,
+          "notes": [
+            "burn"
+          ],
+          "proc_percent": 3.0,
+          "buff_id": 311,
+          "light_dmg": 779.625,
+          "med_dmg": 594.0,
+          "heavy_dmg": 334.125,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151210": [
+    {
+      "name": "s2",
+      "parts": [
+        {
+          "weapon_id": 167830,
+          "bullet_id": 167681,
+          "damage": 40,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 24,
+          "notes": [
+            "Priority target",
+            "1 spread",
+            "15 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151212,
+          "light_dmg": 960.0,
+          "med_dmg": 960.0,
+          "heavy_dmg": 960.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 167840,
+          "bullet_id": 167682,
+          "damage": 55,
           "bullet_type": "Torpedo",
           "coeff": 1.0,
           "scaling": 1.0,
@@ -637,1251 +648,26 @@
           "count": 10,
           "notes": [
             "Priority target",
-            "Ignore shields"
+            "1 spread",
+            "15 splash"
           ],
           "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 455.0,
-          "med_dmg": 280.0,
-          "heavy_dmg": 350.0,
+          "buff_id": 151212,
+          "light_dmg": 440.0,
+          "med_dmg": 550.0,
+          "heavy_dmg": 715.0,
           "targetting": 1
         }
       ]
     }
   ],
-  "150992": [
+  "21052": [
     {
-      "name": "Born Adventurer",
+      "name": "aoa",
       "parts": [
         {
-          "weapon_id": 167390,
-          "bullet_id": 161042,
-          "damage": 30,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "TRP",
-          "count": 1,
-          "notes": [
-            "Priority target"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 30.0,
-          "med_dmg": 30.0,
-          "heavy_dmg": 30.0,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "30422": [
-    {
-      "name": "All Out Assault II: Maggiore Baracca",
-      "parts": [
-        {
-          "weapon_id": 170712,
-          "bullet_id": 170711,
-          "damage": 40,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "TRP",
-          "count": 8,
-          "notes": [
-            "Priority target"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 416.0,
-          "med_dmg": 320.0,
-          "heavy_dmg": 256.0,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "801640": [
-    {
-      "name": "Torching Strike",
-      "parts": [
-        {
-          "weapon_id": 167570,
-          "bullet_id": 170711,
-          "damage": 40,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "TRP",
-          "count": 1,
-          "notes": [
-            "Priority target"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 150939,
-          "light_dmg": 416.0,
-          "med_dmg": 320.0,
-          "heavy_dmg": 256.0,
-          "targetting": 1
-        },
-        {
-          "weapon_id": 167580,
-          "bullet_id": 161061,
-          "damage": 300,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 0.8,
-          "scaling_stat": "AVI",
-          "count": 3,
-          "notes": [
-            "25 splash",
-            "burn: 150dmg",
-            "1s/tick",
-            "5.1s"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801645,
-          "light_dmg": 720.0,
-          "med_dmg": 810.0,
-          "heavy_dmg": 990.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "801650": [
-    {
-      "name": "Shadowed Dreams",
-      "parts": [
-        {
-          "weapon_id": 167550,
-          "bullet_id": 161051,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 6,
-          "notes": [
-            "Shrapnel",
-            "Ignore shields",
-            "pierce 50"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801645,
-          "light_dmg": 90.0,
-          "med_dmg": 90.0,
-          "heavy_dmg": 90.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167550,
-          "bullet_id": 161057,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 60,
-          "notes": [
-            "Shrapnel",
-            "Ignore shields",
-            "pierce 2"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801645,
-          "light_dmg": 900.0,
-          "med_dmg": 810.0,
-          "heavy_dmg": 720.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167550,
-          "bullet_id": 161058,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 60,
-          "notes": [
-            "pierce 2"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801645,
-          "light_dmg": 900.0,
-          "med_dmg": 810.0,
-          "heavy_dmg": 720.0,
-          "targetting": 0
-        }
-      ]
-    },
-    {
-      "name": "Shadowed Dreams (enhanced)",
-      "parts": [
-        {
-          "weapon_id": 167550,
-          "bullet_id": 161051,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 6,
-          "notes": [
-            "Shrapnel",
-            "Ignore shields",
-            "pierce 50"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801645,
-          "light_dmg": 90.0,
-          "med_dmg": 90.0,
-          "heavy_dmg": 90.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167550,
-          "bullet_id": 161057,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 60,
-          "notes": [
-            "Shrapnel",
-            "Ignore shields",
-            "pierce 2"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801645,
-          "light_dmg": 900.0,
-          "med_dmg": 810.0,
-          "heavy_dmg": 720.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167550,
-          "bullet_id": 161058,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 60,
-          "notes": [
-            "pierce 2"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801645,
-          "light_dmg": 900.0,
-          "med_dmg": 810.0,
-          "heavy_dmg": 720.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "801653": [
-    {
-      "name": "Shadowed Dreams (enhanced)",
-      "parts": [
-        {
-          "weapon_id": 167560,
-          "bullet_id": 161060,
-          "damage": 15,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 30,
-          "notes": [
-            "Space laser",
-            "homing",
-            "0.1s/tick",
-            "3s duration"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 801645,
-          "light_dmg": 450.0,
-          "med_dmg": 450.0,
-          "heavy_dmg": 450.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "1011561": [
-    {
-      "name": "2,700 Pounds of Justice+",
-      "parts": [
-        {
-          "weapon_id": 167520,
-          "bullet_id": 161048,
-          "damage": 181,
-          "bullet_type": "AP",
-          "coeff": 1.1,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 3,
-          "notes": [
-            "Priority target",
-            "9 spread",
-            "10 splash"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 388.245,
-          "med_dmg": 806.355,
-          "heavy_dmg": 686.895,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "1010261": [
-    {
-      "name": "2,700 Pounds of Justice+",
-      "parts": [
-        {
-          "weapon_id": 167490,
-          "bullet_id": 161044,
-          "damage": 40,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 4,
-          "notes": [
-            "Priority target"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 160.0,
-          "med_dmg": 160.0,
-          "heavy_dmg": 160.0,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "1090401": [
-    {
-      "name": "Full Firepower - Köln (barrage 1)",
-      "parts": [
-        {
-          "weapon_id": 67070,
-          "bullet_id": 19939,
-          "damage": 32,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 22,
-          "notes": [
-            "pierce 1"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 774.4,
-          "med_dmg": 633.6,
-          "heavy_dmg": 422.4,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 67090,
-          "bullet_id": 19940,
-          "damage": 145,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "TRP",
-          "count": 4,
-          "notes": [
-            "pierce 1"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 464.0,
-          "med_dmg": 580.0,
-          "heavy_dmg": 754.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "1090402": [
-    {
-      "name": "barrage 2",
-      "parts": [
-        {
-          "weapon_id": 167130,
-          "bullet_id": 170651,
-          "damage": 20,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 36,
-          "notes": [
-            "Shrapnel",
-            "Ignore shields"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 720.0,
-          "med_dmg": 720.0,
-          "heavy_dmg": 720.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167130,
-          "bullet_id": 170652,
-          "damage": 20,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 36,
-          "notes": [
-            "Reaim",
-            "Ignore shields"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 720.0,
-          "med_dmg": 720.0,
-          "heavy_dmg": 720.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "1090403": [
-    {
-      "name": "barrage 3",
-      "parts": [
-        {
-          "weapon_id": 161070,
-          "bullet_id": 160877,
-          "damage": 35,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 60,
-          "notes": [
-            "Reaim",
-            "Ignore shields"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 2310.0,
-          "med_dmg": 1890.0,
-          "heavy_dmg": 1470.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 161080,
-          "bullet_id": 160878,
-          "damage": 100,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "TRP",
-          "count": 4,
-          "notes": [
-            "Reaim",
-            "Ignore shields"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 280.0,
-          "med_dmg": 360.0,
-          "heavy_dmg": 480.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "1090404": [
-    {
-      "name": "barrage 4",
-      "parts": [
-        {
-          "weapon_id": 167500,
-          "bullet_id": 161045,
-          "damage": 40,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 12,
-          "notes": [
-            "Priority target",
-            "pierce 1"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 480.0,
-          "med_dmg": 480.0,
-          "heavy_dmg": 480.0,
-          "targetting": 1
-        },
-        {
-          "weapon_id": 167500,
-          "bullet_id": 161045,
-          "damage": 40,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 12,
-          "notes": [
-            "Random target",
-            "pierce 1"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 480.0,
-          "med_dmg": 480.0,
-          "heavy_dmg": 480.0,
-          "targetting": 2
-        }
-      ]
-    }
-  ],
-  "1090405": [
-    {
-      "name": "barrage 5",
-      "parts": [
-        {
-          "weapon_id": 69610,
-          "bullet_id": 19157,
-          "damage": 36,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
-          "notes": [
-            "Random target"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 432.0,
-          "med_dmg": 432.0,
-          "heavy_dmg": 432.0,
-          "targetting": 2
-        }
-      ]
-    }
-  ],
-  "1090406": [
-    {
-      "name": "barrage 6",
-      "parts": [
-        {
-          "weapon_id": 64880,
-          "bullet_id": 19381,
-          "damage": 23,
-          "bullet_type": "AP",
-          "coeff": 1.1,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 31,
-          "notes": [
-            "Random target"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 509.795,
-          "med_dmg": 980.375,
-          "heavy_dmg": 509.795,
-          "targetting": 2
-        },
-        {
-          "weapon_id": 64900,
-          "bullet_id": 19382,
-          "damage": 45,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "TRP",
-          "count": 8,
-          "notes": [
-            "Random target"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 288.0,
-          "med_dmg": 360.0,
-          "heavy_dmg": 468.0,
-          "targetting": 2
-        }
-      ]
-    }
-  ],
-  "1090407": [
-    {
-      "name": "barrage 7",
-      "parts": [
-        {
-          "weapon_id": 65520,
-          "bullet_id": 19248,
-          "damage": 22,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 2,
-          "notes": [
-            "Shrapnel",
-            "pierce 99"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 44.0,
-          "med_dmg": 44.0,
-          "heavy_dmg": 44.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 65520,
-          "bullet_id": 19249,
-          "damage": 22,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 52,
-          "notes": [
-            "Shrapnel",
-            "pierce 99"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 1144.0,
-          "med_dmg": 1144.0,
-          "heavy_dmg": 1144.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "1090408": [
-    {
-      "name": "barrage 8",
-      "parts": [
-        {
-          "weapon_id": 167510,
-          "bullet_id": 161046,
-          "damage": 68,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 12,
-          "notes": [
-            "Shrapnel",
-            "Ignore shields",
-            "pierce 50"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 816.0,
-          "med_dmg": 652.8,
-          "heavy_dmg": 652.8,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167510,
-          "bullet_id": 161047,
-          "damage": 68,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 12,
-          "notes": [
-            "Reaim",
-            "Ignore shields"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 816.0,
-          "med_dmg": 652.8,
-          "heavy_dmg": 652.8,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "1090409": [
-    {
-      "name": "barrage 9",
-      "parts": [
-        {
-          "weapon_id": 62350,
-          "bullet_id": 19655,
-          "damage": 40,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 16,
-          "notes": [
-            "Priority target"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 576.0,
-          "med_dmg": 704.0,
-          "heavy_dmg": 640.0,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "1090410": [
-    {
-      "name": "barrage 10",
-      "parts": [
-        {
-          "weapon_id": 64400,
-          "bullet_id": 19322,
-          "damage": 56,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
-          "notes": [
-            "Priority target",
-            "8 spread",
-            "14 splash"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 252.0,
-          "med_dmg": 369.6,
-          "heavy_dmg": 252.0,
-          "targetting": 1
-        },
-        {
-          "weapon_id": 64390,
-          "bullet_id": 19321,
-          "damage": 40,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 12,
-          "notes": [
-            "Priority target",
-            "8 spread",
-            "14 splash"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 360.0,
-          "med_dmg": 528.0,
-          "heavy_dmg": 360.0,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "1013023": [
-    {
-      "name": "Lod Obstrel+",
-      "parts": [
-        {
-          "weapon_id": 69070,
-          "bullet_id": 19096,
-          "damage": 170,
-          "bullet_type": "AP",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 9,
-          "notes": [
-            "20 spread",
-            "16 splash"
-          ],
-          "proc_percent": 20.0,
-          "buff_id": 400,
-          "light_dmg": 612.0,
-          "med_dmg": 1836.0,
-          "heavy_dmg": 1912.5,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 69090,
-          "bullet_id": 19102,
-          "damage": 56,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 3,
-          "notes": [
-            "14 splash",
-            "flood 23dmg",
-            "1 tick",
-            "40% slow"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 134.4,
-          "med_dmg": 151.2,
-          "heavy_dmg": 184.8,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 69100,
-          "bullet_id": 19101,
-          "damage": 56,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 2,
-          "notes": [
-            "14 splash",
-            "flood 23dmg",
-            "1 tick",
-            "40% slow"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 89.6,
-          "med_dmg": 100.8,
-          "heavy_dmg": 123.2,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 69110,
-          "bullet_id": 19102,
-          "damage": 56,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 3,
-          "notes": [
-            "14 splash",
-            "flood 23dmg",
-            "1 tick",
-            "40% slow"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 134.4,
-          "med_dmg": 151.2,
-          "heavy_dmg": 184.8,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 69120,
-          "bullet_id": 19097,
-          "damage": 20,
-          "bullet_type": "HE",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 20,
-          "notes": [
-            "14 splash",
-            "flood 23dmg",
-            "1 tick",
-            "40% slow"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 480.0,
-          "med_dmg": 240.0,
-          "heavy_dmg": 240.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "1010962": [
-    {
-      "name": "Lod Obstrel+",
-      "parts": [
-        {
-          "weapon_id": 167530,
-          "bullet_id": 161049,
-          "damage": 20,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 32,
-          "notes": [
-            "14 splash",
-            "flood 23dmg",
-            "1 tick",
-            "40% slow"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 640.0,
-          "med_dmg": 576.0,
-          "heavy_dmg": 320.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167540,
-          "bullet_id": 161050,
-          "damage": 66,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "TRP",
-          "count": 9,
-          "notes": [
-            "14 splash",
-            "flood 23dmg",
-            "1 tick",
-            "40% slow"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 475.2,
-          "med_dmg": 594.0,
-          "heavy_dmg": 772.2,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "151030": [
-    {
-      "name": "Glorious Advance",
-      "parts": [
-        {
-          "weapon_id": 167590,
-          "bullet_id": 165503,
-          "damage": 35,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 16,
-          "notes": [
-            "Priority target"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 560.0,
-          "med_dmg": 560.0,
-          "heavy_dmg": 560.0,
-          "targetting": 1
-        }
-      ]
-    },
-    {
-      "name": "Glorious Advance (flare)",
-      "parts": [
-        {
-          "weapon_id": 902,
-          "bullet_id": 903,
-          "damage": 39,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 1,
-          "notes": [
-            "Nearest target",
-            "Shrapnel",
-            "pierce 50"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 560.0,
-          "med_dmg": 560.0,
-          "heavy_dmg": 560.0,
-          "targetting": 3
-        },
-        {
-          "weapon_id": 902,
-          "bullet_id": 904,
-          "damage": 39,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 1,
-          "notes": [
-            "Nearest target",
-            "30 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 5040,
-          "light_dmg": 560.0,
-          "med_dmg": 560.0,
-          "heavy_dmg": 560.0,
-          "targetting": 3
-        }
-      ]
-    }
-  ],
-  "30432": [
-    {
-      "name": "All Out Assault II: Santa Fe",
-      "parts": [
-        {
-          "weapon_id": 170722,
-          "bullet_id": 170717,
-          "damage": 35,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 36,
-          "notes": [
-            "Nearest target",
-            "30 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 5040,
-          "light_dmg": 1260.0,
-          "med_dmg": 1260.0,
-          "heavy_dmg": 1260.0,
-          "targetting": 3
-        }
-      ]
-    }
-  ],
-  "151061": [
-    {
-      "name": "BIG BEN",
-      "parts": [
-        {
-          "weapon_id": 167600,
-          "bullet_id": 170717,
-          "damage": 35,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 2,
-          "notes": [
-            "Nearest target",
-            "30 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 5040,
-          "light_dmg": 1260.0,
-          "med_dmg": 1260.0,
-          "heavy_dmg": 1260.0,
-          "targetting": 3
-        },
-        {
-          "weapon_id": 167610,
-          "bullet_id": 170712,
-          "damage": 380,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 2,
-          "notes": [
-            "42 spread",
-            "28 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 5040,
-          "light_dmg": 532.0,
-          "med_dmg": 798.0,
-          "heavy_dmg": 950.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167620,
-          "bullet_id": 170713,
-          "damage": 220,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 0.8,
-          "scaling_stat": "AVI",
-          "count": 4,
-          "notes": [
-            "36 spread",
-            "19 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 5040,
-          "light_dmg": 704.0,
-          "med_dmg": 792.0,
-          "heavy_dmg": 968.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167630,
-          "bullet_id": 170713,
-          "damage": 220,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 0.8,
-          "scaling_stat": "AVI",
-          "count": 1,
-          "notes": [
-            "36 spread",
-            "19 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 5040,
-          "light_dmg": 704.0,
-          "med_dmg": 792.0,
-          "heavy_dmg": 968.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167640,
-          "bullet_id": 170714,
-          "damage": 301,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 3,
-          "notes": [
-            "flood: 0.3x avi +20",
-            "3s/tick",
-            "15.1s duration"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 151069,
-          "light_dmg": 722.4,
-          "med_dmg": 993.3,
-          "heavy_dmg": 1173.9,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "151062": [
-    {
-      "name": "BIG BEN (enhanced)",
-      "parts": [
-        {
-          "weapon_id": 167600,
-          "bullet_id": 170714,
-          "damage": 301,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 2,
-          "notes": [
-            "flood: 0.3x avi +20",
-            "3s/tick",
-            "15.1s duration"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 151069,
-          "light_dmg": 722.4,
-          "med_dmg": 993.3,
-          "heavy_dmg": 1173.9,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167610,
-          "bullet_id": 170712,
-          "damage": 380,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 2,
-          "notes": [
-            "42 spread",
-            "28 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 151069,
-          "light_dmg": 532.0,
-          "med_dmg": 798.0,
-          "heavy_dmg": 950.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167620,
-          "bullet_id": 170713,
-          "damage": 220,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 0.8,
-          "scaling_stat": "AVI",
-          "count": 4,
-          "notes": [
-            "36 spread",
-            "19 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 151069,
-          "light_dmg": 704.0,
-          "med_dmg": 792.0,
-          "heavy_dmg": 968.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167650,
-          "bullet_id": 170713,
-          "damage": 220,
-          "bullet_type": "Bomb",
-          "coeff": 1.0,
-          "scaling": 0.8,
-          "scaling_stat": "AVI",
-          "count": 3,
-          "notes": [
-            "36 spread",
-            "19 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 151069,
-          "light_dmg": 704.0,
-          "med_dmg": 792.0,
-          "heavy_dmg": 968.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167640,
-          "bullet_id": 170714,
-          "damage": 301,
-          "bullet_type": "Torpedo",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "AVI",
-          "count": 9,
-          "notes": [
-            "flood: 0.3x avi +20",
-            "3s/tick",
-            "15.1s duration"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 151069,
-          "light_dmg": 2167.2,
-          "med_dmg": 2979.9,
-          "heavy_dmg": 3521.7,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "20042": [
-    {
-      "name": "All Out Assault II: Fletcher Class",
-      "parts": [
-        {
-          "weapon_id": 70042,
-          "bullet_id": 1102,
+          "weapon_id": 71052,
+          "bullet_id": 71051,
           "damage": 10,
           "bullet_type": "Normal",
           "coeff": 1.25,
@@ -1889,25 +675,25 @@
           "scaling_stat": "FP",
           "count": 20,
           "notes": [
-            "flood: 0.3x avi +20",
-            "3s/tick",
-            "15.1s duration"
+            "Priority target",
+            "1 spread",
+            "15 splash"
           ],
           "proc_percent": 100.0,
-          "buff_id": 151069,
+          "buff_id": 151212,
           "light_dmg": 250.0,
-          "med_dmg": 187.5,
-          "heavy_dmg": 100.0,
-          "targetting": 0
+          "med_dmg": 200.0,
+          "heavy_dmg": 150.0,
+          "targetting": 1
         }
       ]
     },
     {
-      "name": "Fletcher-class II",
+      "name": "G-class II",
       "parts": [
         {
-          "weapon_id": 70042,
-          "bullet_id": 1102,
+          "weapon_id": 71052,
+          "bullet_id": 71051,
           "damage": 10,
           "bullet_type": "normal",
           "coeff": 1.25,
@@ -1920,49 +706,75 @@
           "proc_percent": 1.0,
           "buff_id": 311,
           "light_dmg": 250.0,
-          "med_dmg": 187.5,
-          "heavy_dmg": 100.0,
+          "med_dmg": 200.0,
+          "heavy_dmg": 150.0,
           "targetting": 0
         }
       ]
     }
   ],
-  "801680": [
+  "151193": [
     {
-      "name": "Threat Elimination Order",
+      "name": "retro",
       "parts": [
         {
-          "weapon_id": 167660,
-          "bullet_id": 167651,
-          "damage": 200,
-          "bullet_type": "HE",
+          "weapon_id": 167960,
+          "bullet_id": 167951,
+          "damage": 280,
+          "bullet_type": "Torpedo",
           "coeff": 1.0,
           "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
+          "scaling_stat": "TRP",
+          "count": 1,
           "notes": [
-            "Priority target",
-            "19 spread",
-            "15 splash"
+            "10 splash"
           ],
-          "proc_percent": 50.0,
-          "buff_id": 311,
-          "light_dmg": 1680.0,
-          "med_dmg": 1320.0,
-          "heavy_dmg": 1080.0,
-          "targetting": 1
+          "proc_percent": 100.0,
+          "buff_id": 151212,
+          "light_dmg": 224.0,
+          "med_dmg": 280.0,
+          "heavy_dmg": 364.0,
+          "targetting": 0
         }
       ]
     }
   ],
-  "1011153": [
+  "151151": [
     {
-      "name": "Counterattack of the Barents Sea+",
+      "name": "To My Abyssal Kingdom!",
       "parts": [
         {
-          "weapon_id": 167670,
-          "bullet_id": 165504,
-          "damage": 120,
+          "weapon_id": 168030,
+          "bullet_id": 161114,
+          "damage": 75,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 2,
+          "notes": [
+            "Ignore shields",
+            "pierce 99",
+            "Standard AB"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 401,
+          "light_dmg": 150.0,
+          "med_dmg": 150.0,
+          "heavy_dmg": 150.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151161": [
+    {
+      "name": "Sweet-Toothed Awful Jawful",
+      "parts": [
+        {
+          "weapon_id": 168020,
+          "bullet_id": 161132,
+          "damage": 30,
           "bullet_type": "AP",
           "coeff": 1.0,
           "scaling": 1.0,
@@ -1970,412 +782,460 @@
           "count": 6,
           "notes": [
             "Priority target",
-            "Ignore shields",
-            "pierce 99"
+            "8 spread",
+            "14 splash"
           ],
-          "proc_percent": 50.0,
+          "proc_percent": 100.0,
+          "buff_id": 151169,
+          "light_dmg": 135.0,
+          "med_dmg": 198.0,
+          "heavy_dmg": 135.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 168040,
+          "bullet_id": 161123,
+          "damage": 22,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 12,
+          "notes": [
+            "Priority target",
+            "8 spread",
+            "14 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151169,
+          "light_dmg": 198.0,
+          "med_dmg": 290.4,
+          "heavy_dmg": 198.0,
+          "targetting": 1
+        }
+      ]
+    },
+    {
+      "name": "Ghost Gun",
+      "parts": [
+        {
+          "weapon_id": 180001,
+          "bullet_id": 161111,
+          "damage": 15,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 4,
+          "notes": [
+            "45% slot eff",
+            "2.32s rld"
+          ],
+          "proc_percent": 8.0,
           "buff_id": 311,
-          "light_dmg": 720.0,
-          "med_dmg": 720.0,
-          "heavy_dmg": 720.0,
+          "light_dmg": 66.0,
+          "med_dmg": 54.0,
+          "heavy_dmg": 36.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "112013": [
+    {
+      "name": "s1",
+      "parts": [
+        {
+          "weapon_id": 167940,
+          "bullet_id": 167931,
+          "damage": 180,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Priority target",
+            "16 spread",
+            "15 splash"
+          ],
+          "proc_percent": 8.0,
+          "buff_id": 311,
+          "light_dmg": 972.0,
+          "med_dmg": 1404.0,
+          "heavy_dmg": 1188.0,
           "targetting": 1
         }
       ]
     }
   ],
-  "151080": [
+  "112051": [
     {
       "name": "s1",
       "parts": [
         {
-          "weapon_id": 167730,
-          "bullet_id": 161062,
-          "damage": 55,
-          "bullet_type": "Normal",
+          "weapon_id": 168050,
+          "bullet_id": 167931,
+          "damage": 180,
+          "bullet_type": "AP",
           "coeff": 1.0,
           "scaling": 1.0,
           "scaling_stat": "FP",
           "count": 3,
           "notes": [
             "Priority target",
-            "Shrapnel",
-            "pierce 99"
+            "16 spread",
+            "15 splash"
           ],
-          "proc_percent": 50.0,
+          "proc_percent": 8.0,
           "buff_id": 311,
-          "light_dmg": 330.0,
-          "med_dmg": 330.0,
-          "heavy_dmg": 330.0,
+          "light_dmg": 972.0,
+          "med_dmg": 1404.0,
+          "heavy_dmg": 1188.0,
           "targetting": 1
         },
         {
-          "weapon_id": 167730,
-          "bullet_id": 161063,
-          "damage": 55,
-          "bullet_type": "Normal",
+          "weapon_id": 168060,
+          "bullet_id": 167961,
+          "damage": 300,
+          "bullet_type": "Torpedo",
           "coeff": 1.0,
           "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 72,
+          "scaling_stat": "AVI",
+          "count": 6,
           "notes": [
-            "Priority target"
+            "Priority target",
+            "16 spread",
+            "15 splash"
           ],
-          "proc_percent": 50.0,
-          "buff_id": 311,
-          "light_dmg": 3960.0,
-          "med_dmg": 3960.0,
-          "heavy_dmg": 3960.0,
+          "proc_percent": 100.0,
+          "buff_id": 112059,
+          "light_dmg": 1440.0,
+          "med_dmg": 1980.0,
+          "heavy_dmg": 2340.0,
           "targetting": 1
         }
       ]
     }
   ],
-  "151091": [
+  "112062": [
     {
       "name": "s2",
       "parts": [
         {
-          "weapon_id": 167740,
-          "bullet_id": 161064,
-          "damage": 25,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 60,
-          "notes": [
-            "Priority target"
-          ],
-          "proc_percent": 50.0,
-          "buff_id": 311,
-          "light_dmg": 1500.0,
-          "med_dmg": 1500.0,
-          "heavy_dmg": 1500.0,
-          "targetting": 1
-        }
-      ]
-    }
-  ],
-  "30442": [
-    {
-      "name": "s3",
-      "parts": [
-        {
-          "weapon_id": 170742,
-          "bullet_id": 161065,
-          "damage": 30,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 4,
-          "notes": [
-            "Shrapnel",
-            "pierce 99"
-          ],
-          "proc_percent": 50.0,
-          "buff_id": 311,
-          "light_dmg": 120.0,
-          "med_dmg": 120.0,
-          "heavy_dmg": 120.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 170742,
-          "bullet_id": 161067,
-          "damage": 30,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 12,
-          "notes": [
-            "Reaim"
-          ],
-          "proc_percent": 50.0,
-          "buff_id": 311,
-          "light_dmg": 360.0,
-          "med_dmg": 360.0,
-          "heavy_dmg": 360.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "250012": [
-    {
-      "name": "s3",
-      "parts": [
-        {
-          "weapon_id": 170732,
-          "bullet_id": 170715,
-          "damage": 20,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 22,
-          "notes": [
-            "Reaim"
-          ],
-          "proc_percent": 50.0,
-          "buff_id": 311,
-          "light_dmg": 440.0,
-          "med_dmg": 440.0,
-          "heavy_dmg": 440.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "151120": [
-    {
-      "name": "s1",
-      "parts": [
-        {
-          "weapon_id": 167750,
-          "bullet_id": 170718,
-          "damage": 150,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
-          "notes": [
-            "10 spread",
-            "16 splash",
-            "40% slow 4s",
-            "flood: 23 dmg"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 900.0,
-          "med_dmg": 900.0,
-          "heavy_dmg": 900.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167760,
-          "bullet_id": 170718,
-          "damage": 150,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 6,
-          "notes": [
-            "10 spread",
-            "16 splash",
-            "40% slow 4s",
-            "flood: 23 dmg"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 900.0,
-          "med_dmg": 900.0,
-          "heavy_dmg": 900.0,
-          "targetting": 0
-        },
-        {
-          "weapon_id": 167770,
-          "bullet_id": 170719,
-          "damage": 70,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 24,
-          "notes": [
-            "40% slow 4s",
-            "flood: 23 dmg"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 1680.0,
-          "med_dmg": 1680.0,
-          "heavy_dmg": 1680.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "151102": [
-    {
-      "name": "s1",
-      "parts": [
-        {
-          "weapon_id": 167690,
-          "bullet_id": 165505,
-          "damage": 15,
+          "weapon_id": 168070,
+          "bullet_id": 167962,
+          "damage": 240,
           "bullet_type": "HE",
           "coeff": 1.0,
           "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 60,
+          "scaling_stat": "AVI",
+          "count": 1,
           "notes": [
-            "40% slow 4s",
-            "flood: 23 dmg"
+            "Priority target",
+            "Shrapnel"
           ],
           "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 900.0,
-          "med_dmg": 900.0,
-          "heavy_dmg": 900.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "151115": [
-    {
-      "name": "s2 (1/4 proc)",
-      "parts": [
+          "buff_id": 112072,
+          "light_dmg": 0,
+          "med_dmg": 0,
+          "heavy_dmg": 0,
+          "targetting": 1
+        },
         {
-          "weapon_id": 167700,
-          "bullet_id": 165506,
-          "damage": 550,
+          "weapon_id": 168070,
+          "bullet_id": 167963,
+          "damage": 240,
           "bullet_type": "Torpedo",
           "coeff": 1.0,
           "scaling": 1.0,
-          "scaling_stat": "FP",
+          "scaling_stat": "AVI",
           "count": 1,
           "notes": [
-            "40% slow 4s",
-            "flood: 23 dmg"
+            "Priority target",
+            "30 splash"
           ],
           "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 440.0,
-          "med_dmg": 550.0,
-          "heavy_dmg": 715.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "151114": [
-    {
-      "name": "s2 (1/4 proc)",
-      "parts": [
+          "buff_id": 112072,
+          "light_dmg": 360.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 360.0,
+          "targetting": 1
+        },
         {
-          "weapon_id": 167710,
-          "bullet_id": 165507,
-          "damage": 36,
+          "weapon_id": 168070,
+          "bullet_id": 167964,
+          "damage": 240,
           "bullet_type": "HE",
           "coeff": 1.0,
           "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 16,
+          "scaling_stat": "AVI",
+          "count": 1,
           "notes": [
-            "Priority target"
+            "Priority target",
+            "pierce 99"
           ],
           "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 576.0,
-          "med_dmg": 576.0,
-          "heavy_dmg": 576.0,
+          "buff_id": 112072,
+          "light_dmg": 360.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 360.0,
           "targetting": 1
         }
       ]
     }
   ],
-  "151113": [
+  "112071": [
     {
-      "name": "s2 (1/4 proc)",
+      "name": "s2+ (20s)",
       "parts": [
         {
-          "weapon_id": 167720,
-          "bullet_id": 165508,
-          "damage": 600,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 1,
-          "notes": [
-            "60 splash"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 600.0,
-          "med_dmg": 600.0,
-          "heavy_dmg": 600.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "151111": [
-    {
-      "name": "s2 (1/4 proc)",
-      "parts": [
-        {
-          "weapon_id": 167720,
-          "bullet_id": 165508,
-          "damage": 600,
-          "bullet_type": "Normal",
-          "coeff": 1.0,
-          "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 1,
-          "notes": [
-            "5% self heal"
-          ],
-          "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 600.0,
-          "med_dmg": 600.0,
-          "heavy_dmg": 600.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "26112": [
-    {
-      "name": "s3",
-      "parts": [
-        {
-          "weapon_id": 76112,
-          "bullet_id": 76111,
-          "damage": 25,
+          "weapon_id": 168100,
+          "bullet_id": 167964,
+          "damage": 240,
           "bullet_type": "HE",
-          "coeff": 1.25,
+          "coeff": 1.0,
           "scaling": 1.0,
-          "scaling_stat": "FP",
-          "count": 10,
+          "scaling_stat": "AVI",
+          "count": 2,
           "notes": [
-            "5% self heal"
+            "Priority target",
+            "pierce 99"
           ],
           "proc_percent": 100.0,
-          "buff_id": 323,
-          "light_dmg": 312.5,
-          "med_dmg": 250.0,
-          "heavy_dmg": 187.5,
+          "buff_id": 112072,
+          "light_dmg": 360.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 360.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 168110,
+          "bullet_id": 167965,
+          "damage": 200,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 6,
+          "notes": [
+            "Priority target",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 112079,
+          "light_dmg": 960.0,
+          "med_dmg": 1320.0,
+          "heavy_dmg": 1560.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "112072": [
+    {
+      "name": "s2+ (10s)",
+      "parts": [
+        {
+          "weapon_id": 168070,
+          "bullet_id": 167962,
+          "damage": 240,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 1,
+          "notes": [
+            "Priority target",
+            "Shrapnel"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 112072,
+          "light_dmg": 960.0,
+          "med_dmg": 1320.0,
+          "heavy_dmg": 1560.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 168070,
+          "bullet_id": 167963,
+          "damage": 240,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 1,
+          "notes": [
+            "Priority target",
+            "30 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 112072,
+          "light_dmg": 360.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 360.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 168070,
+          "bullet_id": 167964,
+          "damage": 240,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 1,
+          "notes": [
+            "Priority target",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 112072,
+          "light_dmg": 360.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 360.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "801800": [
+    {
+      "name": "s1",
+      "parts": [
+        {
+          "weapon_id": 168140,
+          "bullet_id": 167696,
+          "damage": 115,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 2,
+          "notes": [
+            "Random target",
+            "Ignore shields",
+            "pierce 1",
+            "burn: 100dmg",
+            "1 tick/s",
+            "5s",
+            "30% slow 5s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801805,
+          "light_dmg": 264.5,
+          "med_dmg": 264.5,
+          "heavy_dmg": 264.5,
+          "targetting": 2
+        }
+      ]
+    }
+  ],
+  "801801": [
+    {
+      "name": "s1 (on hit)",
+      "parts": [
+        {
+          "weapon_id": 168150,
+          "bullet_id": 167698,
+          "damage": 55,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 8,
+          "notes": [
+            "Ignore shields",
+            "pierce 1",
+            "burn: 100dmg",
+            "1 tick/s",
+            "5s",
+            "30% slow 5s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801805,
+          "light_dmg": 506.0,
+          "med_dmg": 506.0,
+          "heavy_dmg": 506.0,
           "targetting": 0
         }
       ]
-    },
+    }
+  ],
+  "801832": [
     {
-      "name": "Bogatyr-class II",
+      "name": "aoa",
       "parts": [
         {
-          "weapon_id": 76112,
-          "bullet_id": 76111,
-          "damage": 25,
-          "bullet_type": "he",
-          "coeff": 1.25,
+          "weapon_id": 170792,
+          "bullet_id": 170791,
+          "damage": 20,
+          "bullet_type": "HE",
+          "coeff": 1.0,
           "scaling": 1.0,
-          "scaling_stat": "fp",
-          "count": 10,
+          "scaling_stat": "FP",
+          "count": 20,
           "notes": [
-            "burn"
+            "Ignore shields",
+            "pierce 1",
+            "burn: 100dmg",
+            "1 tick/s",
+            "5s",
+            "30% slow 5s"
           ],
-          "proc_percent": 3.0,
-          "buff_id": 311,
-          "light_dmg": 312.5,
-          "med_dmg": 250.0,
-          "heavy_dmg": 187.5,
+          "proc_percent": 100.0,
+          "buff_id": 801805,
+          "light_dmg": 460.0,
+          "med_dmg": 460.0,
+          "heavy_dmg": 460.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "801810": [
+    {
+      "name": "summon",
+      "parts": [
+        {
+          "weapon_id": 170792,
+          "bullet_id": 170791,
+          "damage": 20,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 20,
+          "notes": [
+            "1000 hp",
+            "50% eva",
+            "100% all other stats",
+            "light armor"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801805,
+          "light_dmg": 460.0,
+          "med_dmg": 460.0,
+          "heavy_dmg": 460.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 180002,
+          "bullet_id": 170792,
+          "damage": 35,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 4,
+          "notes": [
+            "1.99s rld"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801805,
+          "light_dmg": 161.0,
+          "med_dmg": 161.0,
+          "heavy_dmg": 161.0,
           "targetting": 0
         }
       ]
@@ -5488,7 +4348,7 @@
             "Priority target",
             "spread 9",
             "splash 13",
-            "armor break 5%\n              8s",
+            "armor break 5% 8s",
             ". 13 velo"
           ],
           "proc_percent": 50.0,
@@ -7335,7 +6195,7 @@
             "AB 5%",
             "8s (L/M)",
             "AB 10%",
-            "8s\n              (H)"
+            "8s (H)"
           ],
           "proc_percent": 100.0,
           "buff_id": 525,
@@ -7394,7 +6254,7 @@
             "amp 5%",
             "8s (L/M)",
             "amp 10%",
-            "8s\n              (H)"
+            "8s (H)"
           ],
           "proc_percent": 100.0,
           "buff_id": 525,
@@ -7453,7 +6313,7 @@
             "amp 5%",
             "8s (L/M)",
             "amp 10%",
-            "8s\n              (H)"
+            "8s (H)"
           ],
           "proc_percent": 100.0,
           "buff_id": 525,
@@ -9740,7 +8600,7 @@
             "16 spread",
             "15 splash",
             "burn: 410 dmg",
-            "15.1s/ 3s\n              ticks"
+            "15.1s/ 3s ticks"
           ],
           "proc_percent": 100.0,
           "buff_id": 19869,
@@ -9789,7 +8649,7 @@
             "16 spread",
             "15 splash",
             "burn: 410 dmg",
-            "15.1s/ 3s\n              ticks"
+            "15.1s/ 3s ticks"
           ],
           "proc_percent": 100.0,
           "buff_id": 19869,
@@ -10646,6 +9506,430 @@
           "med_dmg": 2688.0,
           "heavy_dmg": 2688.0,
           "targetting": 0
+        }
+      ]
+    }
+  ],
+  "150960": [
+    {
+      "name": "Apex Artist",
+      "parts": [
+        {
+          "weapon_id": 167430,
+          "bullet_id": 167422,
+          "damage": 32,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 64,
+          "notes": [
+            "pierce 1"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 2048.0,
+          "med_dmg": 2355.2,
+          "heavy_dmg": 1843.2,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167440,
+          "bullet_id": 167423,
+          "damage": 141,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "Priority target",
+            "15 spread",
+            "20 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 423.0,
+          "med_dmg": 486.45,
+          "heavy_dmg": 380.7,
+          "targetting": 1
+        }
+      ]
+    },
+    {
+      "name": "Apex Artist (Black)",
+      "parts": [
+        {
+          "weapon_id": 167430,
+          "bullet_id": 167422,
+          "damage": 32,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 64,
+          "notes": [
+            "pierce 1",
+            "50% crit"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 2048.0,
+          "med_dmg": 2355.2,
+          "heavy_dmg": 1843.2,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167440,
+          "bullet_id": 167423,
+          "damage": 141,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "Priority target",
+            "15 spread",
+            "20 splash",
+            "50% crit"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 423.0,
+          "med_dmg": 486.45,
+          "heavy_dmg": 380.7,
+          "targetting": 1
+        }
+      ]
+    },
+    {
+      "name": "Apex Artist (Black + White)",
+      "parts": [
+        {
+          "weapon_id": 167430,
+          "bullet_id": 167422,
+          "damage": 32,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 64,
+          "notes": [
+            "pierce 1",
+            "+50% crit",
+            "+20% crit dmg"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 2048.0,
+          "med_dmg": 2355.2,
+          "heavy_dmg": 1843.2,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167440,
+          "bullet_id": 167423,
+          "damage": 141,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "Priority target",
+            "15 spread",
+            "20 splash",
+            "+50% crit",
+            "+20% crit dmg"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 423.0,
+          "med_dmg": 486.45,
+          "heavy_dmg": 380.7,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "150964": [
+    {
+      "name": "Apex Artist (Black)",
+      "parts": [
+        {
+          "weapon_id": 167450,
+          "bullet_id": 167424,
+          "damage": 141,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 4,
+          "notes": [
+            "Target Debuff > Random",
+            "15 spread",
+            "20 splash",
+            "+50% crit"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 564.0,
+          "med_dmg": 648.6,
+          "heavy_dmg": 507.6,
+          "targetting": 4
+        }
+      ]
+    }
+  ],
+  "150963": [
+    {
+      "name": "Apex Artist (Black + White)",
+      "parts": [
+        {
+          "weapon_id": 167450,
+          "bullet_id": 167424,
+          "damage": 141,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Target Debuff > Random",
+            "15 spread",
+            "20 splash",
+            "+50% crit",
+            "+20% crit dmg"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 846.0,
+          "med_dmg": 972.9,
+          "heavy_dmg": 761.4,
+          "targetting": 4
+        }
+      ]
+    }
+  ],
+  "150968": [
+    {
+      "name": "Apex Artist (crossfleet)",
+      "parts": [
+        {
+          "weapon_id": 167450,
+          "bullet_id": 167424,
+          "damage": 141,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Priority Target",
+            "15 spread",
+            "20 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801462,
+          "light_dmg": 846.0,
+          "med_dmg": 972.9,
+          "heavy_dmg": 761.4,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "801600": [
+    {
+      "name": "Shadow of Eternal Night (on fire)",
+      "parts": [
+        {
+          "weapon_id": 167400,
+          "bullet_id": 167400,
+          "damage": 210,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Priority target",
+            "19 spread",
+            "15 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801608,
+          "light_dmg": 1764.0,
+          "med_dmg": 1386.0,
+          "heavy_dmg": 1134.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 167410,
+          "bullet_id": 167410,
+          "damage": 35,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 44,
+          "notes": [
+            "Priority target",
+            "19 spread",
+            "15 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801608,
+          "light_dmg": 1694.0,
+          "med_dmg": 1540.0,
+          "heavy_dmg": 1386.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "801602": [
+    {
+      "name": "Shadow of Eternal Night (proximity)",
+      "parts": [
+        {
+          "weapon_id": 167460,
+          "bullet_id": 167451,
+          "damage": 30,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 32,
+          "notes": [
+            "70 proximity"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801608,
+          "light_dmg": 960.0,
+          "med_dmg": 960.0,
+          "heavy_dmg": 960.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167470,
+          "bullet_id": 167461,
+          "damage": 60,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 4,
+          "notes": [
+            "70 proximity",
+            "Ignore shields"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801608,
+          "light_dmg": 264.0,
+          "med_dmg": 240.0,
+          "heavy_dmg": 216.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151120": [
+    {
+      "name": "Raging Polar Bear of the Distant Sea",
+      "parts": [
+        {
+          "weapon_id": 167750,
+          "bullet_id": 170718,
+          "damage": 150,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "10 spread",
+            "16 splash",
+            "40% slow 4s",
+            "flood: 23 dmg"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 900.0,
+          "med_dmg": 900.0,
+          "heavy_dmg": 900.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167760,
+          "bullet_id": 170718,
+          "damage": 150,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "10 spread",
+            "16 splash",
+            "40% slow 4s",
+            "flood: 23 dmg"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 900.0,
+          "med_dmg": 900.0,
+          "heavy_dmg": 900.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167770,
+          "bullet_id": 170719,
+          "damage": 70,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 24,
+          "notes": [
+            "40% slow 4s",
+            "flood: 23 dmg"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 1680.0,
+          "med_dmg": 1680.0,
+          "heavy_dmg": 1680.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "801680": [
+    {
+      "name": "Threat Elimination Order",
+      "parts": [
+        {
+          "weapon_id": 167660,
+          "bullet_id": 167651,
+          "damage": 200,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Priority target",
+            "19 spread",
+            "15 splash"
+          ],
+          "proc_percent": 50.0,
+          "buff_id": 311,
+          "light_dmg": 1680.0,
+          "med_dmg": 1320.0,
+          "heavy_dmg": 1080.0,
+          "targetting": 1
         }
       ]
     }
@@ -11914,7 +11198,7 @@
             "Priority target",
             "Ignore shields",
             "-8% AA debuff",
-            "buff dd/hms 10%\n              hunter"
+            "buff dd/hms 10% hunter"
           ],
           "proc_percent": 100.0,
           "buff_id": 355,
@@ -19566,7 +18850,7 @@
             "Shrapnel",
             "Ignore shields",
             "pierce 50",
-            "burn 130\n              dmg",
+            "burn 130 dmg",
             "2s/tick",
             "8.1s"
           ],
@@ -19924,6 +19208,435 @@
           "light_dmg": 849.6,
           "med_dmg": 955.8,
           "heavy_dmg": 1168.2,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "801640": [
+    {
+      "name": "Torching Strike",
+      "parts": [
+        {
+          "weapon_id": 167570,
+          "bullet_id": 167251,
+          "damage": 354,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 1,
+          "notes": [
+            "36 spread",
+            "18 splash",
+            "20% slow 10s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150859,
+          "light_dmg": 849.6,
+          "med_dmg": 955.8,
+          "heavy_dmg": 1168.2,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167580,
+          "bullet_id": 161061,
+          "damage": 300,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 0.8,
+          "scaling_stat": "AVI",
+          "count": 3,
+          "notes": [
+            "25 splash",
+            "burn: 150dmg",
+            "1s/tick",
+            "5.1s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 720.0,
+          "med_dmg": 810.0,
+          "heavy_dmg": 990.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "801650": [
+    {
+      "name": "Shadowed Dreams",
+      "parts": [
+        {
+          "weapon_id": 167550,
+          "bullet_id": 161051,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 6,
+          "notes": [
+            "Shrapnel",
+            "Ignore shields",
+            "pierce 50"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 90.0,
+          "med_dmg": 90.0,
+          "heavy_dmg": 90.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167550,
+          "bullet_id": 161057,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 60,
+          "notes": [
+            "Shrapnel",
+            "Ignore shields",
+            "pierce 2"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 900.0,
+          "med_dmg": 810.0,
+          "heavy_dmg": 720.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167550,
+          "bullet_id": 161058,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 60,
+          "notes": [
+            "pierce 2"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 900.0,
+          "med_dmg": 810.0,
+          "heavy_dmg": 720.0,
+          "targetting": 0
+        }
+      ]
+    },
+    {
+      "name": "Shadowed Dreams (enhanced)",
+      "parts": [
+        {
+          "weapon_id": 167550,
+          "bullet_id": 161051,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 6,
+          "notes": [
+            "Shrapnel",
+            "Ignore shields",
+            "pierce 50"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 90.0,
+          "med_dmg": 90.0,
+          "heavy_dmg": 90.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167550,
+          "bullet_id": 161057,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 60,
+          "notes": [
+            "Shrapnel",
+            "Ignore shields",
+            "pierce 2"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 900.0,
+          "med_dmg": 810.0,
+          "heavy_dmg": 720.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167550,
+          "bullet_id": 161058,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 60,
+          "notes": [
+            "pierce 2"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 900.0,
+          "med_dmg": 810.0,
+          "heavy_dmg": 720.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "801653": [
+    {
+      "name": "Shadowed Dreams (enhanced)",
+      "parts": [
+        {
+          "weapon_id": 167560,
+          "bullet_id": 161060,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 30,
+          "notes": [
+            "Space laser",
+            "homing",
+            "0.1s/tick",
+            "3s duration"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 450.0,
+          "med_dmg": 450.0,
+          "heavy_dmg": 450.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151061": [
+    {
+      "name": "BIG BEN",
+      "parts": [
+        {
+          "weapon_id": 167600,
+          "bullet_id": 161058,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 2,
+          "notes": [
+            "pierce 2"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 900.0,
+          "med_dmg": 810.0,
+          "heavy_dmg": 720.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167610,
+          "bullet_id": 170712,
+          "damage": 380,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 2,
+          "notes": [
+            "42 spread",
+            "28 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 532.0,
+          "med_dmg": 798.0,
+          "heavy_dmg": 950.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167620,
+          "bullet_id": 170713,
+          "damage": 220,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 0.8,
+          "scaling_stat": "AVI",
+          "count": 4,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 704.0,
+          "med_dmg": 792.0,
+          "heavy_dmg": 968.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167630,
+          "bullet_id": 170713,
+          "damage": 220,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 0.8,
+          "scaling_stat": "AVI",
+          "count": 1,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 801645,
+          "light_dmg": 704.0,
+          "med_dmg": 792.0,
+          "heavy_dmg": 968.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167640,
+          "bullet_id": 170714,
+          "damage": 301,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 3,
+          "notes": [
+            "flood: 0.3x avi +20",
+            "3s/tick",
+            "15.1s duration"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151069,
+          "light_dmg": 722.4,
+          "med_dmg": 993.3,
+          "heavy_dmg": 1173.9,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151062": [
+    {
+      "name": "BIG BEN (enhanced)",
+      "parts": [
+        {
+          "weapon_id": 167600,
+          "bullet_id": 170714,
+          "damage": 301,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 2,
+          "notes": [
+            "flood: 0.3x avi +20",
+            "3s/tick",
+            "15.1s duration"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151069,
+          "light_dmg": 722.4,
+          "med_dmg": 993.3,
+          "heavy_dmg": 1173.9,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167610,
+          "bullet_id": 170712,
+          "damage": 380,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 2,
+          "notes": [
+            "42 spread",
+            "28 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151069,
+          "light_dmg": 532.0,
+          "med_dmg": 798.0,
+          "heavy_dmg": 950.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167620,
+          "bullet_id": 170713,
+          "damage": 220,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 0.8,
+          "scaling_stat": "AVI",
+          "count": 4,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151069,
+          "light_dmg": 704.0,
+          "med_dmg": 792.0,
+          "heavy_dmg": 968.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167650,
+          "bullet_id": 170713,
+          "damage": 220,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 0.8,
+          "scaling_stat": "AVI",
+          "count": 3,
+          "notes": [
+            "36 spread",
+            "19 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151069,
+          "light_dmg": 704.0,
+          "med_dmg": 792.0,
+          "heavy_dmg": 968.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167640,
+          "bullet_id": 170714,
+          "damage": 301,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "AVI",
+          "count": 9,
+          "notes": [
+            "flood: 0.3x avi +20",
+            "3s/tick",
+            "15.1s duration"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 151069,
+          "light_dmg": 2167.2,
+          "med_dmg": 2979.9,
+          "heavy_dmg": 3521.7,
           "targetting": 0
         }
       ]
@@ -22290,7 +22003,7 @@
             "6s",
             "2? ticks",
             "time 3",
-            "Scales off\n              Shimakaze's TRP"
+            "Scales off Shimakaze's TRP"
           ],
           "proc_percent": 100.0,
           "buff_id": 14853,
@@ -24430,7 +24143,7 @@
             "Debuffs: -8% fp/avi",
             "-10% AA/eva",
             "15% slow",
-            "flood 100dmg 8.1s\n              2s/tick",
+            "flood 100dmg 8.1s 2s/tick",
             "5% special AB"
           ],
           "proc_percent": 100.0,
@@ -26590,6 +26303,236 @@
       ]
     }
   ],
+  "150920": [
+    {
+      "name": "Odi Barbare",
+      "parts": [
+        {
+          "weapon_id": 167340,
+          "bullet_id": 161033,
+          "damage": 36,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 15,
+          "notes": [
+            "Reaim",
+            "Ignore shields",
+            "burn 102 dmg/s 15.1s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150929,
+          "light_dmg": 540.0,
+          "med_dmg": 432.0,
+          "heavy_dmg": 324.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167350,
+          "bullet_id": 161034,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 20,
+          "notes": [
+            "Reaim",
+            "Ignore shields",
+            "burn 102 dmg/s 15.1s"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150929,
+          "light_dmg": 300.0,
+          "med_dmg": 240.0,
+          "heavy_dmg": 180.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "150930": [
+    {
+      "name": "Il Canto di Marzo",
+      "parts": [
+        {
+          "weapon_id": 167370,
+          "bullet_id": 161037,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 1,
+          "notes": [
+            "Nearest target",
+            "Shrapnel",
+            "Ignore shields"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150929,
+          "light_dmg": 15.0,
+          "med_dmg": 15.0,
+          "heavy_dmg": 15.0,
+          "targetting": 3
+        },
+        {
+          "weapon_id": 167370,
+          "bullet_id": 161040,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 35,
+          "notes": [
+            "Nearest target",
+            "Ignore shields"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150939,
+          "light_dmg": 525.0,
+          "med_dmg": 525.0,
+          "heavy_dmg": 525.0,
+          "targetting": 3
+        },
+        {
+          "weapon_id": 167370,
+          "bullet_id": 161039,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 35,
+          "notes": [
+            "Nearest target",
+            "6 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150939,
+          "light_dmg": 498.75,
+          "med_dmg": 393.75,
+          "heavy_dmg": 236.25,
+          "targetting": 3
+        },
+        {
+          "weapon_id": 167420,
+          "bullet_id": 161036,
+          "damage": 20,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Nearest target",
+            "6 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150939,
+          "light_dmg": 120.0,
+          "med_dmg": 90.0,
+          "heavy_dmg": 48.0,
+          "targetting": 3
+        },
+        {
+          "weapon_id": 167480,
+          "bullet_id": 161043,
+          "damage": 40,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 4,
+          "notes": [
+            "Nearest target",
+            "6 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150939,
+          "light_dmg": 112.0,
+          "med_dmg": 144.0,
+          "heavy_dmg": 192.0,
+          "targetting": 3
+        }
+      ]
+    }
+  ],
+  "25022": [
+    {
+      "name": "All Out Assault II: Alfredo Oriani-class",
+      "parts": [
+        {
+          "weapon_id": 75022,
+          "bullet_id": 75021,
+          "damage": 12,
+          "bullet_type": "Normal",
+          "coeff": 1.25,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 20,
+          "notes": [
+            "Nearest target",
+            "6 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150939,
+          "light_dmg": 300.0,
+          "med_dmg": 240.0,
+          "heavy_dmg": 180.0,
+          "targetting": 3
+        }
+      ]
+    },
+    {
+      "name": "Alfredo Oriani-class II",
+      "parts": [
+        {
+          "weapon_id": 75022,
+          "bullet_id": 75021,
+          "damage": 12,
+          "bullet_type": "normal",
+          "coeff": 1.25,
+          "scaling": 1.0,
+          "scaling_stat": "fp",
+          "count": 20,
+          "notes": [],
+          "proc_percent": null,
+          "buff_id": null,
+          "light_dmg": 300.0,
+          "med_dmg": 240.0,
+          "heavy_dmg": 180.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "250012": [
+    {
+      "name": "All Out Assault II: Admiralen",
+      "parts": [
+        {
+          "weapon_id": 170732,
+          "bullet_id": 170715,
+          "damage": 20,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 22,
+          "notes": [],
+          "proc_percent": null,
+          "buff_id": null,
+          "light_dmg": 440.0,
+          "med_dmg": 440.0,
+          "heavy_dmg": 440.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
   "20082": [
     {
       "name": "Allen M. Sumner-class II",
@@ -27071,6 +27014,32 @@
       ]
     }
   ],
+  "20042": [
+    {
+      "name": "Fletcher-class II",
+      "parts": [
+        {
+          "weapon_id": 70042,
+          "bullet_id": 1102,
+          "damage": 10,
+          "bullet_type": "normal",
+          "coeff": 1.25,
+          "scaling": 1.0,
+          "scaling_stat": "fp",
+          "count": 20,
+          "notes": [
+            "burn"
+          ],
+          "proc_percent": 1.0,
+          "buff_id": 311,
+          "light_dmg": 250.0,
+          "med_dmg": 187.5,
+          "heavy_dmg": 100.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
   "22022": [
     {
       "name": "Fubuki-class II",
@@ -27092,32 +27061,6 @@
           "light_dmg": 200.0,
           "med_dmg": 180.0,
           "heavy_dmg": 100.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "21052": [
-    {
-      "name": "G-class II",
-      "parts": [
-        {
-          "weapon_id": 71052,
-          "bullet_id": 71051,
-          "damage": 10,
-          "bullet_type": "normal",
-          "coeff": 1.25,
-          "scaling": 1.0,
-          "scaling_stat": "fp",
-          "count": 20,
-          "notes": [
-            "burn"
-          ],
-          "proc_percent": 1.0,
-          "buff_id": 311,
-          "light_dmg": 250.0,
-          "med_dmg": 200.0,
-          "heavy_dmg": 150.0,
           "targetting": 0
         }
       ]
@@ -33697,6 +33640,498 @@
       ]
     }
   ],
+  "150910": [
+    {
+      "name": "Strict Flower of Sardegna",
+      "parts": [
+        {
+          "weapon_id": 167320,
+          "bullet_id": 161030,
+          "damage": 25,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 36,
+          "notes": [
+            "Ignore shields",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150813,
+          "light_dmg": 900.0,
+          "med_dmg": 900.0,
+          "heavy_dmg": 900.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167330,
+          "bullet_id": 161031,
+          "damage": 180,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "Priority target",
+            "Ignore shields"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150813,
+          "light_dmg": 648.0,
+          "med_dmg": 648.0,
+          "heavy_dmg": 648.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "28272": [
+    {
+      "name": "All Out Assault II: Alberto di Giussano-class",
+      "parts": [
+        {
+          "weapon_id": 75112,
+          "bullet_id": 75111,
+          "damage": 15,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 40,
+          "notes": [
+            "Priority target",
+            "Ignore shields"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150813,
+          "light_dmg": 600.0,
+          "med_dmg": 600.0,
+          "heavy_dmg": 600.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 75113,
+          "bullet_id": 75112,
+          "damage": 45,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 8,
+          "notes": [
+            "Priority target",
+            "Ignore shields"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150813,
+          "light_dmg": 288.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 468.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "151030": [
+    {
+      "name": "Glorious Advance",
+      "parts": [
+        {
+          "weapon_id": 167590,
+          "bullet_id": 165503,
+          "damage": 35,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 16,
+          "notes": [
+            "Priority target"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150813,
+          "light_dmg": 560.0,
+          "med_dmg": 560.0,
+          "heavy_dmg": 560.0,
+          "targetting": 1
+        }
+      ]
+    },
+    {
+      "name": "Glorious Advance (flare)",
+      "parts": [
+        {
+          "weapon_id": 902,
+          "bullet_id": 903,
+          "damage": 39,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 1,
+          "notes": [
+            "Nearest target",
+            "Shrapnel",
+            "pierce 50"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150813,
+          "light_dmg": 560.0,
+          "med_dmg": 560.0,
+          "heavy_dmg": 560.0,
+          "targetting": 3
+        },
+        {
+          "weapon_id": 902,
+          "bullet_id": 904,
+          "damage": 39,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 1,
+          "notes": [
+            "Nearest target",
+            "30 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 560.0,
+          "med_dmg": 560.0,
+          "heavy_dmg": 560.0,
+          "targetting": 3
+        }
+      ]
+    }
+  ],
+  "30432": [
+    {
+      "name": "All Out Assault II: Santa Fe",
+      "parts": [
+        {
+          "weapon_id": 170722,
+          "bullet_id": 170717,
+          "damage": 35,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 36,
+          "notes": [
+            "Nearest target",
+            "30 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 1260.0,
+          "med_dmg": 1260.0,
+          "heavy_dmg": 1260.0,
+          "targetting": 3
+        }
+      ]
+    }
+  ],
+  "151080": [
+    {
+      "name": "Pixiedust Storm",
+      "parts": [
+        {
+          "weapon_id": 167730,
+          "bullet_id": 161062,
+          "damage": 55,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "Priority target",
+            "Shrapnel",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 330.0,
+          "med_dmg": 330.0,
+          "heavy_dmg": 330.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 167730,
+          "bullet_id": 161063,
+          "damage": 55,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 72,
+          "notes": [
+            "Priority target"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 3960.0,
+          "med_dmg": 3960.0,
+          "heavy_dmg": 3960.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "151091": [
+    {
+      "name": "Welkin Blessing",
+      "parts": [
+        {
+          "weapon_id": 167740,
+          "bullet_id": 161064,
+          "damage": 25,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 60,
+          "notes": [
+            "Priority target"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 1500.0,
+          "med_dmg": 1500.0,
+          "heavy_dmg": 1500.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "30442": [
+    {
+      "name": "All Out Assault II: De Zeven",
+      "parts": [
+        {
+          "weapon_id": 170742,
+          "bullet_id": 161065,
+          "damage": 30,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 4,
+          "notes": [
+            "Shrapnel",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 120.0,
+          "med_dmg": 120.0,
+          "heavy_dmg": 120.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 170742,
+          "bullet_id": 161067,
+          "damage": 30,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 12,
+          "notes": [
+            "Reaim"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 360.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 360.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151102": [
+    {
+      "name": "Genius's Intuition",
+      "parts": [
+        {
+          "weapon_id": 167690,
+          "bullet_id": 165505,
+          "damage": 15,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 60,
+          "notes": [
+            "Reaim"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 900.0,
+          "med_dmg": 900.0,
+          "heavy_dmg": 900.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151115": [
+    {
+      "name": "I am Mad Scientist! (1/4 proc)",
+      "parts": [
+        {
+          "weapon_id": 167700,
+          "bullet_id": 165506,
+          "damage": 550,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 1,
+          "notes": [
+            "Reaim"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 440.0,
+          "med_dmg": 550.0,
+          "heavy_dmg": 715.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151114": [
+    {
+      "name": "I am Mad Scientist! (1/4 proc)",
+      "parts": [
+        {
+          "weapon_id": 167710,
+          "bullet_id": 165507,
+          "damage": 36,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 16,
+          "notes": [
+            "Priority target"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 576.0,
+          "med_dmg": 576.0,
+          "heavy_dmg": 576.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "151113": [
+    {
+      "name": "I am Mad Scientist! (1/4 proc)",
+      "parts": [
+        {
+          "weapon_id": 167720,
+          "bullet_id": 165508,
+          "damage": 600,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 1,
+          "notes": [
+            "60 splash"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 600.0,
+          "med_dmg": 600.0,
+          "heavy_dmg": 600.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "151111": [
+    {
+      "name": "I am Mad Scientist! (1/4 proc)",
+      "parts": [
+        {
+          "weapon_id": 167720,
+          "bullet_id": 165508,
+          "damage": 600,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 1,
+          "notes": [
+            "5% self heal"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 600.0,
+          "med_dmg": 600.0,
+          "heavy_dmg": 600.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "26112": [
+    {
+      "name": "All Out Assault II: Kagul Class",
+      "parts": [
+        {
+          "weapon_id": 76112,
+          "bullet_id": 76111,
+          "damage": 25,
+          "bullet_type": "HE",
+          "coeff": 1.25,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 10,
+          "notes": [
+            "5% self heal"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 5040,
+          "light_dmg": 312.5,
+          "med_dmg": 250.0,
+          "heavy_dmg": 187.5,
+          "targetting": 0
+        }
+      ]
+    },
+    {
+      "name": "Bogatyr-class II",
+      "parts": [
+        {
+          "weapon_id": 76112,
+          "bullet_id": 76111,
+          "damage": 25,
+          "bullet_type": "he",
+          "coeff": 1.25,
+          "scaling": 1.0,
+          "scaling_stat": "fp",
+          "count": 10,
+          "notes": [
+            "burn"
+          ],
+          "proc_percent": 3.0,
+          "buff_id": 311,
+          "light_dmg": 312.5,
+          "med_dmg": 250.0,
+          "heavy_dmg": 187.5,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
   "22152": [
     {
       "name": "Agano-class II",
@@ -33997,32 +34432,6 @@
           "light_dmg": 392.0,
           "med_dmg": 392.0,
           "heavy_dmg": 392.0,
-          "targetting": 0
-        }
-      ]
-    }
-  ],
-  "21162": [
-    {
-      "name": "Fiji-class II",
-      "parts": [
-        {
-          "weapon_id": 71162,
-          "bullet_id": 71161,
-          "damage": 22,
-          "bullet_type": "normal",
-          "coeff": 1.25,
-          "scaling": 1.0,
-          "scaling_stat": "fp",
-          "count": 27,
-          "notes": [
-            "burn"
-          ],
-          "proc_percent": 3.0,
-          "buff_id": 311,
-          "light_dmg": 779.625,
-          "med_dmg": 594.0,
-          "heavy_dmg": 334.125,
           "targetting": 0
         }
       ]
@@ -41828,6 +42237,86 @@
       ]
     }
   ],
+  "150981": [
+    {
+      "name": "Thrill-Seeker",
+      "parts": [
+        {
+          "weapon_id": 167380,
+          "bullet_id": 161041,
+          "damage": 35,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 10,
+          "notes": [
+            "Flood",
+            "0.4xTRP + 5",
+            "18.1s / 3s ticks"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150209,
+          "light_dmg": 455.0,
+          "med_dmg": 280.0,
+          "heavy_dmg": 350.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "150992": [
+    {
+      "name": "Born Adventurer",
+      "parts": [
+        {
+          "weapon_id": 167390,
+          "bullet_id": 161042,
+          "damage": 30,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 1,
+          "notes": [
+            "Priority target"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150209,
+          "light_dmg": 30.0,
+          "med_dmg": 30.0,
+          "heavy_dmg": 30.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "30422": [
+    {
+      "name": "All Out Assault II: Maggiore Baracca",
+      "parts": [
+        {
+          "weapon_id": 170712,
+          "bullet_id": 170711,
+          "damage": 40,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 8,
+          "notes": [
+            "Priority target"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 150209,
+          "light_dmg": 416.0,
+          "med_dmg": 320.0,
+          "heavy_dmg": 256.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
   "22412": [
     {
       "name": "Full Barrage - Kashino II",
@@ -43491,7 +43980,7 @@
             "8 spread",
             "15 splash",
             "+10% plane crit?",
-            "5% damage\n              amp"
+            "5% damage amp"
           ],
           "proc_percent": 100.0,
           "buff_id": 480,
@@ -43521,7 +44010,7 @@
             "8 spread",
             "15 splash",
             "+10% plane crit?",
-            "5% damage\n              amp"
+            "5% damage amp"
           ],
           "proc_percent": 100.0,
           "buff_id": 480,
@@ -44278,7 +44767,7 @@
             "Shrapnel",
             "Ignore shields",
             "pierce 50",
-            "scaling:\n              min(FleetPower/80",
+            "scaling: min(FleetPower/80",
             "350)"
           ],
           "proc_percent": 3.0,
@@ -48141,6 +48630,709 @@
           "light_dmg": 1152.0,
           "med_dmg": 1152.0,
           "heavy_dmg": 1152.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "1011561": [
+    {
+      "name": "2,700 Pounds of Justice+",
+      "parts": [
+        {
+          "weapon_id": 167520,
+          "bullet_id": 161048,
+          "damage": 181,
+          "bullet_type": "AP",
+          "coeff": 1.1,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "Priority target",
+            "9 spread",
+            "10 splash"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 388.245,
+          "med_dmg": 806.355,
+          "heavy_dmg": 686.895,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "1010261": [
+    {
+      "name": "Armageddon Cannon+",
+      "parts": [
+        {
+          "weapon_id": 167490,
+          "bullet_id": 161044,
+          "damage": 40,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 4,
+          "notes": [
+            "Priority target"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 160.0,
+          "med_dmg": 160.0,
+          "heavy_dmg": 160.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "1090401": [
+    {
+      "name": "Full Firepower - Köln (barrage 1)",
+      "parts": [
+        {
+          "weapon_id": 67070,
+          "bullet_id": 19939,
+          "damage": 32,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 22,
+          "notes": [
+            "pierce 1"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 774.4,
+          "med_dmg": 633.6,
+          "heavy_dmg": 422.4,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 67090,
+          "bullet_id": 19940,
+          "damage": 145,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 4,
+          "notes": [
+            "pierce 1"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 464.0,
+          "med_dmg": 580.0,
+          "heavy_dmg": 754.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "1090402": [
+    {
+      "name": "barrage 2",
+      "parts": [
+        {
+          "weapon_id": 167130,
+          "bullet_id": 170651,
+          "damage": 20,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 36,
+          "notes": [
+            "Shrapnel",
+            "Ignore shields"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 720.0,
+          "med_dmg": 720.0,
+          "heavy_dmg": 720.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167130,
+          "bullet_id": 170652,
+          "damage": 20,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 36,
+          "notes": [
+            "Reaim",
+            "Ignore shields"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 720.0,
+          "med_dmg": 720.0,
+          "heavy_dmg": 720.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "1090403": [
+    {
+      "name": "barrage 3",
+      "parts": [
+        {
+          "weapon_id": 161070,
+          "bullet_id": 160877,
+          "damage": 35,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 60,
+          "notes": [
+            "Reaim",
+            "Ignore shields"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 2310.0,
+          "med_dmg": 1890.0,
+          "heavy_dmg": 1470.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 161080,
+          "bullet_id": 160878,
+          "damage": 100,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 4,
+          "notes": [
+            "Reaim",
+            "Ignore shields"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 280.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 480.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "1090404": [
+    {
+      "name": "barrage 4",
+      "parts": [
+        {
+          "weapon_id": 167500,
+          "bullet_id": 161045,
+          "damage": 40,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 12,
+          "notes": [
+            "Priority target",
+            "pierce 1"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 480.0,
+          "med_dmg": 480.0,
+          "heavy_dmg": 480.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 167500,
+          "bullet_id": 161045,
+          "damage": 40,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 12,
+          "notes": [
+            "Random target",
+            "pierce 1"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 480.0,
+          "med_dmg": 480.0,
+          "heavy_dmg": 480.0,
+          "targetting": 2
+        }
+      ]
+    }
+  ],
+  "1090405": [
+    {
+      "name": "barrage 5",
+      "parts": [
+        {
+          "weapon_id": 69610,
+          "bullet_id": 19157,
+          "damage": 36,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Random target"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 432.0,
+          "med_dmg": 432.0,
+          "heavy_dmg": 432.0,
+          "targetting": 2
+        }
+      ]
+    }
+  ],
+  "1090406": [
+    {
+      "name": "barrage 6",
+      "parts": [
+        {
+          "weapon_id": 64880,
+          "bullet_id": 19381,
+          "damage": 23,
+          "bullet_type": "AP",
+          "coeff": 1.1,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 31,
+          "notes": [
+            "Random target"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 509.795,
+          "med_dmg": 980.375,
+          "heavy_dmg": 509.795,
+          "targetting": 2
+        },
+        {
+          "weapon_id": 64900,
+          "bullet_id": 19382,
+          "damage": 45,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 8,
+          "notes": [
+            "Random target"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 288.0,
+          "med_dmg": 360.0,
+          "heavy_dmg": 468.0,
+          "targetting": 2
+        }
+      ]
+    }
+  ],
+  "1090407": [
+    {
+      "name": "barrage 7",
+      "parts": [
+        {
+          "weapon_id": 65520,
+          "bullet_id": 19248,
+          "damage": 22,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 2,
+          "notes": [
+            "Shrapnel",
+            "pierce 99"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 44.0,
+          "med_dmg": 44.0,
+          "heavy_dmg": 44.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 65520,
+          "bullet_id": 19249,
+          "damage": 22,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 52,
+          "notes": [
+            "Shrapnel",
+            "pierce 99"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 1144.0,
+          "med_dmg": 1144.0,
+          "heavy_dmg": 1144.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "1090408": [
+    {
+      "name": "barrage 8",
+      "parts": [
+        {
+          "weapon_id": 167510,
+          "bullet_id": 161046,
+          "damage": 68,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 12,
+          "notes": [
+            "Shrapnel",
+            "Ignore shields",
+            "pierce 50"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 816.0,
+          "med_dmg": 652.8,
+          "heavy_dmg": 652.8,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167510,
+          "bullet_id": 161047,
+          "damage": 68,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 12,
+          "notes": [
+            "Reaim",
+            "Ignore shields"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 816.0,
+          "med_dmg": 652.8,
+          "heavy_dmg": 652.8,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "1090409": [
+    {
+      "name": "barrage 9",
+      "parts": [
+        {
+          "weapon_id": 62350,
+          "bullet_id": 19655,
+          "damage": 40,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 16,
+          "notes": [
+            "Priority target"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 576.0,
+          "med_dmg": 704.0,
+          "heavy_dmg": 640.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "1090410": [
+    {
+      "name": "barrage 10",
+      "parts": [
+        {
+          "weapon_id": 64400,
+          "bullet_id": 19322,
+          "damage": 56,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Priority target",
+            "8 spread",
+            "14 splash"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 252.0,
+          "med_dmg": 369.6,
+          "heavy_dmg": 252.0,
+          "targetting": 1
+        },
+        {
+          "weapon_id": 64390,
+          "bullet_id": 19321,
+          "damage": 40,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 12,
+          "notes": [
+            "Priority target",
+            "8 spread",
+            "14 splash"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 360.0,
+          "med_dmg": 528.0,
+          "heavy_dmg": 360.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "1013023": [
+    {
+      "name": "Lod Obstrel+",
+      "parts": [
+        {
+          "weapon_id": 69070,
+          "bullet_id": 19096,
+          "damage": 170,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 9,
+          "notes": [
+            "20 spread",
+            "16 splash"
+          ],
+          "proc_percent": 20.0,
+          "buff_id": 400,
+          "light_dmg": 612.0,
+          "med_dmg": 1836.0,
+          "heavy_dmg": 1912.5,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 69090,
+          "bullet_id": 19102,
+          "damage": 56,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "14 splash",
+            "flood 23dmg",
+            "1 tick",
+            "40% slow"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 134.4,
+          "med_dmg": 151.2,
+          "heavy_dmg": 184.8,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 69100,
+          "bullet_id": 19101,
+          "damage": 56,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 2,
+          "notes": [
+            "14 splash",
+            "flood 23dmg",
+            "1 tick",
+            "40% slow"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 89.6,
+          "med_dmg": 100.8,
+          "heavy_dmg": 123.2,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 69110,
+          "bullet_id": 19102,
+          "damage": 56,
+          "bullet_type": "Bomb",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 3,
+          "notes": [
+            "14 splash",
+            "flood 23dmg",
+            "1 tick",
+            "40% slow"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 134.4,
+          "med_dmg": 151.2,
+          "heavy_dmg": 184.8,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 69120,
+          "bullet_id": 19097,
+          "damage": 20,
+          "bullet_type": "HE",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 20,
+          "notes": [
+            "14 splash",
+            "flood 23dmg",
+            "1 tick",
+            "40% slow"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 480.0,
+          "med_dmg": 240.0,
+          "heavy_dmg": 240.0,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "1010962": [
+    {
+      "name": "Special Lead Ship+",
+      "parts": [
+        {
+          "weapon_id": 167530,
+          "bullet_id": 161049,
+          "damage": 20,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 32,
+          "notes": [
+            "14 splash",
+            "flood 23dmg",
+            "1 tick",
+            "40% slow"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 640.0,
+          "med_dmg": 576.0,
+          "heavy_dmg": 320.0,
+          "targetting": 0
+        },
+        {
+          "weapon_id": 167540,
+          "bullet_id": 161050,
+          "damage": 66,
+          "bullet_type": "Torpedo",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "TRP",
+          "count": 9,
+          "notes": [
+            "14 splash",
+            "flood 23dmg",
+            "1 tick",
+            "40% slow"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 475.2,
+          "med_dmg": 594.0,
+          "heavy_dmg": 772.2,
+          "targetting": 0
+        }
+      ]
+    }
+  ],
+  "1011153": [
+    {
+      "name": "Counterattack of the Barents Sea+",
+      "parts": [
+        {
+          "weapon_id": 167670,
+          "bullet_id": 165504,
+          "damage": 120,
+          "bullet_type": "AP",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 6,
+          "notes": [
+            "Priority target",
+            "Ignore shields",
+            "pierce 99"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 323,
+          "light_dmg": 720.0,
+          "med_dmg": 720.0,
+          "heavy_dmg": 720.0,
+          "targetting": 1
+        }
+      ]
+    }
+  ],
+  "1012485": [
+    {
+      "name": "APsolute Ammunition+",
+      "parts": [
+        {
+          "weapon_id": 167680,
+          "bullet_id": 167670,
+          "damage": 30,
+          "bullet_type": "Normal",
+          "coeff": 1.0,
+          "scaling": 1.0,
+          "scaling_stat": "FP",
+          "count": 15,
+          "notes": [
+            "8% FP shred",
+            "8s",
+            "Beam: 5 ticks/s 3s duration"
+          ],
+          "proc_percent": 100.0,
+          "buff_id": 1012489,
+          "light_dmg": 562.5,
+          "med_dmg": 562.5,
+          "heavy_dmg": 562.5,
           "targetting": 0
         }
       ]

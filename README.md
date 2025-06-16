@@ -11,6 +11,8 @@ Tools to barrage datamine. Mainly for Azur Lane Wiki usage.
 
 This pulls information from Riceist's barrage datamine here: [https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine]
 
+You need to inspect element and copy this part of the webpage, then paste it into ![image for reference](image.png)
+
 <!-- Windows -->
 
 ```bash
