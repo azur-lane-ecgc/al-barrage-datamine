@@ -115,7 +115,7 @@ for tbl in tables:
         last_barrage[sid]["parts"].append(part)
 
 # Write out to barrages3.json
-with open("barrages3.json", "w", encoding="utf-8") as out_f:
+with open("src/barrages3.json", "w", encoding="utf-8") as out_f:
     json.dump(out, out_f, ensure_ascii=False, indent=2)
 
-print("Written", len(out), "skills to barrages3.json")
+print("Written", len(out), "skills to src/barrages3.json")
