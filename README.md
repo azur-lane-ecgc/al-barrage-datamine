@@ -17,28 +17,16 @@ This pulls information from Riceist's barrage datamine here: [https://azurlane.k
 python -m venv .venv
 .venv/Scripts/activate
 python barrage.py
+python barrage2.py
 ```
 
 <!-- Other -->
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 .venv/bin/activate
-python barrage.py
+python3 barrage.py
+python3 barrage2.py
 ```
 
-Then you can run `barrage.ts`. This generates the data and data2 lua modules.
-
-<!-- Bun  -->
-
-```bash
-bun run barrage.ts
-```
-
-<!-- Node -->
-
-```bash
-node barrage.ts
-```
-
-Then, copy over the data and data2 modules to their respective wiki pages.
+Then, copy over the data and data2 modules within the "output" folder to their respective wiki pages.
