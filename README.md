@@ -10,7 +10,9 @@ Tools to barrage datamine. Mainly for Azur Lane Wiki usage.
 
 This pulls information from Riceist's barrage datamine here: [https://azurlane.koumakan.jp/wiki/User:Riceist/BarrageDatamine]
 
-You need to inspect element and copy this part of the webpage, then paste it into ![image for reference](image.png)
+You need to inspect element and copy this part of the webpage, then paste it into `src/riceist.html`
+
+![image for reference](image.png)
 
 All you need to do is run
 
