@@ -24,7 +24,7 @@ def normalize(col: str) -> str:
 
 
 # Load and parse the saved HTML dump
-with open("test.html", encoding="utf-8") as f:
+with open("testing/test.html", encoding="utf-8") as f:
     soup = BeautifulSoup(f, "html.parser")
 
 # Identify only the barrage tables by header presence
