@@ -1,9 +1,9 @@
 import { readFile, writeFile } from "fs/promises"
 
-import type { ShipData } from "@ALData/types/ships"
-import type { Barrage } from "@ALData/types/barrages"
-import type { AugmentData } from "@ALData/types/augments"
-import type { EquipmentData } from "@ALData/types/equipments"
+import type { ShipData } from "../AzurLaneData/types/ships"
+import type { Barrage } from "../AzurLaneData/types/barrages"
+import type { AugmentData } from "../AzurLaneData/types/augments"
+import type { EquipmentData } from "../AzurLaneData/types/equipments"
 
 type EnhancedBarrageData = {
   barrages: Barrage[]
@@ -16,15 +16,15 @@ type EnhancedBarrageData = {
 // ————————————————————————————————————————————————
 const createJSON = async (): Promise<void> => {
   const ships: Record<number, ShipData> = (await import(
-    "@ALData/data/ships.json"
+    "../AzurLaneData/data/ships.json"
   ).then((m) => m.default)) as Record<number, ShipData>
 
   const barrages: Record<number, Barrage[]> = (await import(
-    "@ALData/data/barrages.json"
+    "../AzurLaneData/data/barrages.json"
   ).then((m) => m.default)) as Record<number, Barrage[]>
 
   const augments: Record<number, AugmentData> = (await import(
-    "@ALData/data/augments.json"
+    "../AzurLaneData/data/augments.json"
   ).then((m) => m.default)) as Record<number, AugmentData>
 
   const allSkillIds = new Set<number>()
@@ -71,7 +71,7 @@ const createJSON = async (): Promise<void> => {
   }
 
   await writeFile(
-    "dev_tools/barrage/barrages.json",
+    "barrages.json",
     JSON.stringify(result, null, 2),
     "utf-8",
   )
@@ -85,15 +85,15 @@ const createJSON = async (): Promise<void> => {
 // ————————————————————————————————————————————————
 const createEquipAndAugBarrageJSON = async (): Promise<void> => {
   const barrages: Record<number, Barrage[]> = (await import(
-    "@ALData/data/barrages.json"
+    "../AzurLaneData/data/barrages.json"
   ).then((m) => m.default)) as Record<number, Barrage[]>
 
   const augments: Record<number, AugmentData> = (await import(
-    "@ALData/data/augments.json"
+    "../AzurLaneData/data/augments.json"
   ).then((m) => m.default)) as Record<number, AugmentData>
 
   const equips: Record<number, EquipmentData> = (await import(
-    "@ALData/data/equipments.json"
+    "../AzurLaneData/data/equipments.json"
   ).then((m) => m.default)) as Record<number, EquipmentData>
 
   const allSkillIds = new Set<number>()
@@ -128,7 +128,7 @@ const createEquipAndAugBarrageJSON = async (): Promise<void> => {
   }
 
   await writeFile(
-    "dev_tools/barrage/barrages2.json",
+    "barrages2.json",
     JSON.stringify(result, null, 2),
     "utf-8",
   )
@@ -142,7 +142,7 @@ const createEquipAndAugBarrageJSON = async (): Promise<void> => {
 // ————————————————————————————————————————————————
 async function applyTargettingToAll(): Promise<void> {
   // load scraped data
-  const scrapedRaw = await readFile("dev_tools/barrage/barrages3.json", "utf-8")
+  const scrapedRaw = await readFile("barrages3.json", "utf-8")
   const scraped: Record<
     number,
     Array<{
@@ -179,8 +179,8 @@ async function applyTargettingToAll(): Promise<void> {
   }
 
   // patch both files
-  await patchFile("dev_tools/barrage/barrages.json")
-  await patchFile("dev_tools/barrage/barrages2.json")
+  await patchFile("barrages.json")
+  await patchFile("barrages2.json")
 }
 
 // ————————————————————————————————————————————————
@@ -239,12 +239,12 @@ const main = async () => {
     await applyTargettingToAll()
 
     await luaConvert(
-      "dev_tools/barrage/barrages.json",
-      "dev_tools/barrage/data.lua",
+      "barrages.json",
+      "data.lua",
     )
     await luaConvert(
-      "dev_tools/barrage/barrages2.json",
-      "dev_tools/barrage/data2.lua",
+      "barrages2.json",
+      "data2.lua",
     )
 
     console.log("All barrage data written successfully.")
