@@ -78,8 +78,17 @@ bun main.ts
 │   ├── barrageParse.ts   # Main parsing logic
 │   └── types.ts          # Local type definitions
 ├── test/                 # Test files
-├── output/               # Generated output
-└── docs/                 # Documentation
+│   └── barrageParse.test.ts
+├── main.ts               # Main entry point
+├── package.json
+├── tsconfig.json
+├── biome.jsonc           # Biome configuration
+├── lefthook.yml          # Git hooks configuration
+├── bun.lock
+├── .gitignore
+├── .gitmodules           # Git submodules
+├── AGENTS.md             # Agent guidelines
+└── README.md
 ```
 
 ### Testing
@@ -96,17 +105,9 @@ Run a specific test:
 bun test --testNamePattern="parses Warspite barrages correctly"
 ```
 
-### Type Checking
-
-Check TypeScript types:
-
-```bash
-bunx tsc --noEmit
-```
-
 ### Code Style
 
-The project uses Prettier for code formatting. Configuration is in `.prettierrc.json`.
+The project uses Biome for code formatting and linting. Configuration is in `biome.jsonc`.
 
 ## Output Format
 
@@ -137,11 +138,11 @@ The generated JSON contains barrage data organized by ship/equipment name:
 ## Contributing
 
 1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature`
+2. Create a feature branch: `git checkout -b <branch name>`
 3. Make your changes and add tests
 4. Run tests: `bun test`
 5. Commit your changes: `git commit -am 'Add some feature'`
-6. Push to the branch: `git push origin feature/your-feature`
+6. Push to the branch: `git push origin <branch name>`
 7. Submit a pull request
 
 ### Development Guidelines

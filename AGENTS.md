@@ -4,7 +4,7 @@
 - **Run main script**: `bun run main` or `bun main.ts`
 - **Run all tests**: `bun test`
 - **Run single test**: `bun test --testNamePattern="test name"` or `bun test test/file.test.ts`
-- **Type check**: `bunx tsc --noEmit` (TypeScript strict mode enabled)
+- **Lint and format**: `bun run check` (Biome handles linting, formatting, and type checking)
 
 ## Code Style Guidelines
 
@@ -50,12 +50,13 @@
 - No implementation comments (self-documenting code)
 
 ### Testing
+- Use `bun:test` whenever possible.
 - Use descriptive test names
 - Test specific functionality, not implementation details
 - Use `expect().toBeDefined()`, `toBeGreaterThan()`, etc.
 - Mock external dependencies when needed
 
-# BUN DOCUMENTATION DO NOT EDIT IT
+# Bun Information (DO NOT EDIT IT)
 
 Default to using Bun instead of Node.js.
 
