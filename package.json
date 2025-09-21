@@ -1,0 +1,21 @@
+{
+  "name": "al-barrage-datamine",
+  "module": "main.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "main": "bun main.ts",
+    "test": "AGENT=1 bun test",
+    "update": "bun update && git submodule update --init --recursive",
+    "check": "bunx --bun biome check --write",
+    "postinstall": "bunx lefthook install"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.2.4",
+    "@types/bun": "^1.2.22",
+    "lefthook": "^1.13.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
