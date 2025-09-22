@@ -4,7 +4,6 @@ bun.lockb
 
 # Build outputs
 dist/
-output/
 *.tsbuildinfo
 
 # Environment variables
@@ -48,3 +47,6 @@ temp/
 
 # Azur Lane data submodule (managed separately)
 AzurLaneData/
+
+credentials.json
+**/credentials.json

@@ -17,5 +17,8 @@
   },
   "peerDependencies": {
     "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "mwn": "^3.0.1"
   }
 }
