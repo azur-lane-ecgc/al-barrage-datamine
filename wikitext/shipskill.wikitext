@@ -1,0 +1,119 @@
+<includeonly><table class="ship-skills wikitable"><templatestyles src="Template:Ship/Skills/styles.css"/>
+<tr><th colspan="4">Skills</th></tr><!--
+
+Skill 1
+--><tr>
+    <td class="skill-icon" rowspan="{{#if:{{{Skill1Barrage|}}}{{{Skill1BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type1|}}} }};">[[File:Skill {{{Skill1Icon|}}}.png]]</td>
+    <td class="skill-name" rowspan="{{#if:{{{Skill1Barrage|}}}{{{Skill1BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type1|}}} }};">{{#if:{{{Skill1|}}}|<b>{{{Skill1}}}</b>{{#if:{{{Skill1Note|}}}|{{#tag:ref|{{{Skill1Note}}}}} }}<!--
+      -->{{#if:{{{Skill1CN|}}}|<br>CN: <span lang="zh">{{{Skill1CN}}}</span>}}<!--
+      -->{{#if:{{{Skill1JP|}}}|<br>JP: <span lang="ja">{{{Skill1JP}}}</span>}}
+    }}</td>
+<td colspan="2" rowspan="1">{{{Skill1Desc|}}}</td>
+</tr>
+{{#if:{{{Skill1Barrage|}}}{{{Skill1BarrageGif|}}}|<tr>{{#if:{{{Skill1Barrage|}}}|{{#if:{{{Skill1BarrageGif|}}}|<td>{{{Skill1Barrage}}}</td><td style="text-align: center;">{{{Skill1BarrageGif}}}</td>|<td colspan="2">{{{Skill1Barrage}}}</td>}}|<td colspan="2" style="text-align: center;">{{{Skill1BarrageGif}}}</td>}}</tr>|}}<!--
+
+Skill 2
+-->{{#if:{{{Skill2|}}}|<tr>
+   <td class="skill-icon" rowspan="{{#if:{{{Skill2Barrage|}}}{{{Skill2BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type2|}}} }};">[[File:Skill {{{Skill2Icon|}}}.png]]</td>
+   <td class="skill-name" rowspan="{{#if:{{{Skill2Barrage|}}}{{{Skill2BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type2|}}} }};">{{#if:{{{Skill2|}}}|<b>{{{Skill2}}}</b>{{#if:{{{Skill2Note|}}}|{{#tag:ref|{{{Skill2Note}}}}} }}<!--
+     -->{{#if:{{{Skill2CN|}}}|<br>CN: <span lang="zh">{{{Skill2CN}}}</span>}}<!--
+     -->{{#if:{{{Skill2JP|}}}|<br>JP: <span lang="ja">{{{Skill2JP}}}</span>}}
+   }}</td>
+  <td colspan="2" rowspan="1">{{{Skill2Desc|}}}</td>
+</tr>
+{{#if:{{{Skill2Barrage|}}}{{{Skill2BarrageGif|}}}|<tr>{{#if:{{{Skill2Barrage|}}}|{{#if:{{{Skill2BarrageGif|}}}|<td>{{{Skill2Barrage}}}</td><td style="text-align: center;">{{{Skill2BarrageGif}}}</td>|<td colspan="2">{{{Skill2Barrage}}}</td>}}|<td colspan="2" style="text-align: center;">{{{Skill2BarrageGif}}}</td>}}</tr>|}} }}<!--
+
+Skill 3
+-->{{#if:{{{Skill3|}}}|<tr>
+   <td class="skill-icon" rowspan="{{#if:{{{Skill3Barrage|}}}{{{Skill3BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type3|}}} }};">[[File:Skill {{{Skill3Icon|}}}.png]]</td>
+   <td class="skill-name" rowspan="{{#if:{{{Skill3Barrage|}}}{{{Skill3BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type3|}}} }};">{{#if:{{{Skill3|}}}|<b>{{{Skill3}}}</b>{{#if:{{{Skill3Note|}}}|{{#tag:ref|{{{Skill3Note}}}}} }}<!--
+     -->{{#if:{{{Skill3CN|}}}|<br>CN: <span lang="zh">{{{Skill3CN}}}</span>}}<!--
+     -->{{#if:{{{Skill3JP|}}}|<br>JP: <span lang="ja">{{{Skill3JP}}}</span>}}
+   }}</td>
+  <td colspan="2" rowspan="1">{{{Skill3Desc|}}}</td>
+</tr>
+{{#if:{{{Skill3Barrage|}}}{{{Skill3BarrageGif|}}}|<tr>{{#if:{{{Skill3Barrage|}}}|{{#if:{{{Skill3BarrageGif|}}}|<td>{{{Skill3Barrage}}}</td><td style="text-align: center;">{{{Skill3BarrageGif}}}</td>|<td colspan="2">{{{Skill3Barrage}}}</td>}}|<td colspan="2" style="text-align: center;">{{{Skill3BarrageGif}}}</td>}}</tr>|}} }}<!--
+
+Skill 4
+-->{{#if:{{{Skill4|}}}|<tr>
+   <td class="skill-icon" rowspan="{{#if:{{{Skill4Barrage|}}}{{{Skill4BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type4|}}} }};">[[File:Skill {{{Skill4Icon|}}}.png]]</td>
+   <td class="skill-name" rowspan="{{#if:{{{Skill4Barrage|}}}{{{Skill4BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type4|}}} }};">{{#if:{{{Skill4|}}}|<b>{{{Skill4}}}</b>{{#if:{{{Skill4Note|}}}|{{#tag:ref|{{{Skill4Note}}}}} }}<!--
+     -->{{#if:{{{Skill4CN|}}}|<br>CN: <span lang="zh">{{{Skill4CN}}}</span>}}<!--
+     -->{{#if:{{{Skill4JP|}}}|<br>JP: <span lang="ja">{{{Skill4JP}}}</span>}}
+   }}</td>
+  <td colspan="2" rowspan="1">{{{Skill4Desc|}}}</td>
+</tr>
+{{#if:{{{Skill4Barrage|}}}{{{Skill4BarrageGif|}}}|<tr>{{#if:{{{Skill4Barrage|}}}|{{#if:{{{Skill4BarrageGif|}}}|<td>{{{Skill4Barrage}}}</td><td style="text-align: center;">{{{Skill4BarrageGif}}}</td>|<td colspan="2">{{{Skill4Barrage}}}</td>}}|<td colspan="2" style="text-align: center;">{{{Skill4BarrageGif}}}</td>}}</tr>|}} }}<!--
+
+Skill 5
+-->{{#if:{{{Skill5|}}}|<tr>
+   <td class="skill-icon" rowspan="{{#if:{{{Skill5Barrage|}}}{{{Skill5BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type5|}}} }};">[[File:Skill {{{Skill5Icon|}}}.png]]</td>
+   <td class="skill-name" rowspan="{{#if:{{{Skill5Barrage|}}}{{{Skill5BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type5|}}} }};">{{#if:{{{Skill5|}}}|<b>{{{Skill5}}}</b>{{#if:{{{Skill5Note|}}}|{{#tag:ref|{{{Skill5Note}}}}} }}<!--
+     -->{{#if:{{{Skill5CN|}}}|<br>CN: <span lang="zh">{{{Skill5CN}}}</span>}}<!--
+     -->{{#if:{{{Skill5JP|}}}|<br>JP: <span lang="ja">{{{Skill5JP}}}</span>}}
+   }}</td>
+  <td colspan="2" rowspan="1">{{{Skill5Desc|}}}</td>
+</tr>
+{{#if:{{{Skill5Barrage|}}}{{{Skill5BarrageGif|}}}|<tr>{{#if:{{{Skill5Barrage|}}}|{{#if:{{{Skill5BarrageGif|}}}|<td>{{{Skill5Barrage}}}</td><td style="text-align: center;">{{{Skill5BarrageGif}}}</td>|<td colspan="2">{{{Skill5Barrage}}}</td>}}|<td colspan="2" style="text-align: center;">{{{Skill5BarrageGif}}}</td>}}</tr>|}} }}<!--
+
+Skill 6
+-->{{#if:{{{Skill6|}}}|<tr>
+   <td class="skill-icon" rowspan="{{#if:{{{Skill6Barrage|}}}{{{Skill6BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type6|}}} }};">[[File:Skill {{{Skill6Icon|}}}.png]]</td>
+   <td class="skill-name" rowspan="{{#if:{{{Skill6Barrage|}}}{{{Skill6BarrageGif|}}}|2|1}}" style="background: {{Color|skill|{{{Type6|}}} }};">{{#if:{{{Skill6|}}}|<b>{{{Skill6}}}</b>{{#if:{{{Skill6Note|}}}|{{#tag:ref|{{{Skill6Note}}}}} }}<!--
+     -->{{#if:{{{Skill6CN|}}}|<br>CN: <span lang="zh">{{{Skill6CN}}}</span>}}<!--
+     -->{{#if:{{{Skill6JP|}}}|<br>JP: <span lang="ja">{{{Skill6JP}}}</span>}}
+   }}</td>
+  <td colspan="2" rowspan="1">{{{Skill6Desc|}}}</td>
+</tr>
+{{#if:{{{Skill6Barrage|}}}{{{Skill6BarrageGif|}}}|<tr>{{#if:{{{Skill6Barrage|}}}|{{#if:{{{Skill6BarrageGif|}}}|<td>{{{Skill6Barrage}}}</td><td style="text-align: center;">{{{Skill6BarrageGif}}}</td>|<td colspan="2">{{{Skill6Barrage}}}</td>}}|<td colspan="2" style="text-align: center;">{{{Skill6BarrageGif}}}</td>}}</tr>|}} }}<!--
+
+Trivia
+-->{{#if:{{{Skill1Note|}}} {{{Skill2Note|}}} {{{Skill3Note|}}} {{{Skill4Note|}}} {{{Skill5Note|}}} {{{Skill6Note|}}}|<tr>
+  <td colspan="4" style="font-size: 11px;"><references/></td>
+</tr>}}<!--
+
+--></table></includeonly><noinclude>
+{{Ship/Skills
+| Type1 = Offense
+| Skill1 = Grin and Fire!
+| Skill1CN = Grin and fire！
+| Skill1JP = グリンしてファイア！
+| Skill1Desc = Decrease this ship's DMG taken by 5% (15%). Every 12s after the start of the battle: 50% (100%) chance to fire a special barrage (DMG is based on the skill's level).
+| Skill1Icon = 19280
+| Skill1Barrage = Example Barrage Text
+| Skill1BarrageGif = Example Gif Content
+| Skill1Note = Note 1
+
+| Type2 = Support
+| Skill2 = Bounce Right Back
+| Skill2CN = 柴郡PowerUp！
+| Skill2JP = チェシャーがやるよ！
+| Skill2Desc = Decrease the loading time of this ship's first wave of torpedoes by 40% (70%). When this ship takes DMG: 15% chance to increase this ship's FP, EVA, and AA by 1% (5%) until the end of the battle. Can be stacked up to 3 times.
+| Skill2Icon = 19270
+| Skill2Barrage = Another Barrage Example
+| Skill2Note = Note 2
+
+| Type3 = Support
+| Skill3 = (Fate Simulation)<br>Bounce Right Back+
+| Skill3CN = 柴郡PowerUp！ +
+| Skill3JP = チェシャーがやるよ！+
+| Skill3Desc = Decreases the loading time of this ship's first 2 waves of torpedoes by 40% (70%). When this ship takes DMG: 15% chance to increase this ship's FP, EVA, and AA by 1% (5%) until the end of the battle (Effect can be stacked up to 3 times). While this ship's HP is at 80% or higher: increases this ship's Torpedo DMG by 4% (10%).<br>(Replaces "Bounce Right Back")
+| Skill3Icon = 19270
+| Skill3BarrageGif = Gif Only Example
+| Skill3Note = Note 3
+
+| Type4 = Offense
+| Skill4 = Siren Killer
+| Skill4CN = 塞壬之敌
+| Skill4JP = 対セイレーン特化改修
+| Skill4Desc = Increase this ship's DMG to Sirens by 5% (15%).
+| Skill4Icon = 19000
+
+| Type5 = Offense
+| Skill5 = All Out Assault
+| Skill5CN = 专属弹幕-柴郡
+| Skill5JP = 特殊弾幕-チェシャー
+| Skill5Desc = Activates All Out Assault I (II): Cheshire once every 9 (6) times the Main Guns are fired.
+| Skill5Icon = 29550
+}}
+</noinclude>

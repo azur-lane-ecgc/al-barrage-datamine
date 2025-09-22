@@ -1,0 +1,96 @@
+<includeonly><table class="ship-skills wikitable"><templatestyles src="Template:Ship/Skills/styles.css"/>
+<tr><th colspan="5">Skills</th></tr><!--
+
+Skill 1
+--><tr>
+<td class="skill-icon" style="background: {{Color|skill|{{{Type1|}}} }};">[[File:Skill {{{Skill1Icon|}}}.png]]</td>
+<td class="skill-name" style="background: {{Color|skill|{{{Type1|}}} }};">{{#if:{{{Skill1|}}}|<b>{{{Skill1}}}</b>{{#if:{{{Skill1Note|}}}|{{#tag:ref|{{{Skill1Note}}}}} }}<!--
+  -->{{#if:{{{Skill1CN|}}}|<br>CN: <span lang="zh">{{{Skill1CN}}}</span>}}<!--
+  -->{{#if:{{{Skill1JP|}}}|<br>JP: <span lang="ja">{{{Skill1JP}}}</span>}}
+}}</td>
+<td>{{{Skill1Desc|}}}</td>
+</tr><!--
+
+Skill 2
+-->{{#if:{{{Skill2|}}}|<tr>
+  <td class="skill-icon" style="background: {{Color|skill|{{{Type2|}}} }};">[[File:Skill {{{Skill2Icon|}}}.png]]</td>
+  <td class="skill-name" style="background: {{Color|skill|{{{Type2|}}} }};">{{#if:{{{Skill2|}}}|<b>{{{Skill2}}}</b>{{#if:{{{Skill2Note|}}}|{{#tag:ref|{{{Skill2Note}}}}} }}<!--
+    -->{{#if:{{{Skill2CN|}}}|<br>CN: <span lang="zh">{{{Skill2CN}}}</span>}}<!--
+    -->{{#if:{{{Skill2JP|}}}|<br>JP: <span lang="ja">{{{Skill2JP}}}</span>}}
+  }}</td>
+  <td>{{{Skill2Desc|}}}</td>
+</tr>}}<!--
+
+Skill 3
+-->{{#if:{{{Skill3|}}}|<tr>
+  <td class="skill-icon" style="background: {{Color|skill|{{{Type3|}}} }};">[[File:Skill {{{Skill3Icon|}}}.png]]</td>
+  <td class="skill-name" style="background: {{Color|skill|{{{Type3|}}} }};">{{#if:{{{Skill3|}}}|<b>{{{Skill3}}}</b>{{#if:{{{Skill3Note|}}}|{{#tag:ref|{{{Skill3Note}}}}} }}<!--
+    -->{{#if:{{{Skill3CN|}}}|<br>CN: <span lang="zh">{{{Skill3CN}}}</span>}}<!--
+    -->{{#if:{{{Skill3JP|}}}|<br>JP: <span lang="ja">{{{Skill3JP}}}</span>}}
+  }}</td>
+  <td>{{{Skill3Desc|}}}</td>
+</tr>}}<!--
+
+Skill 4
+-->{{#if:{{{Skill4|}}}|<tr>
+  <td class="skill-icon" style="background: {{Color|skill|{{{Type4|}}} }};">[[File:Skill {{{Skill4Icon|}}}.png]]</td>
+  <td class="skill-name" style="background: {{Color|skill|{{{Type4|}}} }};">{{#if:{{{Skill4|}}}|<b>{{{Skill4}}}</b>{{#if:{{{Skill4Note|}}}|{{#tag:ref|{{{Skill4Note}}}}} }}<!--
+    -->{{#if:{{{Skill4CN|}}}|<br>CN: <span lang="zh">{{{Skill4CN}}}</span>}}<!--
+    -->{{#if:{{{Skill4JP|}}}|<br>JP: <span lang="ja">{{{Skill4JP}}}</span>}}
+  }}</td>
+  <td>{{{Skill4Desc|}}}</td>
+</tr>}}<!--
+
+Skill 5
+-->{{#if:{{{Skill5|}}}|<tr>
+  <td class="skill-icon" style="background: {{Color|skill|{{{Type5|}}} }};">[[File:Skill {{{Skill5Icon|}}}.png]]</td>
+  <td class="skill-name" style="background: {{Color|skill|{{{Type5|}}} }};">{{#if:{{{Skill5|}}}|<b>{{{Skill5}}}</b>{{#if:{{{Skill5Note|}}}|{{#tag:ref|{{{Skill5Note}}}}} }}<!--
+    -->{{#if:{{{Skill5CN|}}}|<br>CN: <span lang="zh">{{{Skill5CN}}}</span>}}<!--
+    -->{{#if:{{{Skill5JP|}}}|<br>JP: <span lang="ja">{{{Skill5JP}}}</span>}}
+  }}</td>
+  <td>{{{Skill5Desc|}}}</td>
+</tr>}}<!--
+
+Skill 6
+-->{{#if:{{{Skill6|}}}|<tr>
+  <td class="skill-icon" style="background: {{Color|skill|{{{Type6|}}} }};">[[File:Skill {{{Skill6Icon|}}}.png]]</td>
+  <td class="skill-name" style="background: {{Color|skill|{{{Type6|}}} }};">{{#if:{{{Skill6|}}}|<b>{{{Skill6}}}</b>{{#if:{{{Skill6Note|}}}|{{#tag:ref|{{{Skill6Note}}}}} }}<!--
+    -->{{#if:{{{Skill6CN|}}}|<br>CN: <span lang="zh">{{{Skill6CN}}}</span>}}<!--
+    -->{{#if:{{{Skill6JP|}}}|<br>JP: <span lang="ja">{{{Skill6JP}}}</span>}}
+  }}</td>
+  <td>{{{Skill6Desc|}}}</td>
+</tr>}}<!--
+
+Trivia
+-->{{#if:{{{Skill1Note|}}} {{{Skill2Note|}}} {{{Skill3Note|}}} {{{Skill4Note|}}} {{{Skill5Note|}}} {{{Skill6Note|}}}|<tr>
+  <td colspan="10" style="font-size: 11px;"><references/></td>
+</tr>}}<!--
+
+--></table></includeonly><noinclude>
+{{Ship/Skills
+| Type1 = Offense
+| Skill1 = Grin and Fire!
+| Skill1CN = Grin and fire！
+| Skill1JP = グリンしてファイア！
+| Skill1Desc = Decrease this ship's DMG taken by 5% (15%). Every 12s after the start of the battle: 50% (100%) chance to fire a special barrage (DMG is based on the skill's level).
+| Skill1Icon = 19280
+| Skill1Note = Note 1
+
+| Type2 = Support
+| Skill2 = Bounce Right Back
+| Skill2CN = 柴郡PowerUp！
+| Skill2JP = チェシャーがやるよ！
+| Skill2Desc = Decrease the loading time of this ship's first wave of torpedoes by 40% (70%). When this ship takes DMG: 15% chance to increase this ship's FP, EVA, and AA by 1% (5%) until the end of the battle. Can be stacked up to 3 times.
+| Skill2Icon = 19270
+| Skill2Note = Note 2
+
+| Type3 = Support
+| Skill3 = (Fate Simulation)<br>Bounce Right Back+
+| Skill3CN = 柴郡PowerUp！ +
+| Skill3JP = チェシャーがやるよ！+
+| Skill3Desc = Decreases the loading time of this ship's first 2 waves of torpedoes by 40% (70%). When this ship takes DMG: 15% chance to increase this ship's FP, EVA, and AA by 1% (5%) until the end of the battle (Effect can be stacked up to 3 times). While this ship's HP is at 80% or higher: increases this ship's Torpedo DMG by 4% (10%).<br>(Replaces "Bounce Right Back")
+| Skill3Icon = 19270
+| Skill3Note = Note 3
+}}
+[[Category:Templates]]
+</noinclude>
