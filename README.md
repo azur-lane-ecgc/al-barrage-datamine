@@ -38,6 +38,14 @@ bun install
 git submodule update --init --recursive
 ```
 
+4. Set up environment variables:
+
+```bash
+cp .env.example .env.local
+```
+
+Edit `.env.local` and fill in all variables as necessary.
+
 ## Usage
 
 ### Basic Usage
@@ -86,6 +94,7 @@ bun main.ts
 ├── lefthook.yml          # Git hooks configuration
 ├── bun.lock
 ├── .gitignore
+├── .env.example          # Environment variables template
 ├── .gitmodules           # Git submodules
 ├── AGENTS.md             # Agent guidelines
 └── README.md

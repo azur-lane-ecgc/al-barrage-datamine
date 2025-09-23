@@ -56,6 +56,11 @@
 - Use `expect().toBeDefined()`, `toBeGreaterThan()`, etc.
 - Mock external dependencies when needed
 
+### Environment Variables
+- USER will copy .env.example to .env.local and fill in required values, as an agent assume all .env.example variables are valid to use.
+- .env files are gitignored and should not be committed
+- Bun automatically loads .env files
+
 # Bun Information (DO NOT EDIT IT)
 
 Default to using Bun instead of Node.js.
