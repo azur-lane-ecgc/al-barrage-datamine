@@ -7,7 +7,7 @@ const api = new Mwn({
   userAgent: process.env.WIKI_USER_AGENT,
 })
 
-async function main() {
+const main = async () => {
   try {
     await api.login()
     const userInfo = await api.userinfo()

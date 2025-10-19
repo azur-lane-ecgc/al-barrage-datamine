@@ -21,6 +21,8 @@
 - Use explicit types for function parameters and return values
 - Prefer `interface` over `type` for object shapes
 - Use `import type` for type-only imports
+- **Prefer arrow functions over function declarations** when possible
+- Use `const functionName = () => {}` instead of `function functionName()`
 
 ### Imports & Modules
 - Path aliases: `@/*` for `src/*`, `@/data/*` for `AzurLaneData/data/*`
