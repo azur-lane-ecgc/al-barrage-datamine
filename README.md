@@ -17,8 +17,7 @@ This tool processes barrage data from the [AzurLaneData](https://github.com/MrLa
 
 ## Requirements
 
-- [Bun](https://bun.sh/) runtime (latest version)
-- Git (for submodule management)
+- [Bun](https://bun.sh/) runtime (1.3.0+ recommended)
 
 ## Installation
 
@@ -75,17 +74,21 @@ al-barrage-datamine/
 │   │   ├── barrages.ts  # Barrage data types
 │   │   ├── index.ts     # Type exports
 │   │   └── redefined.ts # Additional type definitions
-│   ├── data.ts          # Data loading utilities
-│   ├── jsonParser.ts    # Main JSON processing logic
-│   └── luaConverter.ts  # Lua module generation
+│   ├── utils/           # Utility modules
+│   │   ├── data.ts      # Data loading utilities
+│   │   ├── jsonParser.ts # Main JSON processing logic
+│   │   └── luaConverter.ts # Lua module generation
+│   └── index.ts         # Main entry point
 ├── output/              # Generated output files
 ├── testing/             # Testing utilities and files
-
+├── tests/               # Test files
+├── docs/                # Documentation
+├── _backup/             # Backup files (ignore)
 ├── AzurLaneData/        # Git submodule with game data
-├── index.ts             # Main entry point
 ├── package.json         # Project dependencies and scripts
 ├── tsconfig.json        # TypeScript configuration
 ├── biome.json           # Code formatting and linting config
+├── AGENTS.md            # Guidelines for AI agents
 └── README.md
 ```
 
@@ -126,12 +129,23 @@ The project uses [Biome](https://biomejs.dev/) for code formatting and linting:
 bun run lint
 ```
 
+For AI agents working on this repository, see `AGENTS.md` for detailed guidelines including:
+- Build/lint/test commands
+- Code style conventions
+- Import patterns and naming conventions
+- Error handling practices
+
 ### Testing
+
+Run tests using Bun's built-in test runner:
+
+```bash
+bun test
+```
 
 The `testing/` directory contains utilities for validating output:
 
 - `barrage.ts` - Barrage testing logic
-
 - Various test data files (`.json`, `.lua`, `.wikitext`)
 
 ### Building

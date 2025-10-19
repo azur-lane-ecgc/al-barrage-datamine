@@ -31,6 +31,7 @@
     "baseUrl": ".",
     "paths": {
       "@/data/*": ["AzurLaneData/data/*"],
+      "@/types/*": ["AzurLaneData/types/*"],
       "@/*": ["src/*"]
     }
   }

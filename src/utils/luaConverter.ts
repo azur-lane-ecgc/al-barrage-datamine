@@ -24,7 +24,7 @@ export const jsonToLua = (data: unknown, indent = ""): string => {
       lines.push(`${indent}  ${key} = ${jsonToLua(val, `${indent}  `)}`)
     }
 
-    return `{\n${lines.join(",\n")}\n${indent}}}`
+    return `{\n${lines.join(",\n")}\n${indent}}`
   } else if (typeof data === "string") {
     return (
       '"' +

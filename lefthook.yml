@@ -1,0 +1,6 @@
+pre-commit:
+  parallel: true
+  commands:
+    biome:
+      run: bunx --bun biome check --write --no-errors-on-unmatched {staged_files}
+      glob: "*.{js,ts,json,css,scss,md}"

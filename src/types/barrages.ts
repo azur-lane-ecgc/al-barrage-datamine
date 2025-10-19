@@ -1,10 +1,10 @@
-// Reusing types from AzurLaneData/types based on research
-export type AimType = number
-export type AmmoType = number
-export type BulletType = number
-export type WeaponType = number
-export type WeaponStat = string
-export type Hull = string
+import type { Hull, ScalableStatKey, WeaponStat } from "@/types/common"
+import type {
+  AimType,
+  AmmoType,
+  BulletType,
+  WeaponType,
+} from "@/types/equipments"
 
 export interface BarrageEntry<T> {
   type: T
@@ -62,11 +62,13 @@ export interface BarrageSlash extends DamagingBarrage<"slash"> {
   fix_damage: number
 }
 
-export interface BarrageSummon extends BarrageEntry<"summon"> {
+export interface BarrageSummonBase extends BarrageEntry<"summon"> {
   weapons: Array<BarrageWeapon & { rld: string }>
   hull: Hull
   armor: number
 }
+
+export type BarrageSummon = BarrageSummonBase & Record<ScalableStatKey, string>
 
 export type BarragePart = BarrageWeapon | BarrageSlash | BarrageSummon
 
