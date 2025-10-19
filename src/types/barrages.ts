@@ -17,7 +17,7 @@ export interface DamagingBarrage<T> extends BarrageEntry<T> {
   count: number
 }
 
-export interface BarrageWeapon extends DamagingBarrage<'weapon'> {
+export interface BarrageWeapon extends DamagingBarrage<"weapon"> {
   fix_damage?: number
   coefficient: number
   range: number[]
@@ -33,7 +33,7 @@ export interface BarrageWeapon extends DamagingBarrage<'weapon'> {
   shell_range?: number[]
   spread?: number[]
   reaim?: boolean
-  stat: WeaponStat | 'fleetpower'
+  stat: WeaponStat | "fleetpower"
   stat_cap?: number
   ratio: number
   angle: number
@@ -52,7 +52,7 @@ export interface BarrageWeapon extends DamagingBarrage<'weapon'> {
   bullet_id: number
 }
 
-export interface BarrageSlash extends DamagingBarrage<'slash'> {
+export interface BarrageSlash extends DamagingBarrage<"slash"> {
   level_of: string
   clears: BulletType[]
   velocity: number
@@ -62,7 +62,7 @@ export interface BarrageSlash extends DamagingBarrage<'slash'> {
   fix_damage: number
 }
 
-export interface BarrageSummon extends BarrageEntry<'summon'> {
+export interface BarrageSummon extends BarrageEntry<"summon"> {
   weapons: Array<BarrageWeapon & { rld: string }>
   hull: Hull
   armor: number
@@ -83,4 +83,11 @@ export interface ShipSkillBarrage {
 
 export interface ShipBarrageData {
   ship: ShipSkillBarrage[]
+}
+
+export interface BarrageData {
+  [skillId: string]: Array<{
+    name: string
+    parts: unknown[]
+  }>
 }
