@@ -11,7 +11,8 @@ async function main() {
   try {
     await api.login();
     const userInfo = await api.userinfo();
-    console.log('Logged in successfully as', userInfo.name);
+    console.log('Logged in successfully');
+    console.log(userInfo);
   } catch (err) {
     console.error('Login failed:', err);
   }
