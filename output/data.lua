@@ -28,15 +28,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 24
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 66210,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tirpitz" }
-  }},
+  },
   ["2101"] = {
     barrages = { {
       name = "Torpedo Launch",
@@ -67,10 +67,10 @@ local p = {
         velocity = 3,
         weapon_id = 66230,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gneisenau", "Scharnhorst" }
-  }},
+  },
   ["4081"] = {
     barrages = { {
       name = "I'll Protect the Vanguard!",
@@ -103,10 +103,10 @@ local p = {
         velocity = 12,
         weapon_id = 920,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Acasta", "Bailey", "Black Prince", "Comet", "Crescent", "Cygnet", "Juno", "Leander", "Minsk", "Sims", "Southampton" }
-  }},
+  },
   ["5041"] = {
     barrages = { {
       name = "Flares",
@@ -137,7 +137,7 @@ local p = {
         velocity = 5,
         weapon_id = 902,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -164,10 +164,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 902,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sendai", "Trieste" }
-  }},
+  },
   ["6580"] = {
     barrages = { {
       name = "I've Brought Your Cannons!",
@@ -198,10 +198,10 @@ local p = {
         velocity = 12,
         weapon_id = 61055,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kashino" }
-  }},
+  },
   ["9036"] = {
     barrages = { {
       name = "Ultra Rainbow Hammer!",
@@ -234,10 +234,10 @@ local p = {
         velocity = 0,
         weapon_id = 61543,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Specialized Bulin Custom MKIII" }
-  }},
+  },
   ["9037"] = {
     barrages = { {
       name = "Ultra Rainbow Hammer!",
@@ -269,10 +269,10 @@ local p = {
         velocity = 0,
         weapon_id = 61543,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Specialized Bulin Custom MKIII" }
-  }},
+  },
   ["10120"] = {
     barrages = { {
       name = "Pandora's Box",
@@ -303,10 +303,10 @@ local p = {
         velocity = 0,
         weapon_id = 61005,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Indianapolis" }
-  }},
+  },
   ["10130"] = {
     barrages = { {
       name = "Sister Penn",
@@ -337,10 +337,10 @@ local p = {
         velocity = 15,
         weapon_id = 66110,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pennsylvania" }
-  }},
+  },
   ["10180"] = {
     barrages = { {
       name = "Artillery Cover",
@@ -373,10 +373,10 @@ local p = {
         velocity = 18,
         weapon_id = 66010,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lexington", "Saratoga" }
-  }},
+  },
   ["10190"] = {
     barrages = { {
       name = "Vengeance",
@@ -409,7 +409,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67530,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -438,10 +438,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 67550,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yorktown" }
-  }},
+  },
   ["10210"] = {
     barrages = { {
       name = "Doolittle Airstrike",
@@ -473,7 +473,7 @@ local p = {
         velocity = 0,
         weapon_id = 67470,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -501,10 +501,10 @@ local p = {
         velocity = 0,
         weapon_id = 67490,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hornet" }
-  }},
+  },
   ["10290"] = {
     barrages = { {
       name = "Royal Navy's Glory",
@@ -535,10 +535,10 @@ local p = {
         velocity = 15,
         weapon_id = 66070,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hood" }
-  }},
+  },
   ["10310"] = {
     barrages = { {
       name = "Divine Marksman",
@@ -569,10 +569,10 @@ local p = {
         velocity = 12,
         weapon_id = 66030,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Warspite" }
-  }},
+  },
   ["10320"] = {
     barrages = { {
       name = "Big Seven",
@@ -603,10 +603,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 66150,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Colorado", "Maryland", "Nelson", "Rodney", "West Virginia" }
-  }},
+  },
   ["10330"] = {
     barrages = { {
       name = "Swordfishes, Strike!",
@@ -638,10 +638,10 @@ local p = {
         velocity = 3,
         weapon_id = 61015,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ark Royal" }
-  }},
+  },
   ["10350"] = {
     barrages = { {
       name = "Infinite Darkness",
@@ -672,7 +672,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 66130,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -701,10 +701,10 @@ local p = {
         velocity = 12,
         weapon_id = 66130,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Erebus", "Terror" }
-  }},
+  },
   ["10660"] = {
     barrages = { {
       name = "Sniper",
@@ -735,10 +735,10 @@ local p = {
         velocity = 12,
         weapon_id = 66190,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Scharnhorst" }
-  }},
+  },
   ["10830"] = {
     barrages = { {
       name = "Aviation Preparations",
@@ -771,10 +771,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 66270,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fusou", "Yamashiro" }
-  }},
+  },
   ["10860"] = {
     barrages = { {
       name = "Assault Mode",
@@ -805,7 +805,7 @@ local p = {
         velocity = 22,
         weapon_id = 66290,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -832,10 +832,10 @@ local p = {
         velocity = 3,
         weapon_id = 66310,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Javelin" }
-  }},
+  },
   ["10940"] = {
     barrages = { {
       name = "Demon Dance",
@@ -868,7 +868,7 @@ local p = {
         velocity = 18,
         weapon_id = 66330,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -895,10 +895,10 @@ local p = {
         velocity = 3,
         weapon_id = 66350,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ayanami" }
-  }},
+  },
   ["11000"] = {
     barrages = { {
       name = "Courageous Shelling",
@@ -929,7 +929,7 @@ local p = {
         velocity = 15,
         weapon_id = 66390,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -958,10 +958,10 @@ local p = {
         velocity = 15,
         weapon_id = 66410,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Washington" }
-  }},
+  },
   ["11020"] = {
     barrages = { {
       name = "Double Sting",
@@ -994,10 +994,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 52250,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Wasp" }
-  }},
+  },
   ["11100"] = {
     barrages = { {
       name = "Concerto of Blood",
@@ -1030,10 +1030,10 @@ local p = {
         velocity = 12,
         weapon_id = 66650,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duke of York" }
-  }},
+  },
   ["11210"] = {
     barrages = { {
       name = "Annihilation Mode",
@@ -1064,7 +1064,7 @@ local p = {
         velocity = 22,
         weapon_id = 66670,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -1091,10 +1091,10 @@ local p = {
         velocity = 3,
         weapon_id = 66690,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Laffey" }
-  }},
+  },
   ["11260"] = {
     barrages = { {
       name = "Eagle's Defiance",
@@ -1126,10 +1126,10 @@ local p = {
         velocity = 3,
         weapon_id = 66850,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hiyou", "Junyou" }
-  }},
+  },
   ["11270"] = {
     barrages = { {
       name = "Blaze of Glory",
@@ -1162,10 +1162,10 @@ local p = {
         velocity = 10,
         weapon_id = 66710,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kirishima" }
-  }},
+  },
   ["11300"] = {
     barrages = { {
       name = "Artillery Volley",
@@ -1196,7 +1196,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 66890,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -1225,10 +1225,10 @@ local p = {
         velocity = 12,
         weapon_id = 66870,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Abercrombie" }
-  }},
+  },
   ["11320"] = {
     barrages = { {
       name = "Destruction Mode",
@@ -1259,7 +1259,7 @@ local p = {
         velocity = 22,
         weapon_id = 67070,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -1285,15 +1285,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 67090,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z23" }
-  }},
+  },
   ["11370"] = {
     barrages = { {
       name = "Fatal Perforation",
@@ -1324,10 +1324,10 @@ local p = {
         velocity = 4,
         weapon_id = 66930,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-19" }
-  }},
+  },
   ["11380"] = {
     barrages = { {
       name = "Departing Strike",
@@ -1358,10 +1358,10 @@ local p = {
         velocity = 4,
         weapon_id = 66910,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-58" }
-  }},
+  },
   ["11400"] = {
     barrages = { {
       name = "Witch's Prank",
@@ -1395,7 +1395,7 @@ local p = {
         velocity = 3,
         weapon_id = 66990,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -1426,7 +1426,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67010,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -1457,10 +1457,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 67030,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Saratoga" }
-  }},
+  },
   ["11420"] = {
     barrages = { {
       name = "Big Seven: Sakura",
@@ -1493,7 +1493,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 67050,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -1522,10 +1522,10 @@ local p = {
         velocity = 12,
         weapon_id = 67050,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nagato" }
-  }},
+  },
   ["11490"] = {
     barrages = { {
       name = "Frontal Fire",
@@ -1558,7 +1558,7 @@ local p = {
         velocity = 12,
         weapon_id = 67110,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -1585,10 +1585,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 67130,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dunkerque" }
-  }},
+  },
   ["11580"] = {
     barrages = { {
       name = "Swordfishes, Attack!",
@@ -1622,7 +1622,7 @@ local p = {
         velocity = 3,
         weapon_id = 67190,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -1652,10 +1652,10 @@ local p = {
         velocity = 3,
         weapon_id = 67210,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Centaur" }
-  }},
+  },
   ["11600"] = {
     barrages = { {
       name = "Melee Artillery",
@@ -1688,10 +1688,10 @@ local p = {
         velocity = 18,
         weapon_id = 67230,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hyuuga" }
-  }},
+  },
   ["11610"] = {
     barrages = { {
       name = "Aviation Battleship Fleet",
@@ -1724,7 +1724,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67270,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -1753,10 +1753,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 67290,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ise" }
-  }},
+  },
   ["11620"] = {
     barrages = { {
       name = "Predestined Launch\n(Suisei)",
@@ -1789,8 +1789,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 67390,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Predestined Launch\n(Ryuusei)",
       parts = { {
         aim_type = 1,
@@ -1820,10 +1820,10 @@ local p = {
         velocity = 3,
         weapon_id = 67410,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Taihou" }
-  }},
+  },
   ["11640"] = {
     barrages = { {
       name = "Valorous Avengers",
@@ -1857,10 +1857,10 @@ local p = {
         velocity = 3,
         weapon_id = 67450,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Essex" }
-  }},
+  },
   ["11670"] = {
     barrages = { {
       name = "Surpriiiiiiiise!",
@@ -1893,10 +1893,10 @@ local p = {
         velocity = 3,
         weapon_id = 67430,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Albacore" }
-  }},
+  },
   ["11720"] = {
     barrages = { {
       name = "Sparkling Battle Star!",
@@ -1929,10 +1929,10 @@ local p = {
         velocity = 9,
         weapon_id = 67570,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "San Diego" }
-  }},
+  },
   ["11760"] = {
     barrages = { {
       name = "Raid Signal",
@@ -1965,7 +1965,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67700,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -1994,10 +1994,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 67710,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ryuujou" }
-  }},
+  },
   ["11800"] = {
     barrages = { {
       name = "Crippling Strike",
@@ -2028,7 +2028,7 @@ local p = {
         velocity = 22,
         weapon_id = 67770,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -2055,7 +2055,7 @@ local p = {
         velocity = 12,
         weapon_id = 67760,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 80,
@@ -2082,7 +2082,7 @@ local p = {
         velocity = 4,
         weapon_id = 67780,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -2109,10 +2109,10 @@ local p = {
         velocity = 15,
         weapon_id = 67880,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Amagi" }
-  }},
+  },
   ["11810"] = {
     barrages = { {
       name = "Fight To Win!",
@@ -2143,7 +2143,7 @@ local p = {
         velocity = 15,
         weapon_id = 67730,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -2172,10 +2172,10 @@ local p = {
         velocity = 2,
         weapon_id = 67740,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kaga(BB)" }
-  }},
+  },
   ["11820"] = {
     barrages = { {
       name = "Conquer to Loot!",
@@ -2206,10 +2206,10 @@ local p = {
         velocity = 4,
         weapon_id = 67750,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kaga(BB)" }
-  }},
+  },
   ["11830"] = {
     barrages = { {
       name = "Flowers of Fate\n(Five Brights)",
@@ -2242,7 +2242,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67810,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -2271,8 +2271,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 67820,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Flowers of Fate\n(Boars, Deers, Butterflies)",
       parts = { {
         aim_type = 1,
@@ -2303,7 +2303,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67810,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -2332,8 +2332,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 67820,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Flowers of Fate\n(Moonlight Sake)",
       parts = { {
         aim_type = 1,
@@ -2364,7 +2364,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67810,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -2393,8 +2393,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 67820,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Flowers of Fate\n(Seeds)",
       parts = { {
         aim_type = 1,
@@ -2425,7 +2425,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67810,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -2454,10 +2454,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 67820,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Souryuu" }
-  }},
+  },
   ["11840"] = {
     barrages = { {
       name = "Flowers of Fate\n(Scraps)",
@@ -2489,8 +2489,8 @@ local p = {
         velocity = 3,
         weapon_id = 67830,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Flowers of Fate\n(Flower Sake)",
       parts = { {
         aim_type = 0,
@@ -2520,8 +2520,8 @@ local p = {
         velocity = 3,
         weapon_id = 67830,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Flowers of Fate\n(Lesser Blue)",
       parts = { {
         aim_type = 0,
@@ -2551,8 +2551,8 @@ local p = {
         velocity = 3,
         weapon_id = 67830,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Flowers of Fate\n(Five Brights)",
       parts = { {
         aim_type = 0,
@@ -2582,10 +2582,10 @@ local p = {
         velocity = 3,
         weapon_id = 67830,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hiryuu" }
-  }},
+  },
   ["11850"] = {
     barrages = { {
       name = "Flashing Blade of Surabaya",
@@ -2618,10 +2618,10 @@ local p = {
         velocity = 12,
         weapon_id = 67870,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ashigara" }
-  }},
+  },
   ["11870"] = {
     barrages = { {
       name = "Divine Marksman+",
@@ -2652,10 +2652,10 @@ local p = {
         velocity = 12,
         weapon_id = 67890,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Warspite" }
-  }},
+  },
   ["11900"] = {
     barrages = { {
       name = "Protector of the North Passage",
@@ -2688,7 +2688,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67910,
         weapon_type = 25
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 20,
@@ -2716,10 +2716,10 @@ local p = {
         velocity = 3,
         weapon_id = 67920,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chaser" }
-  }},
+  },
   ["11920"] = {
     barrages = { {
       name = "Knights of the Sky",
@@ -2751,8 +2751,8 @@ local p = {
         velocity = 3,
         weapon_id = 67950,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Knights of the Sky\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -2782,7 +2782,7 @@ local p = {
         velocity = 3,
         weapon_id = 67950,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -2810,8 +2810,8 @@ local p = {
         velocity = 3,
         weapon_id = 67960,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Knights of the Sky\n(retrofit)",
       parts = { {
         aim_type = 0,
@@ -2841,7 +2841,7 @@ local p = {
         velocity = 3,
         weapon_id = 67950,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -2869,8 +2869,8 @@ local p = {
         velocity = 3,
         weapon_id = 67960,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Knights of the Sky\n(retrofit, enhanced)",
       parts = { {
         aim_type = 0,
@@ -2900,10 +2900,10 @@ local p = {
         velocity = 3,
         weapon_id = 67960,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Independence" }
-  }},
+  },
   ["11930"] = {
     barrages = { {
       name = "Fantastical Takeoff",
@@ -2935,7 +2935,7 @@ local p = {
         velocity = 0,
         weapon_id = 67970,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -2963,10 +2963,10 @@ local p = {
         velocity = 0,
         weapon_id = 67980,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shangri-La" }
-  }},
+  },
   ["11940"] = {
     barrages = { {
       name = "Observer of the Sky and Sea",
@@ -2998,7 +2998,7 @@ local p = {
         velocity = 0,
         weapon_id = 67970,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -3026,10 +3026,10 @@ local p = {
         velocity = 0,
         weapon_id = 67980,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shangri-La" }
-  }},
+  },
   ["11960"] = {
     barrages = { {
       name = "Star of the Shimmering Fjord",
@@ -3060,7 +3060,7 @@ local p = {
         velocity = 3,
         weapon_id = 67990,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 60,
@@ -3087,10 +3087,10 @@ local p = {
         velocity = 18,
         weapon_id = 67993,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hardy" }
-  }},
+  },
   ["11990"] = {
     barrages = { {
       name = "Unwavering Resolution\n(1 Carrier)",
@@ -3123,8 +3123,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 68060,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Unwavering Resolution\n(2 Carriers)",
       parts = { {
         aim_type = 1,
@@ -3155,7 +3155,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 68050,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -3184,7 +3184,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 68060,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -3213,8 +3213,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 68060,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Unwavering Resolution\n(3 Carriers)",
       parts = { {
         aim_type = 0,
@@ -3244,7 +3244,7 @@ local p = {
         velocity = 3,
         weapon_id = 68020,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -3273,7 +3273,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 68050,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -3302,10 +3302,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 68060,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bunker Hill" }
-  }},
+  },
   ["12040"] = {
     barrages = { {
       name = "Whimsical Inventor\n(Prototype Type-0 Main Gun)",
@@ -3338,8 +3338,8 @@ local p = {
         velocity = 12,
         weapon_id = 68070,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Whimsical Inventor\n(Prototype Torpedo Tube)",
       parts = { {
         aim_type = 0,
@@ -3368,8 +3368,8 @@ local p = {
         velocity = 4,
         weapon_id = 68080,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Whimsical Inventor\n(Special Pyrotechnics Bomb)",
       parts = { {
         aim_type = 0,
@@ -3398,10 +3398,10 @@ local p = {
         velocity = 3,
         weapon_id = 68090,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yuubari" }
-  }},
+  },
   ["12050"] = {
     barrages = { {
       name = "Torpedoes: Ready!",
@@ -3432,10 +3432,10 @@ local p = {
         velocity = 3,
         weapon_id = 68910,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hiei-chan" }
-  }},
+  },
   ["12070"] = {
     barrages = { {
       name = "Take the Initiative!",
@@ -3468,7 +3468,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 68350,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -3497,10 +3497,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 68360,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Akagi-chan" }
-  }},
+  },
   ["12090"] = {
     barrages = { {
       name = "Taste My Wrath!",
@@ -3531,7 +3531,7 @@ local p = {
         velocity = 15,
         weapon_id = 68920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -3560,8 +3560,8 @@ local p = {
         velocity = 13,
         weapon_id = 68930,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Taste My Wrath!\n(Enhanced)",
       parts = { {
         aim_type = 1,
@@ -3590,7 +3590,7 @@ local p = {
         velocity = 15,
         weapon_id = 68920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -3617,10 +3617,10 @@ local p = {
         velocity = 15,
         weapon_id = 68940,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Zeppy" }
-  }},
+  },
   ["12110"] = {
     barrages = { {
       name = "Destiny Draw!\n(Blackburn Fire Blast)",
@@ -3654,8 +3654,8 @@ local p = {
         velocity = 1,
         weapon_id = 68380,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Destiny Draw!\n(Swordfish Bombardment of Destruction)",
       parts = { {
         aim_type = 0,
@@ -3685,8 +3685,8 @@ local p = {
         velocity = 1,
         weapon_id = 68370,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Destiny Draw!\n(Obnoxious Carpet Bombing)",
       parts = { {
         aim_type = 1,
@@ -3716,10 +3716,10 @@ local p = {
         velocity = 1,
         weapon_id = 68390,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hermes" }
-  }},
+  },
   ["12130"] = {
     barrages = { {
       name = "Unwavering Strength",
@@ -3750,7 +3750,7 @@ local p = {
         velocity = 15,
         weapon_id = 68410,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -3779,10 +3779,10 @@ local p = {
         velocity = 15,
         weapon_id = 68500,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bismarck" }
-  }},
+  },
   ["12150"] = {
     barrages = { {
       name = "Armament Optimization\n(Enhanced)",
@@ -3813,7 +3813,7 @@ local p = {
         velocity = 15,
         weapon_id = 68440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -3840,8 +3840,8 @@ local p = {
         velocity = 5.5,
         weapon_id = 68490,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Armament Optimization",
       parts = { {
         aim_type = 1,
@@ -3870,7 +3870,7 @@ local p = {
         velocity = 15,
         weapon_id = 68430,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -3897,10 +3897,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 68490,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "King George V" }
-  }},
+  },
   ["12180"] = {
     barrages = { {
       name = "The Light of an Oath",
@@ -3931,8 +3931,8 @@ local p = {
         velocity = 4,
         weapon_id = 68450,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "The Light of an Oath\n(Enhanced)",
       parts = { {
         aim_type = 0,
@@ -3961,10 +3961,10 @@ local p = {
         velocity = 4,
         weapon_id = 68450,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-556" }
-  }},
+  },
   ["12190"] = {
     barrages = { {
       name = "Devilish Strike",
@@ -3995,10 +3995,10 @@ local p = {
         velocity = 18,
         weapon_id = 68460,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z36" }
-  }},
+  },
   ["12270"] = {
     barrages = { {
       name = "Sparkling Star",
@@ -4029,10 +4029,10 @@ local p = {
         velocity = 10,
         weapon_id = 68510,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Li'l Sandy" }
-  }},
+  },
   ["12280"] = {
     barrages = { {
       name = "Destruction Mode - Prototype",
@@ -4063,10 +4063,10 @@ local p = {
         velocity = 22,
         weapon_id = 68520,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z1" }
-  }},
+  },
   ["12360"] = {
     barrages = { {
       name = "Messenger of Love",
@@ -4097,7 +4097,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 68530,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -4124,10 +4124,10 @@ local p = {
         velocity = 4,
         weapon_id = 68540,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Émile Bertin" }
-  }},
+  },
   ["12370"] = {
     barrages = { {
       name = "Glen Assault",
@@ -4159,10 +4159,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 68560,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-25" }
-  }},
+  },
   ["12380"] = {
     barrages = { {
       name = "Destructive Departure",
@@ -4195,10 +4195,10 @@ local p = {
         velocity = 15,
         weapon_id = 68570,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-25" }
-  }},
+  },
   ["12390"] = {
     barrages = { {
       name = "Turning The Tables!",
@@ -4229,10 +4229,10 @@ local p = {
         velocity = 4,
         weapon_id = 68580,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-168" }
-  }},
+  },
   ["12430"] = {
     barrages = { {
       name = "Lucky A",
@@ -4263,7 +4263,7 @@ local p = {
         velocity = 14,
         weapon_id = 68600,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -4292,10 +4292,10 @@ local p = {
         velocity = 15,
         weapon_id = 68620,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Alabama" }
-  }},
+  },
   ["12470"] = {
     barrages = { {
       name = "Double The Gato",
@@ -4326,10 +4326,10 @@ local p = {
         velocity = 3,
         weapon_id = 68650,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cavalla" }
-  }},
+  },
   ["12500"] = {
     barrages = { {
       name = "Hellcat's Roar",
@@ -4362,10 +4362,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 68640,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bataan" }
-  }},
+  },
   ["12570"] = {
     barrages = { {
       name = "Supporting Wings",
@@ -4399,10 +4399,10 @@ local p = {
         velocity = 3,
         weapon_id = 68670,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Formidable" }
-  }},
+  },
   ["12600"] = {
     barrages = { {
       name = "Rosa Bombardamento",
@@ -4433,7 +4433,7 @@ local p = {
         velocity = 15,
         weapon_id = 68740,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -4460,8 +4460,8 @@ local p = {
         velocity = 18,
         weapon_id = 68700,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Rosa Bombardamento\n(Enhanced)",
       parts = { {
         aim_type = 1,
@@ -4490,7 +4490,7 @@ local p = {
         velocity = 15,
         weapon_id = 68680,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -4517,10 +4517,10 @@ local p = {
         velocity = 18,
         weapon_id = 68700,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Littorio" }
-  }},
+  },
   ["12640"] = {
     barrages = { {
       name = "Sardegnian Coercion",
@@ -4553,7 +4553,7 @@ local p = {
         velocity = 18,
         weapon_id = 68710,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -4580,10 +4580,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 68720,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Giulio Cesare" }
-  }},
+  },
   ["12650"] = {
     barrages = { {
       name = "Fading Memories of Glory",
@@ -4614,10 +4614,10 @@ local p = {
         velocity = 4,
         weapon_id = 68730,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Conte di Cavour", "Giulio Cesare" }
-  }},
+  },
   ["12680"] = {
     barrages = { {
       name = "Rain and Snow",
@@ -4650,7 +4650,7 @@ local p = {
         velocity = 18,
         weapon_id = 68760,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -4677,10 +4677,10 @@ local p = {
         velocity = 3,
         weapon_id = 68770,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shigure" }
-  }},
+  },
   ["12740"] = {
     barrages = { {
       name = "Airborne Dualism",
@@ -4713,7 +4713,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 68790,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -4742,7 +4742,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 68800,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -4770,10 +4770,10 @@ local p = {
         velocity = 3,
         weapon_id = 68820,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Akagi μ" }
-  }},
+  },
   ["12810"] = {
     barrages = { {
       name = "Unleashed Tactics\n(Non-Exercise)",
@@ -4804,7 +4804,7 @@ local p = {
         velocity = 15,
         weapon_id = 68990,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -4831,7 +4831,7 @@ local p = {
         velocity = 7,
         weapon_id = 69010,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -4858,7 +4858,7 @@ local p = {
         velocity = 7,
         weapon_id = 69010,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -4885,8 +4885,8 @@ local p = {
         velocity = 4,
         weapon_id = 69020,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Unleashed Tactics\n(Exercise)",
       parts = { {
         aim_type = 1,
@@ -4915,7 +4915,7 @@ local p = {
         velocity = 15,
         weapon_id = 69000,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -4942,7 +4942,7 @@ local p = {
         velocity = 7,
         weapon_id = 69010,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -4969,7 +4969,7 @@ local p = {
         velocity = 7,
         weapon_id = 69010,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -4996,7 +4996,7 @@ local p = {
         velocity = 4,
         weapon_id = 69020,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 180,
@@ -5023,10 +5023,10 @@ local p = {
         velocity = 3,
         weapon_id = 69040,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Suruga" }
-  }},
+  },
   ["12980"] = {
     barrages = { {
       name = "The Blue Cruiser",
@@ -5059,10 +5059,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 69060,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tashkent" }
-  }},
+  },
   ["13000"] = {
     barrages = { {
       name = "Cavalier of the Ether",
@@ -5095,10 +5095,10 @@ local p = {
         velocity = 16,
         weapon_id = 69130,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chapayev" }
-  }},
+  },
   ["13020"] = {
     barrages = { {
       name = "Lod Obstrel",
@@ -5129,7 +5129,7 @@ local p = {
         velocity = 15,
         weapon_id = 69070,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -5159,7 +5159,7 @@ local p = {
         velocity = 8,
         weapon_id = 69090,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -5189,7 +5189,7 @@ local p = {
         velocity = 8,
         weapon_id = 69100,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -5219,7 +5219,7 @@ local p = {
         velocity = 8,
         weapon_id = 69110,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -5246,10 +5246,10 @@ local p = {
         velocity = 18,
         weapon_id = 69120,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sovetskaya Rossiya" }
-  }},
+  },
   ["13070"] = {
     barrages = { {
       name = "Soaring Silver Wings",
@@ -5284,7 +5284,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 69180,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -5315,10 +5315,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 69190,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Intrepid" }
-  }},
+  },
   ["13130"] = {
     barrages = { {
       name = "Black Cat Cyclone",
@@ -5351,7 +5351,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 53150,
         weapon_type = 25
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -5380,10 +5380,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 69230,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cooper" }
-  }},
+  },
   ["13160"] = {
     barrages = { {
       name = "Accomplish Any Feat!",
@@ -5414,7 +5414,7 @@ local p = {
         velocity = 15,
         weapon_id = 69240,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -5441,7 +5441,7 @@ local p = {
         velocity = 15,
         weapon_id = 69300,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 80,
@@ -5468,7 +5468,7 @@ local p = {
         velocity = 4,
         weapon_id = 69280,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -5495,10 +5495,10 @@ local p = {
         velocity = 16,
         weapon_id = 69260,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tosa" }
-  }},
+  },
   ["13170"] = {
     barrages = { {
       name = "Crush Any Contender!\n(Proximity)",
@@ -5529,7 +5529,7 @@ local p = {
         velocity = 16,
         weapon_id = 69360,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -5558,8 +5558,8 @@ local p = {
         velocity = 18,
         weapon_id = 69350,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Crush Any Contender!\n(crossfleet)",
       parts = { {
         aim_type = 1,
@@ -5588,10 +5588,10 @@ local p = {
         velocity = 18,
         weapon_id = 69380,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tosa" }
-  }},
+  },
   ["13190"] = {
     barrages = { {
       name = "I'm Not Afraid Anymore!",
@@ -5622,10 +5622,10 @@ local p = {
         velocity = 4,
         weapon_id = 69370,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Isuzu" }
-  }},
+  },
   ["13250"] = {
     barrages = { {
       name = "The Iris's Holy Flame",
@@ -5658,7 +5658,7 @@ local p = {
         velocity = 15,
         weapon_id = 69400,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -5687,10 +5687,10 @@ local p = {
         velocity = 3,
         weapon_id = 69420,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Richelieu" }
-  }},
+  },
   ["13270"] = {
     barrages = { {
       name = "Bellowing Gusts of Fire",
@@ -5723,10 +5723,10 @@ local p = {
         velocity = 15,
         weapon_id = 69390,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Algérie" }
-  }},
+  },
   ["13320"] = {
     barrages = { {
       name = "Shells of Judgment",
@@ -5759,10 +5759,10 @@ local p = {
         velocity = 10,
         weapon_id = 69450,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "La Galissonnière" }
-  }},
+  },
   ["13340"] = {
     barrages = { {
       name = "Sacrament: Holy Bombardment",
@@ -5793,7 +5793,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 69430,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -5822,10 +5822,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 69440,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Béarn" }
-  }},
+  },
   ["13350"] = {
     barrages = { {
       name = "Sacrament: Sacred Second Wing",
@@ -5858,7 +5858,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 69470,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -5885,10 +5885,10 @@ local p = {
         velocity = 4,
         weapon_id = 69480,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Béarn" }
-  }},
+  },
   ["13360"] = {
     barrages = { {
       name = "Take Off!",
@@ -5920,10 +5920,10 @@ local p = {
         velocity = 3,
         weapon_id = 69500,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Illustrious" }
-  }},
+  },
   ["13370"] = {
     barrages = { {
       name = "Prayer for Love and Peace",
@@ -5957,10 +5957,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 69520,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Illustrious" }
-  }},
+  },
   ["13390"] = {
     barrages = { {
       name = "Lemme At 'Em!",
@@ -5991,10 +5991,10 @@ local p = {
         velocity = 12,
         weapon_id = 69530,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Eskimo" }
-  }},
+  },
   ["13420"] = {
     barrages = { {
       name = "Athena's Catapult",
@@ -6027,7 +6027,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 69730,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -6055,7 +6055,7 @@ local p = {
         velocity = 3,
         weapon_id = 69740,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -6084,10 +6084,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 52750,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Perseus" }
-  }},
+  },
   ["13440"] = {
     barrages = { {
       name = "Synchronized Strike",
@@ -6120,10 +6120,10 @@ local p = {
         velocity = 15,
         weapon_id = 69850,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Howe" }
-  }},
+  },
   ["13460"] = {
     barrages = { {
       name = "Bombarda Geminio\n(Straight)",
@@ -6154,8 +6154,8 @@ local p = {
         velocity = 20,
         weapon_id = 69840,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Bombarda Geminio\n(Arching)",
       parts = { {
         aim_type = 1,
@@ -6184,10 +6184,10 @@ local p = {
         velocity = 10,
         weapon_id = 69750,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hermione" }
-  }},
+  },
   ["13480"] = {
     barrages = { {
       name = "All Out Assault, Open Fire!",
@@ -6218,7 +6218,7 @@ local p = {
         velocity = 15,
         weapon_id = 69820,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -6245,10 +6245,10 @@ local p = {
         velocity = 5,
         weapon_id = 69830,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Icarus" }
-  }},
+  },
   ["13500"] = {
     barrages = { {
       name = "Leading the Way",
@@ -6281,10 +6281,10 @@ local p = {
         velocity = 15,
         weapon_id = 69790,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Valiant" }
-  }},
+  },
   ["13510"] = {
     barrages = { {
       name = "Forward!",
@@ -6317,7 +6317,7 @@ local p = {
         velocity = 15,
         weapon_id = 69800,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -6344,10 +6344,10 @@ local p = {
         velocity = 20,
         weapon_id = 69810,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Valiant" }
-  }},
+  },
   ["13520"] = {
     barrages = { {
       name = "Royal Arts: Knight's Arsenal",
@@ -6378,7 +6378,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 69430,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -6407,10 +6407,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 69440,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Eagle" }
-  }},
+  },
   ["13530"] = {
     barrages = { {
       name = "Royal Arts: Swordbearing Eagle",
@@ -6442,10 +6442,10 @@ local p = {
         velocity = 3,
         weapon_id = 69780,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Eagle" }
-  }},
+  },
   ["13550"] = {
     barrages = { {
       name = "The Smiling Sawfish",
@@ -6476,10 +6476,10 @@ local p = {
         velocity = 4,
         weapon_id = 69860,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-96" }
-  }},
+  },
   ["13570"] = {
     barrages = { {
       name = "Torpedo-Deflecting Field",
@@ -6509,15 +6509,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 69870,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z26" }
-  }},
+  },
   ["13580"] = {
     barrages = { {
       name = "Hope's Tempest",
@@ -6550,7 +6550,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 69970,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -6578,10 +6578,10 @@ local p = {
         velocity = 3,
         weapon_id = 51470,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shinano" }
-  }},
+  },
   ["13590"] = {
     barrages = { {
       name = "Dreamwaker's Bow",
@@ -6612,7 +6612,7 @@ local p = {
         velocity = 7,
         weapon_id = 65060,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -6639,10 +6639,10 @@ local p = {
         velocity = 0.6,
         weapon_id = 65060,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shinano" }
-  }},
+  },
   ["13610"] = {
     barrages = { {
       name = "Kii Fleet Strategy",
@@ -6673,7 +6673,7 @@ local p = {
         velocity = 15,
         weapon_id = 69880,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -6700,7 +6700,7 @@ local p = {
         velocity = 7,
         weapon_id = 69900,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -6727,7 +6727,7 @@ local p = {
         velocity = 7,
         weapon_id = 69900,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -6754,10 +6754,10 @@ local p = {
         velocity = 4,
         weapon_id = 69910,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kii" }
-  }},
+  },
   ["13640"] = {
     barrages = { {
       name = "Suzutsuki, Causing Confusion!",
@@ -6790,7 +6790,7 @@ local p = {
         velocity = 12,
         weapon_id = 920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -6817,7 +6817,7 @@ local p = {
         velocity = 12,
         weapon_id = 69920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -6844,10 +6844,10 @@ local p = {
         velocity = 4,
         weapon_id = 69950,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Suzutsuki" }
-  }},
+  },
   ["13680"] = {
     barrages = { {
       name = "Strike Team, Attack!",
@@ -6880,8 +6880,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 52250,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Strike Team, Attack!\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -6912,8 +6912,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 52250,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Strike Team, Attack!\n(2nd+ launch)",
       parts = { {
         aim_type = 1,
@@ -6943,8 +6943,8 @@ local p = {
         velocity = 3,
         weapon_id = 51350,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Strike Team, Attack!\n(2nd+ launch, enhanced)",
       parts = { {
         aim_type = 1,
@@ -6974,10 +6974,10 @@ local p = {
         velocity = 3,
         weapon_id = 51350,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chitose" }
-  }},
+  },
   ["13690"] = {
     barrages = { {
       name = "Chiyoda's Domain?",
@@ -7010,8 +7010,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 52250,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Chiyoda's Domain?\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -7042,8 +7042,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 52250,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Chiyoda's Domain?\n(2nd+ launch)",
       parts = { {
         aim_type = 1,
@@ -7073,8 +7073,8 @@ local p = {
         velocity = 3,
         weapon_id = 51350,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Chiyoda's Domain?\n(2nd+ launch, enhanced)",
       parts = { {
         aim_type = 1,
@@ -7104,10 +7104,10 @@ local p = {
         velocity = 3,
         weapon_id = 51350,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chiyoda" }
-  }},
+  },
   ["13710"] = {
     barrages = { {
       name = "Evasive Scramble",
@@ -7139,10 +7139,10 @@ local p = {
         velocity = 3,
         weapon_id = 65080,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Princeton" }
-  }},
+  },
   ["13730"] = {
     barrages = { {
       name = "Encore Flare",
@@ -7175,7 +7175,7 @@ local p = {
         velocity = 12,
         weapon_id = 61025,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -7204,7 +7204,7 @@ local p = {
         velocity = 10,
         weapon_id = 65090,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -7231,10 +7231,10 @@ local p = {
         velocity = 2,
         weapon_id = 65250,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Roon μ" }
-  }},
+  },
   ["13740"] = {
     barrages = { {
       name = "Bilateral Accompaniment",
@@ -7265,10 +7265,10 @@ local p = {
         velocity = 2,
         weapon_id = 65250,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Roon μ" }
-  }},
+  },
   ["13750"] = {
     barrages = { {
       name = "Scarlet Waltz",
@@ -7300,8 +7300,8 @@ local p = {
         velocity = 3,
         weapon_id = 65200,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Scarlet Waltz\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -7331,7 +7331,7 @@ local p = {
         velocity = 3,
         weapon_id = 65200,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -7360,7 +7360,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 65220,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -7389,10 +7389,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 65230,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Taihou μ" }
-  }},
+  },
   ["13760"] = {
     barrages = { {
       name = "Soaring Opening",
@@ -7423,10 +7423,10 @@ local p = {
         velocity = 10,
         weapon_id = 65240,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Taihou μ" }
-  }},
+  },
   ["13770"] = {
     barrages = { {
       name = "Heavenly Hymn",
@@ -7459,10 +7459,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 65140,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Malin μ" }
-  }},
+  },
   ["13800"] = {
     barrages = { {
       name = "Blue Spirit",
@@ -7496,10 +7496,10 @@ local p = {
         velocity = 8,
         weapon_id = 65270,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Illustrious μ" }
-  }},
+  },
   ["13810"] = {
     barrages = { {
       name = "Lyrical Dedication",
@@ -7532,8 +7532,8 @@ local p = {
         velocity = 18,
         weapon_id = 65170,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Lyrical Dedication\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -7564,7 +7564,7 @@ local p = {
         velocity = 18,
         weapon_id = 65180,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -7591,10 +7591,10 @@ local p = {
         velocity = 9,
         weapon_id = 65180,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dido μ" }
-  }},
+  },
   ["13830"] = {
     barrages = { {
       name = "Beckoning of Ice",
@@ -7627,10 +7627,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 65120,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tashkent μ" }
-  }},
+  },
   ["13850"] = {
     barrages = { {
       name = "Universal Surprise!",
@@ -7663,7 +7663,7 @@ local p = {
         velocity = 3,
         weapon_id = 65100,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 60,
@@ -7692,10 +7692,10 @@ local p = {
         velocity = 3,
         weapon_id = 65110,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Albacore μ" }
-  }},
+  },
   ["13880"] = {
     barrages = { {
       name = "Iron Blood Falcon",
@@ -7727,10 +7727,10 @@ local p = {
         velocity = 3,
         weapon_id = 65510,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Peter Strasser" }
-  }},
+  },
   ["13920"] = {
     barrages = { {
       name = "Heinrich's Hunch Punch",
@@ -7761,7 +7761,7 @@ local p = {
         velocity = 10,
         weapon_id = 65520,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -7788,10 +7788,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 65520,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Prinz Heinrich" }
-  }},
+  },
   ["13930"] = {
     barrages = { {
       name = "Westward Trident",
@@ -7822,10 +7822,10 @@ local p = {
         velocity = 4,
         weapon_id = 64010,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-37" }
-  }},
+  },
   ["13950"] = {
     barrages = { {
       name = "The Lonesome Lookout",
@@ -7858,8 +7858,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 65590,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "The Lonesome Lookout\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -7890,10 +7890,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 65590,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Weser" }
-  }},
+  },
   ["13970"] = {
     barrages = { {
       name = "Follow My Lead... Please!",
@@ -7924,10 +7924,10 @@ local p = {
         velocity = 18,
         weapon_id = 65530,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nürnberg" }
-  }},
+  },
   ["14000"] = {
     barrages = { {
       name = "Fiendish Rampage",
@@ -7958,7 +7958,7 @@ local p = {
         velocity = 18,
         weapon_id = 65540,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -7985,10 +7985,10 @@ local p = {
         velocity = 18,
         weapon_id = 65540,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z24" }
-  }},
+  },
   ["14020"] = {
     barrages = { {
       name = "I'll Protect the Vanguard!",
@@ -8019,10 +8019,10 @@ local p = {
         velocity = 10,
         weapon_id = 65560,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z28" }
-  }},
+  },
   ["14030"] = {
     barrages = { {
       name = "Ontological Rudder",
@@ -8053,7 +8053,7 @@ local p = {
         velocity = 16,
         weapon_id = 65600,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -8080,10 +8080,10 @@ local p = {
         velocity = 5,
         weapon_id = 65610,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vincenzo Gioberti" }
-  }},
+  },
   ["14050"] = {
     barrages = { {
       name = "Viola Spear",
@@ -8114,10 +8114,10 @@ local p = {
         velocity = 22,
         weapon_id = 65620,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pola" }
-  }},
+  },
   ["14070"] = {
     barrages = { {
       name = "Purge Evil",
@@ -8148,7 +8148,7 @@ local p = {
         velocity = 7,
         weapon_id = 65640,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -8175,7 +8175,7 @@ local p = {
         velocity = 7,
         weapon_id = 65640,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -8202,10 +8202,10 @@ local p = {
         velocity = 3,
         weapon_id = 65650,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ying Swei" }
-  }},
+  },
   ["14090"] = {
     barrages = { {
       name = "Cleanse Impurity",
@@ -8236,7 +8236,7 @@ local p = {
         velocity = 7,
         weapon_id = 65640,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -8263,7 +8263,7 @@ local p = {
         velocity = 7,
         weapon_id = 65640,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -8290,10 +8290,10 @@ local p = {
         velocity = 3,
         weapon_id = 65650,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chao Ho" }
-  }},
+  },
   ["14140"] = {
     barrages = { {
       name = "Scalawaggish Little Snowball",
@@ -8326,10 +8326,10 @@ local p = {
         velocity = 17,
         weapon_id = 65670,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Stremitelny" }
-  }},
+  },
   ["14150"] = {
     barrages = { {
       name = "Curtain of Rime",
@@ -8363,10 +8363,10 @@ local p = {
         velocity = 6,
         weapon_id = 65680,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sovetskaya Belorussiya" }
-  }},
+  },
   ["14170"] = {
     barrages = { {
       name = "Kirov, Reporting!",
@@ -8400,10 +8400,10 @@ local p = {
         velocity = 1,
         weapon_id = 65780,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kirov" }
-  }},
+  },
   ["14190"] = {
     barrages = { {
       name = "Bulwark of Rime",
@@ -8436,10 +8436,10 @@ local p = {
         velocity = 15,
         weapon_id = 65790,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tallinn" }
-  }},
+  },
   ["14240"] = {
     barrages = { {
       name = "Laid-Back Defending",
@@ -8472,10 +8472,10 @@ local p = {
         velocity = 12,
         weapon_id = 65800,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Murmansk" }
-  }},
+  },
   ["14260"] = {
     barrages = { {
       name = "From Merkuria With Love!",
@@ -8508,10 +8508,10 @@ local p = {
         velocity = 6,
         weapon_id = 65810,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pamiat' Merkuria" }
-  }},
+  },
   ["14270"] = {
     barrages = { {
       name = "Shooting Gun-Star",
@@ -8542,7 +8542,7 @@ local p = {
         velocity = 16,
         weapon_id = 65880,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -8569,10 +8569,10 @@ local p = {
         velocity = 3,
         weapon_id = 65890,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Allen M. Sumner" }
-  }},
+  },
   ["14310"] = {
     barrages = { {
       name = "The Eternal Flagship",
@@ -8605,7 +8605,7 @@ local p = {
         velocity = 15,
         weapon_id = 65900,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 50,
@@ -8632,10 +8632,10 @@ local p = {
         velocity = 15,
         weapon_id = 65900,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vittorio Veneto" }
-  }},
+  },
   ["14340"] = {
     barrages = { {
       name = "Halo of Flames",
@@ -8666,10 +8666,10 @@ local p = {
         velocity = 18,
         weapon_id = 65910,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duca degli Abruzzi" }
-  }},
+  },
   ["14370"] = {
     barrages = { {
       name = "Freccia dell'Aquila",
@@ -8702,7 +8702,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 65930,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 20,
@@ -8730,10 +8730,10 @@ local p = {
         velocity = 3,
         weapon_id = 65950,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Aquila" }
-  }},
+  },
   ["14420"] = {
     barrages = { {
       name = "The Southwesterly Wind",
@@ -8764,7 +8764,7 @@ local p = {
         velocity = 4,
         weapon_id = 64100,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -8791,10 +8791,10 @@ local p = {
         velocity = 8,
         weapon_id = 64110,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Libeccio" }
-  }},
+  },
   ["14460"] = {
     barrages = { {
       name = "Turn the Tide",
@@ -8825,7 +8825,7 @@ local p = {
         velocity = 4,
         weapon_id = 64020,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -8852,10 +8852,10 @@ local p = {
         velocity = 12,
         weapon_id = 64030,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Torricelli" }
-  }},
+  },
   ["14470"] = {
     barrages = { {
       name = "Absolute Adaptability",
@@ -8886,7 +8886,7 @@ local p = {
         velocity = 15,
         weapon_id = 64040,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -8915,7 +8915,7 @@ local p = {
         velocity = 15,
         weapon_id = 64050,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 80,
@@ -8942,10 +8942,10 @@ local p = {
         velocity = 4,
         weapon_id = 64080,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Amagi-chan" }
-  }},
+  },
   ["14480"] = {
     barrages = { {
       name = "Prescient Planning",
@@ -8976,10 +8976,10 @@ local p = {
         velocity = 4,
         weapon_id = 64090,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Amagi-chan" }
-  }},
+  },
   ["14510"] = {
     barrages = { {
       name = "Dragon's Breath",
@@ -9012,7 +9012,7 @@ local p = {
         velocity = 15,
         weapon_id = 64220,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 50,
@@ -9041,7 +9041,7 @@ local p = {
         velocity = 13,
         weapon_id = 64210,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -9068,10 +9068,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 65980,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "New Jersey" }
-  }},
+  },
   ["14520"] = {
     barrages = { {
       name = "Freedom Through Firepower",
@@ -9104,7 +9104,7 @@ local p = {
         velocity = 13,
         weapon_id = 64210,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -9131,10 +9131,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 65990,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "New Jersey" }
-  }},
+  },
   ["14540"] = {
     barrages = { {
       name = "Wings of Soaring Flames",
@@ -9168,7 +9168,7 @@ local p = {
         velocity = 15,
         weapon_id = 64140,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 6,
         angle = 45,
@@ -9198,10 +9198,10 @@ local p = {
         velocity = 15,
         weapon_id = 64140,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ticonderoga" }
-  }},
+  },
   ["14570"] = {
     barrages = { {
       name = "Get Starstruck!",
@@ -9234,7 +9234,7 @@ local p = {
         velocity = 12,
         weapon_id = 65970,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 60,
@@ -9263,10 +9263,10 @@ local p = {
         velocity = 12,
         weapon_id = 65970,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "San Francisco" }
-  }},
+  },
   ["14600"] = {
     barrages = { {
       name = "Parting Gift",
@@ -9297,10 +9297,10 @@ local p = {
         velocity = 3,
         weapon_id = 65960,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Archerfish" }
-  }},
+  },
   ["14610"] = {
     barrages = { {
       name = "The Bigger They Are...",
@@ -9331,10 +9331,10 @@ local p = {
         velocity = 18,
         weapon_id = 64120,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Boise" }
-  }},
+  },
   ["14700"] = {
     barrages = { {
       name = "Foo and Friends and Kasumi Too",
@@ -9367,7 +9367,7 @@ local p = {
         velocity = 15,
         weapon_id = 64240,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -9394,10 +9394,10 @@ local p = {
         velocity = 4,
         weapon_id = 64250,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kasumi" }
-  }},
+  },
   ["14710"] = {
     barrages = { {
       name = "Destruction Bolt",
@@ -9430,7 +9430,7 @@ local p = {
         velocity = 28,
         weapon_id = 64600,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -9458,10 +9458,10 @@ local p = {
         velocity = 3,
         weapon_id = 64620,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ark Royal" }
-  }},
+  },
   ["14720"] = {
     barrages = { {
       name = "Support Robot Mk IV",
@@ -9492,7 +9492,7 @@ local p = {
         velocity = 7,
         weapon_id = 64630,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -9519,7 +9519,7 @@ local p = {
         velocity = 7,
         weapon_id = 64630,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -9546,10 +9546,10 @@ local p = {
         velocity = 11,
         weapon_id = 64630,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ingraham" }
-  }},
+  },
   ["14740"] = {
     barrages = { {
       name = "The Intrepid Nautilus",
@@ -9580,7 +9580,7 @@ local p = {
         velocity = 3,
         weapon_id = 64640,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -9607,10 +9607,10 @@ local p = {
         velocity = 3,
         weapon_id = 64650,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nautilus" }
-  }},
+  },
   ["14760"] = {
     barrages = { {
       name = "Sunglint Phantasm",
@@ -9641,7 +9641,7 @@ local p = {
         velocity = 15,
         weapon_id = 64660,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -9668,10 +9668,10 @@ local p = {
         velocity = 5,
         weapon_id = 64670,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yura" }
-  }},
+  },
   ["14780"] = {
     barrages = { {
       name = "All-Seeing Eye",
@@ -9706,7 +9706,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 64710,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -9733,10 +9733,10 @@ local p = {
         velocity = 15,
         weapon_id = 64720,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chikuma" }
-  }},
+  },
   ["14830"] = {
     barrages = { {
       name = "Late-Blooming Airstrike",
@@ -9768,7 +9768,7 @@ local p = {
         velocity = 0.5,
         weapon_id = 64750,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -9796,10 +9796,10 @@ local p = {
         velocity = 3,
         weapon_id = 51470,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Katsuragi" }
-  }},
+  },
   ["14850"] = {
     barrages = { {
       name = "Upon the Wind's Edge",
@@ -9832,7 +9832,7 @@ local p = {
         velocity = 8,
         weapon_id = 63110,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -9861,10 +9861,10 @@ local p = {
         velocity = 3,
         weapon_id = 63120,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shimakaze" }
-  }},
+  },
   ["14870"] = {
     barrages = { {
       name = "Within the Thunder's Roar",
@@ -9897,10 +9897,10 @@ local p = {
         velocity = 3,
         weapon_id = 63130,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shimakaze" }
-  }},
+  },
   ["14900"] = {
     barrages = { {
       name = "Feral Claws",
@@ -9933,7 +9933,7 @@ local p = {
         velocity = 16,
         weapon_id = 64760,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -9960,10 +9960,10 @@ local p = {
         velocity = 4,
         weapon_id = 64770,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yuudachi" }
-  }},
+  },
   ["14920"] = {
     barrages = { {
       name = "Nola Finale",
@@ -9996,10 +9996,10 @@ local p = {
         velocity = 25,
         weapon_id = 63170,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "New Orleans" }
-  }},
+  },
   ["14930"] = {
     barrages = { {
       name = "Terrific Terror",
@@ -10030,7 +10030,7 @@ local p = {
         velocity = 5,
         weapon_id = 63180,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -10057,10 +10057,10 @@ local p = {
         velocity = 10,
         weapon_id = 63190,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Terrible" }
-  }},
+  },
   ["14990"] = {
     barrages = { {
       name = "Scorching Combo\n(unenhanced)",
@@ -10091,7 +10091,7 @@ local p = {
         velocity = 15,
         weapon_id = 64860,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -10118,8 +10118,8 @@ local p = {
         velocity = 5.5,
         weapon_id = 64890,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Scorching Combo\n(stack 1)",
       parts = { {
         aim_type = 0,
@@ -10148,7 +10148,7 @@ local p = {
         velocity = 15,
         weapon_id = 64870,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -10175,8 +10175,8 @@ local p = {
         velocity = 5.5,
         weapon_id = 64890,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Scorching Combo\n(stack 2)",
       parts = { {
         aim_type = 0,
@@ -10205,7 +10205,7 @@ local p = {
         velocity = 15,
         weapon_id = 64880,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -10232,10 +10232,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 64900,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Magdeburg" }
-  }},
+  },
   ["15000"] = {
     barrages = { {
       name = "Bad Girl's Surprise Strike",
@@ -10268,10 +10268,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 64850,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Elbe" }
-  }},
+  },
   ["15020"] = {
     barrages = { {
       name = "Knockout Shot",
@@ -10302,7 +10302,7 @@ local p = {
         velocity = 10,
         weapon_id = 64910,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -10329,10 +10329,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 64910,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Prinz Adalbert" }
-  }},
+  },
   ["15050"] = {
     barrages = { {
       name = "The Laurel of Prosody",
@@ -10365,8 +10365,8 @@ local p = {
         velocity = 15,
         weapon_id = 63500,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "The Laurel of Prosody\n(proximity)",
       parts = { {
         aim_type = 0,
@@ -10394,12 +10394,12 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 63510,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -10426,10 +10426,10 @@ local p = {
         velocity = 14,
         weapon_id = 63520,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ulrich von Hutten" }
-  }},
+  },
   ["15070"] = {
     barrages = { {
       name = "Revolutionary's Prosaic",
@@ -10460,7 +10460,7 @@ local p = {
         velocity = 18,
         weapon_id = 63540,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -10487,10 +10487,10 @@ local p = {
         velocity = 14,
         weapon_id = 63530,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ulrich von Hutten" }
-  }},
+  },
   ["15090"] = {
     barrages = { {
       name = "Whirlpool Warning?",
@@ -10521,10 +10521,10 @@ local p = {
         velocity = 10,
         weapon_id = 63550,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Charybdis" }
-  }},
+  },
   ["15110"] = {
     barrages = { {
       name = "Scrollbearer of Turbulent Seas",
@@ -10556,7 +10556,7 @@ local p = {
         velocity = 2,
         weapon_id = 63560,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -10583,10 +10583,10 @@ local p = {
         velocity = 8,
         weapon_id = 63560,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hai Tien" }
-  }},
+  },
   ["15130"] = {
     barrages = { {
       name = "Wave-Breaking Speardancer",
@@ -10619,10 +10619,10 @@ local p = {
         velocity = 8,
         weapon_id = 63570,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hai Chi" }
-  }},
+  },
   ["15160"] = {
     barrages = { {
       name = "Let's Go, Data 857!",
@@ -10653,7 +10653,7 @@ local p = {
         velocity = 16,
         weapon_id = 63580,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -10680,10 +10680,10 @@ local p = {
         velocity = 3,
         weapon_id = 63590,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bristol" }
-  }},
+  },
   ["15170"] = {
     barrages = { {
       name = "Star-Studded Formation",
@@ -10716,7 +10716,7 @@ local p = {
         velocity = 15,
         weapon_id = 63600,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 180,
@@ -10745,10 +10745,10 @@ local p = {
         velocity = 15,
         weapon_id = 63670,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chen Hai" }
-  }},
+  },
   ["15180"] = {
     barrages = { {
       name = "Cunning Stratagem\n(enhanced)",
@@ -10781,10 +10781,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 63650,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chen Hai" }
-  }},
+  },
   ["15190"] = {
     barrages = { {
       name = "Azure Dragon's Dance",
@@ -10817,10 +10817,10 @@ local p = {
         velocity = 15,
         weapon_id = 64920,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "An Shan" }
-  }},
+  },
   ["15200"] = {
     barrages = { {
       name = "White Tiger's Prance",
@@ -10853,10 +10853,10 @@ local p = {
         velocity = 15,
         weapon_id = 64930,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chang Chun" }
-  }},
+  },
   ["15240"] = {
     barrages = { {
       name = "Can I Attack Now?",
@@ -10887,8 +10887,8 @@ local p = {
         velocity = 15,
         weapon_id = 63690,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Can I Attack Now?\n(stack 1)",
       parts = { {
         aim_type = 0,
@@ -10917,7 +10917,7 @@ local p = {
         velocity = 15,
         weapon_id = 63700,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -10944,8 +10944,8 @@ local p = {
         velocity = 2,
         weapon_id = 63700,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Can I Attack Now?\n(stack 2)",
       parts = { {
         aim_type = 0,
@@ -10974,7 +10974,7 @@ local p = {
         velocity = 15,
         weapon_id = 63710,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -11001,7 +11001,7 @@ local p = {
         velocity = 2,
         weapon_id = 63710,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -11028,10 +11028,10 @@ local p = {
         velocity = 3,
         weapon_id = 63720,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kiev" }
-  }},
+  },
   ["15260"] = {
     barrages = { {
       name = "Noble Strike",
@@ -11062,10 +11062,10 @@ local p = {
         velocity = 15,
         weapon_id = 63730,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Arkhangelsk" }
-  }},
+  },
   ["15280"] = {
     barrages = { {
       name = "A Genius Keeps Things Simple!",
@@ -11096,7 +11096,7 @@ local p = {
         velocity = 20,
         weapon_id = 63680,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -11123,10 +11123,10 @@ local p = {
         velocity = 6,
         weapon_id = 63740,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Soobrazitelny" }
-  }},
+  },
   ["15290"] = {
     barrages = { {
       name = "Indomitable Ice",
@@ -11157,8 +11157,8 @@ local p = {
         velocity = 3.9,
         weapon_id = 63750,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Indomitable Ice\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -11187,7 +11187,7 @@ local p = {
         velocity = 15,
         weapon_id = 63760,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 180,
@@ -11214,10 +11214,10 @@ local p = {
         velocity = 3.9,
         weapon_id = 63750,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kronshtadt" }
-  }},
+  },
   ["15300"] = {
     barrages = { {
       name = "Tempered Prudence",
@@ -11250,10 +11250,10 @@ local p = {
         velocity = 15,
         weapon_id = 63770,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kronshtadt" }
-  }},
+  },
   ["15310"] = {
     barrages = { {
       name = "Strong-Willed Support",
@@ -11286,10 +11286,10 @@ local p = {
         velocity = 15,
         weapon_id = 63780,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kronshtadt" }
-  }},
+  },
   ["15320"] = {
     barrages = { {
       name = "Meteoric Hope\n(version 1)",
@@ -11323,8 +11323,8 @@ local p = {
         velocity = 3,
         weapon_id = 64970,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Meteoric Hope\n(version 2)",
       parts = { {
         aim_type = 1,
@@ -11353,10 +11353,10 @@ local p = {
         velocity = 15,
         weapon_id = 64980,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Volga" }
-  }},
+  },
   ["15330"] = {
     barrages = { {
       name = "Crystals of the Great River",
@@ -11388,10 +11388,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 64990,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Volga" }
-  }},
+  },
   ["15360"] = {
     barrages = { {
       name = "Marvels of History - Seydlitz",
@@ -11422,10 +11422,10 @@ local p = {
         velocity = 11,
         weapon_id = 63910,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Seydlitz" }
-  }},
+  },
   ["15370"] = {
     barrages = { {
       name = "Impero is Brilliant\n(fighter)",
@@ -11458,7 +11458,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 63800,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 20,
@@ -11486,8 +11486,8 @@ local p = {
         velocity = 3,
         weapon_id = 63820,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Impero is Brilliant\n(dive bomber)",
       parts = { {
         aim_type = 1,
@@ -11517,7 +11517,7 @@ local p = {
         velocity = 1.08,
         weapon_id = 63840,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -11546,10 +11546,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 63850,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Impero" }
-  }},
+  },
   ["15390"] = {
     barrages = { {
       name = "March on Towards Triumph!\n(Cloud)",
@@ -11581,10 +11581,10 @@ local p = {
         velocity = 5,
         weapon_id = 65993,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pompeo Magno" }
-  }},
+  },
   ["15440"] = {
     barrages = { {
       name = "Providential Starfall",
@@ -11617,7 +11617,7 @@ local p = {
         velocity = 11,
         weapon_id = 63920,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -11644,7 +11644,7 @@ local p = {
         velocity = 11,
         weapon_id = 63930,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -11671,10 +11671,10 @@ local p = {
         velocity = 11,
         weapon_id = 63930,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Thüringen" }
-  }},
+  },
   ["15460"] = {
     barrages = { {
       name = "Bravery at Skagerrak",
@@ -11705,7 +11705,7 @@ local p = {
         velocity = 15,
         weapon_id = 63880,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -11732,7 +11732,7 @@ local p = {
         velocity = 12,
         weapon_id = 63890,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -11759,7 +11759,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 63940,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 80,
@@ -11786,10 +11786,10 @@ local p = {
         velocity = 4,
         weapon_id = 63900,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lützow" }
-  }},
+  },
   ["15510"] = {
     barrages = { {
       name = "Duet of Alternation\n(DD gun)",
@@ -11820,8 +11820,8 @@ local p = {
         velocity = 15,
         weapon_id = 62040,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Duet of Alternation\n(CL gun)",
       parts = { {
         aim_type = 1,
@@ -11852,7 +11852,7 @@ local p = {
         velocity = 15,
         weapon_id = 62050,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 360,
@@ -11881,10 +11881,10 @@ local p = {
         velocity = 15,
         weapon_id = 62050,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Emden" }
-  }},
+  },
   ["15560"] = {
     barrages = { {
       name = "Marvels of History - Elbing\n(<=30 units)",
@@ -11917,8 +11917,8 @@ local p = {
         velocity = 15,
         weapon_id = 62070,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Marvels of History - Elbing\n(>30 units)",
       parts = { {
         aim_type = 1,
@@ -11947,10 +11947,10 @@ local p = {
         velocity = 22,
         weapon_id = 62060,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Elbing" }
-  }},
+  },
   ["15600"] = {
     barrages = { {
       name = "A Surprise for Mew!",
@@ -11982,10 +11982,10 @@ local p = {
         velocity = 12,
         weapon_id = 63990,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Cheshire" }
-  }},
+  },
   ["15620"] = {
     barrages = { {
       name = "One Iota of Effort",
@@ -12020,10 +12020,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 63960,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Indomitable" }
-  }},
+  },
   ["15630"] = {
     barrages = { {
       name = "Two Can Play at That Game",
@@ -12055,10 +12055,10 @@ local p = {
         velocity = 15,
         weapon_id = 63980,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Indomitable" }
-  }},
+  },
   ["15650"] = {
     barrages = { {
       name = "Revengeful Strike",
@@ -12091,10 +12091,10 @@ local p = {
         velocity = 15,
         weapon_id = 64000,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Revenge" }
-  }},
+  },
   ["15680"] = {
     barrages = { {
       name = "Glisten, Light of Glory!",
@@ -12125,7 +12125,7 @@ local p = {
         velocity = 15,
         weapon_id = 62080,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -12152,10 +12152,10 @@ local p = {
         velocity = 15,
         weapon_id = 62080,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vanguard" }
-  }},
+  },
   ["15690"] = {
     barrages = { {
       name = "Scatter, Minions of Darkness!",
@@ -12186,10 +12186,10 @@ local p = {
         velocity = 15,
         weapon_id = 62090,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vanguard" }
-  }},
+  },
   ["15720"] = {
     barrages = { {
       name = "Sacraments of Illusion\n(Top)",
@@ -12221,8 +12221,8 @@ local p = {
         velocity = 15,
         weapon_id = 62160,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Sacraments of Illusion\n(Bottom)",
       parts = { {
         aim_type = 0,
@@ -12252,10 +12252,10 @@ local p = {
         velocity = 4,
         weapon_id = 62180,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Joffre" }
-  }},
+  },
   ["15730"] = {
     barrages = { {
       name = "Black Plumes of Judgment",
@@ -12287,10 +12287,10 @@ local p = {
         velocity = 0.5,
         weapon_id = 62200,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Joffre" }
-  }},
+  },
   ["15740"] = {
     barrages = { {
       name = "Vichya's Black Lance",
@@ -12323,7 +12323,7 @@ local p = {
         velocity = 10,
         weapon_id = 62210,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -12350,7 +12350,7 @@ local p = {
         velocity = 12,
         weapon_id = 62220,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 360,
@@ -12377,10 +12377,10 @@ local p = {
         velocity = 4,
         weapon_id = 62230,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "L'Indomptable" }
-  }},
+  },
   ["15790"] = {
     barrages = { {
       name = "Get 'Em, Canguro!",
@@ -12411,7 +12411,7 @@ local p = {
         velocity = 3,
         weapon_id = 62240,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -12440,7 +12440,7 @@ local p = {
         velocity = 0,
         weapon_id = 62250,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -12467,10 +12467,10 @@ local p = {
         velocity = 3,
         weapon_id = 62260,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Leonardo da Vinci" }
-  }},
+  },
   ["15800"] = {
     barrages = { {
       name = "Halo of Fervor",
@@ -12501,7 +12501,7 @@ local p = {
         velocity = 3,
         weapon_id = 62280,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -12528,10 +12528,10 @@ local p = {
         velocity = 22,
         weapon_id = 62270,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Giuseppe Garibaldi" }
-  }},
+  },
   ["15840"] = {
     barrages = { {
       name = "Inheritor's Will",
@@ -12562,7 +12562,7 @@ local p = {
         velocity = 15,
         weapon_id = 62290,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -12589,7 +12589,7 @@ local p = {
         velocity = 12,
         weapon_id = 62300,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -12616,10 +12616,10 @@ local p = {
         velocity = 10,
         weapon_id = 62310,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Roma" }
-  }},
+  },
   ["15870"] = {
     barrages = { {
       name = "Flares",
@@ -12650,7 +12650,7 @@ local p = {
         velocity = 5,
         weapon_id = 902,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -12677,10 +12677,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 902,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Alfredo Oriani" }
-  }},
+  },
   ["15880"] = {
     barrages = { {
       name = "Paparazza's Retreat",
@@ -12711,10 +12711,10 @@ local p = {
         velocity = 12,
         weapon_id = 920,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Alfredo Oriani" }
-  }},
+  },
   ["15910"] = {
     barrages = { {
       name = "Beavers, Assemble!",
@@ -12745,7 +12745,7 @@ local p = {
         velocity = 15,
         weapon_id = 62320,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -12772,10 +12772,10 @@ local p = {
         velocity = 4,
         weapon_id = 62330,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Charles Ausburne" }
-  }},
+  },
   ["15920"] = {
     barrages = { {
       name = "The Best Mines Ever!",
@@ -12806,10 +12806,10 @@ local p = {
         velocity = 0,
         weapon_id = 62340,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z16" }
-  }},
+  },
   ["15930"] = {
     barrages = { {
       name = "Daredevil Sweetheart",
@@ -12840,10 +12840,10 @@ local p = {
         velocity = 15,
         weapon_id = 62350,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Blücher" }
-  }},
+  },
   ["15950"] = {
     barrages = { {
       name = "Urd's Fate-Piercer",
@@ -12877,7 +12877,7 @@ local p = {
         velocity = 30,
         weapon_id = 62760,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 50,
@@ -12904,7 +12904,7 @@ local p = {
         velocity = 15,
         weapon_id = 62770,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -12930,15 +12930,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 62780,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Brünhilde" }
-  }},
+  },
   ["15980"] = {
     barrages = { {
       name = "Adaptive Bladework",
@@ -12969,7 +12969,7 @@ local p = {
         velocity = 13,
         weapon_id = 62390,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -12996,10 +12996,10 @@ local p = {
         velocity = 3,
         weapon_id = 62400,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sakawa" }
-  }},
+  },
   ["16000"] = {
     barrages = { {
       name = "Swallow's Sword-Dance",
@@ -13032,7 +13032,7 @@ local p = {
         velocity = 8,
         weapon_id = 62410,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -13059,7 +13059,7 @@ local p = {
         velocity = 12,
         weapon_id = 62420,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -13086,10 +13086,10 @@ local p = {
         velocity = 4,
         weapon_id = 62430,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Wakatsuki" }
-  }},
+  },
   ["16010"] = {
     barrages = { {
       name = "Imperturbable Heart",
@@ -13120,10 +13120,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 62440,
         weapon_type = 25
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Wakatsuki" }
-  }},
+  },
   ["16020"] = {
     barrages = { {
       name = "Martyr+",
@@ -13154,10 +13154,10 @@ local p = {
         velocity = 3,
         weapon_id = 62880,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Juneau" }
-  }},
+  },
   ["16030"] = {
     barrages = { {
       name = "Violet Lightning Storm\n(Unenhanced)",
@@ -13191,7 +13191,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 62860,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -13218,8 +13218,8 @@ local p = {
         velocity = 0.1,
         weapon_id = 62870,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Violet Lightning Storm\n(Enhanced)",
       parts = { {
         aim_type = 1,
@@ -13251,7 +13251,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 62910,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -13278,10 +13278,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 62920,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Musashi" }
-  }},
+  },
   ["16050"] = {
     barrages = { {
       name = "Musashi's Guardianship",
@@ -13315,7 +13315,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 62860,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -13342,10 +13342,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 62870,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Musashi" }
-  }},
+  },
   ["16070"] = {
     barrages = { {
       name = "Plumes of Darkest Night",
@@ -13376,7 +13376,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 62840,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -13403,10 +13403,10 @@ local p = {
         velocity = 4,
         weapon_id = 62850,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Haguro" }
-  }},
+  },
   ["16090"] = {
     barrages = { {
       name = "Metal Gauntlet Mash!",
@@ -13437,7 +13437,7 @@ local p = {
         velocity = 8,
         weapon_id = 62480,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -13466,10 +13466,10 @@ local p = {
         velocity = 8,
         weapon_id = 62480,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Spee" }
-  }},
+  },
   ["16120"] = {
     barrages = { {
       name = "Charming Janus",
@@ -13502,7 +13502,7 @@ local p = {
         velocity = 10,
         weapon_id = 62490,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -13531,10 +13531,10 @@ local p = {
         velocity = 2,
         weapon_id = 62500,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Janus" }
-  }},
+  },
   ["16150"] = {
     barrages = { {
       name = "Skyraiders, Advance!",
@@ -13567,7 +13567,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 160020,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -13595,7 +13595,7 @@ local p = {
         velocity = 3,
         weapon_id = 160040,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -13624,7 +13624,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 160070,
         weapon_type = 25
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -13652,7 +13652,7 @@ local p = {
         velocity = 3,
         weapon_id = 160060,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -13681,10 +13681,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 160070,
         weapon_type = 25
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Albion" }
-  }},
+  },
   ["16180"] = {
     barrages = { {
       name = "Tempesta Pact",
@@ -13715,7 +13715,7 @@ local p = {
         velocity = 20,
         weapon_id = 62950,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -13744,10 +13744,10 @@ local p = {
         velocity = 3,
         weapon_id = 62950,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Royal Fortune" }
-  }},
+  },
   ["16210"] = {
     barrages = { {
       name = "The Fighting Lady",
@@ -13779,7 +13779,7 @@ local p = {
         velocity = 15,
         weapon_id = 160370,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -13808,10 +13808,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 160380,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yorktown II" }
-  }},
+  },
   ["16220"] = {
     barrages = { {
       name = "Waltzing Beyond Tragedy",
@@ -13842,7 +13842,7 @@ local p = {
         velocity = 3,
         weapon_id = 160390,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 20,
@@ -13869,10 +13869,10 @@ local p = {
         velocity = 2,
         weapon_id = 160390,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yorktown II" }
-  }},
+  },
   ["16250"] = {
     barrages = { {
       name = "Hornet's Sting",
@@ -13904,7 +13904,7 @@ local p = {
         velocity = 3,
         weapon_id = 160430,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 6,
         angle = 45,
@@ -13934,10 +13934,10 @@ local p = {
         velocity = 15,
         weapon_id = 160450,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hornet II" }
-  }},
+  },
   ["16320"] = {
     barrages = { {
       name = "Artillery Overload",
@@ -13968,10 +13968,10 @@ local p = {
         velocity = 15,
         weapon_id = 160460,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Northampton II" }
-  }},
+  },
   ["16330"] = {
     barrages = { {
       name = "Pilotfish\n(enhanced)",
@@ -14004,7 +14004,7 @@ local p = {
         velocity = 5,
         weapon_id = 160470,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -14034,8 +14034,8 @@ local p = {
         velocity = 15,
         weapon_id = 160470,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Pilotfish",
       parts = { {
         aim_type = 0,
@@ -14064,7 +14064,7 @@ local p = {
         velocity = 5,
         weapon_id = 160480,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -14092,10 +14092,10 @@ local p = {
         velocity = 15,
         weapon_id = 160480,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Northampton II" }
-  }},
+  },
   ["16340"] = {
     barrages = { {
       name = "Unyielding Pathfinder",
@@ -14126,7 +14126,7 @@ local p = {
         velocity = 14,
         weapon_id = 160490,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -14153,10 +14153,10 @@ local p = {
         velocity = 12,
         weapon_id = 160490,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kuybyshev" }
-  }},
+  },
   ["16370"] = {
     barrages = { {
       name = "Brave Beauty",
@@ -14189,10 +14189,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 160510,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hwah Jah" }
-  }},
+  },
   ["16390"] = {
     barrages = { {
       name = "Tricks of the Trade",
@@ -14225,10 +14225,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 160600,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ting An" }
-  }},
+  },
   ["16400"] = {
     barrages = { {
       name = "Ariadne's Conundrum",
@@ -14260,7 +14260,7 @@ local p = {
         velocity = 3,
         weapon_id = 160530,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -14288,7 +14288,7 @@ local p = {
         velocity = 3,
         weapon_id = 160550,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -14316,10 +14316,10 @@ local p = {
         velocity = 3,
         weapon_id = 160570,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Theseus" }
-  }},
+  },
   ["16410"] = {
     barrages = { {
       name = "Phaedra's Longing",
@@ -14350,7 +14350,7 @@ local p = {
         velocity = 7,
         weapon_id = 160610,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -14377,10 +14377,10 @@ local p = {
         velocity = 11,
         weapon_id = 160610,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Theseus" }
-  }},
+  },
   ["16440"] = {
     barrages = { {
       name = "Plum Flower in the Cold Night",
@@ -14411,7 +14411,7 @@ local p = {
         velocity = 6,
         weapon_id = 160620,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -14439,8 +14439,8 @@ local p = {
         velocity = 15,
         weapon_id = 160620,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Plum Flower in the Cold Night\n(Enhanced)",
       parts = { {
         aim_type = 0,
@@ -14469,7 +14469,7 @@ local p = {
         velocity = 6,
         weapon_id = 160630,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -14497,10 +14497,10 @@ local p = {
         velocity = 15,
         weapon_id = 160630,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yat Sen" }
-  }},
+  },
   ["16460"] = {
     barrages = { {
       name = "May God Forgive You, For I Shall Not",
@@ -14533,10 +14533,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 160670,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Implacable" }
-  }},
+  },
   ["16490"] = {
     barrages = { {
       name = "The Pride of a Senior Knight...",
@@ -14567,7 +14567,7 @@ local p = {
         velocity = 15,
         weapon_id = 160710,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -14594,7 +14594,7 @@ local p = {
         velocity = 7,
         weapon_id = 160700,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -14621,10 +14621,10 @@ local p = {
         velocity = 8,
         weapon_id = 160690,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Royal Oak" }
-  }},
+  },
   ["16520"] = {
     barrages = { {
       name = "Glory's Trailblazer",
@@ -14656,10 +14656,10 @@ local p = {
         velocity = 3,
         weapon_id = 160730,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Argus" }
-  }},
+  },
   ["16550"] = {
     barrages = { {
       name = "Scylla's Embrace",
@@ -14692,7 +14692,7 @@ local p = {
         velocity = 0,
         weapon_id = 160750,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -14721,7 +14721,7 @@ local p = {
         velocity = 15,
         weapon_id = 160750,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -14748,10 +14748,10 @@ local p = {
         velocity = 3,
         weapon_id = 160760,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Scylla" }
-  }},
+  },
   ["16560"] = {
     barrages = { {
       name = "Your Hero is Here~☆\n(version 1)",
@@ -14782,7 +14782,7 @@ local p = {
         velocity = 10,
         weapon_id = 160770,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -14809,8 +14809,8 @@ local p = {
         velocity = 5.5,
         weapon_id = 160770,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Your Hero is Here~☆\n(version 2)",
       parts = { {
         aim_type = 1,
@@ -14839,10 +14839,10 @@ local p = {
         velocity = 0,
         weapon_id = 160780,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hero" }
-  }},
+  },
   ["16590"] = {
     barrages = { {
       name = "Hunter's Stealth - Seaplanes",
@@ -14875,10 +14875,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 160850,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kursk" }
-  }},
+  },
   ["16600"] = {
     barrages = { {
       name = "Hunter's Stealth - Submersibles",
@@ -14911,10 +14911,10 @@ local p = {
         velocity = 4,
         weapon_id = 160880,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kursk" }
-  }},
+  },
   ["16610"] = {
     barrages = { {
       name = "Revolutionary Standard-Bearer",
@@ -14945,7 +14945,7 @@ local p = {
         velocity = 15,
         weapon_id = 160890,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -14974,10 +14974,10 @@ local p = {
         velocity = 15,
         weapon_id = 160900,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sevastopol" }
-  }},
+  },
   ["16630"] = {
     barrages = { {
       name = "Voroshilov's Icebind",
@@ -15010,10 +15010,10 @@ local p = {
         velocity = 16,
         weapon_id = 160860,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Voroshilov" }
-  }},
+  },
   ["16660"] = {
     barrages = { {
       name = "Light Snacktime",
@@ -15045,7 +15045,7 @@ local p = {
         velocity = 3,
         weapon_id = 160990,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -15073,10 +15073,10 @@ local p = {
         velocity = 3,
         weapon_id = 161010,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Formidable" }
-  }},
+  },
   ["16670"] = {
     barrages = { {
       name = "Making a Splash!",
@@ -15107,7 +15107,7 @@ local p = {
         velocity = 22,
         weapon_id = 161070,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -15134,10 +15134,10 @@ local p = {
         velocity = 4,
         weapon_id = 161080,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Otto von Alvensleben" }
-  }},
+  },
   ["16690"] = {
     barrages = { {
       name = "Big Seven - Nelson\n(enhanced)",
@@ -15168,8 +15168,8 @@ local p = {
         velocity = 15,
         weapon_id = 161040,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Big Seven - Nelson\n(unenhanced)",
       parts = { {
         aim_type = 1,
@@ -15198,10 +15198,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 66150,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nelson" }
-  }},
+  },
   ["16710"] = {
     barrages = { {
       name = "Regina, the Iron Empress\n(on kill)",
@@ -15233,8 +15233,8 @@ local p = {
         velocity = 0,
         weapon_id = 161100,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Regina, the Iron Empress\n(timeout)",
       parts = { {
         aim_type = 1,
@@ -15263,10 +15263,10 @@ local p = {
         velocity = 100,
         weapon_id = 161090,
         weapon_type = 17
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Regensburg" }
-  }},
+  },
   ["16730"] = {
     barrages = { {
       name = "A Good Girl's Caprice",
@@ -15299,10 +15299,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 64850,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Jade" }
-  }},
+  },
   ["16750"] = {
     barrages = { {
       name = "Calamitous Voidflame\n(Blackhole)",
@@ -15333,8 +15333,8 @@ local p = {
         velocity = 30,
         weapon_id = 161150,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Calamitous Voidflame\n(odd salvo)",
       parts = { {
         aim_type = 1,
@@ -15364,8 +15364,8 @@ local p = {
         velocity = 0,
         weapon_id = 161130,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Calamitous Voidflame\n(even salvo)",
       parts = { {
         aim_type = 1,
@@ -15394,7 +15394,7 @@ local p = {
         velocity = 15,
         weapon_id = 161140,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -15421,10 +15421,10 @@ local p = {
         velocity = 15,
         weapon_id = 161140,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bismarck Zwei" }
-  }},
+  },
   ["16760"] = {
     barrages = { {
       name = "Geryon, the Ruin-Eater",
@@ -15471,9 +15471,9 @@ local p = {
           velocity = 22,
           weapon_id = 471,
           weapon_type = 2
-        }} }
-      }} }
-    }}, {
+        } }
+      } }
+    }, {
       name = "Geryon, the Ruin-Eater\n(laser)",
       parts = { {
         aim_type = 1,
@@ -15502,10 +15502,10 @@ local p = {
         velocity = 1,
         weapon_id = 161120,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bismarck Zwei" }
-  }},
+  },
   ["16770"] = {
     barrages = { {
       name = "Reborn Temple of Iron",
@@ -15536,7 +15536,7 @@ local p = {
         velocity = 15,
         weapon_id = 161140,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -15563,10 +15563,10 @@ local p = {
         velocity = 15,
         weapon_id = 161140,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bismarck Zwei" }
-  }},
+  },
   ["16800"] = {
     barrages = { {
       name = "Taihou-chan's Mischief\n(Reppuu)",
@@ -15599,8 +15599,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 161190,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Taihou-chan's Mischief\n(Suisei)",
       parts = { {
         aim_type = 1,
@@ -15631,8 +15631,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 161210,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Taihou-chan's Mischief\n(Ryuusei)",
       parts = { {
         aim_type = 1,
@@ -15662,10 +15662,10 @@ local p = {
         velocity = 3,
         weapon_id = 161170,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Taihou-chan" }
-  }},
+  },
   ["16820"] = {
     barrages = { {
       name = "To Uphold Expectations",
@@ -15698,7 +15698,7 @@ local p = {
         velocity = 18,
         weapon_id = 161310,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -15725,10 +15725,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 161320,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Andrea Doria" }
-  }},
+  },
   ["16830"] = {
     barrages = { {
       name = "Porpora Strike",
@@ -15759,7 +15759,7 @@ local p = {
         velocity = 3.9,
         weapon_id = 161330,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 180,
@@ -15787,10 +15787,10 @@ local p = {
         velocity = 12,
         weapon_id = 161330,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gorizia" }
-  }},
+  },
   ["16850"] = {
     barrages = { {
       name = "Help Me! Duke Monochrome Rabbit!\n(black)",
@@ -15821,8 +15821,8 @@ local p = {
         velocity = 10,
         weapon_id = 161340,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Help Me! Duke Monochrome Rabbit!\n(white)",
       parts = { {
         aim_type = 1,
@@ -15851,8 +15851,8 @@ local p = {
         velocity = 10,
         weapon_id = 161350,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Help Me! Duke Monochrome Rabbit!\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -15882,10 +15882,10 @@ local p = {
         velocity = 10,
         weapon_id = 161360,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Attilio Regolo" }
-  }},
+  },
   ["16870"] = {
     barrages = { {
       name = "The Day of Glory Arrives",
@@ -15916,7 +15916,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 162320,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -15943,10 +15943,10 @@ local p = {
         velocity = 4,
         weapon_id = 162330,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Marseillaise" }
-  }},
+  },
   ["16920"] = {
     barrages = { {
       name = "Shells or Sorcery?",
@@ -15978,10 +15978,10 @@ local p = {
         velocity = 4,
         weapon_id = 162400,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Guichen" }
-  }},
+  },
   ["16940"] = {
     barrages = { {
       name = "Big Seven - West Virginia\n(Enhanced)",
@@ -16012,7 +16012,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 66150,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 50,
@@ -16041,8 +16041,8 @@ local p = {
         velocity = 15,
         weapon_id = 162360,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Big Seven - West Virginia",
       parts = { {
         aim_type = 1,
@@ -16071,10 +16071,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 66150,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "West Virginia" }
-  }},
+  },
   ["16970"] = {
     barrages = { {
       name = "Guiding Flames of Intrigue",
@@ -16107,10 +16107,10 @@ local p = {
         velocity = 14,
         weapon_id = 162370,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Clemenceau" }
-  }},
+  },
   ["17010"] = {
     barrages = { {
       name = "Absolving Light",
@@ -16141,7 +16141,7 @@ local p = {
         velocity = 12,
         weapon_id = 162380,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -16168,10 +16168,10 @@ local p = {
         velocity = 3,
         weapon_id = 162390,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lyon" }
-  }},
+  },
   ["17030"] = {
     barrages = { {
       name = "Exorcism for the Mortal Realm",
@@ -16204,7 +16204,7 @@ local p = {
         velocity = 100,
         weapon_id = 163176,
         weapon_type = 17
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 360,
@@ -16233,8 +16233,8 @@ local p = {
         velocity = 100,
         weapon_id = 163175,
         weapon_type = 17
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Exorcism for the Mortal Realm\n(crossfleet)",
       parts = { {
         aim_type = 0,
@@ -16265,10 +16265,10 @@ local p = {
         velocity = 16,
         weapon_id = 163200,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Unzen" }
-  }},
+  },
   ["17060"] = {
     barrages = { {
       name = "Power o' Friendship",
@@ -16299,7 +16299,7 @@ local p = {
         velocity = 4,
         weapon_id = 163160,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -16326,10 +16326,10 @@ local p = {
         velocity = 4,
         weapon_id = 163160,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Owari" }
-  }},
+  },
   ["17070"] = {
     barrages = { {
       name = "Don't Mess With My Best Buds!",
@@ -16360,7 +16360,7 @@ local p = {
         velocity = 15,
         weapon_id = 163140,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 60,
@@ -16387,7 +16387,7 @@ local p = {
         velocity = 15,
         weapon_id = 163220,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -16414,10 +16414,10 @@ local p = {
         velocity = 7,
         weapon_id = 163150,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Owari" }
-  }},
+  },
   ["17080"] = {
     barrages = { {
       name = "As Evening Weaves, the Moon Sunders",
@@ -16448,7 +16448,7 @@ local p = {
         velocity = 7,
         weapon_id = 163170,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -16475,10 +16475,10 @@ local p = {
         velocity = 4,
         weapon_id = 163270,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hatsuzuki" }
-  }},
+  },
   ["17100"] = {
     barrages = { {
       name = "Fists of Fury!",
@@ -16509,7 +16509,7 @@ local p = {
         velocity = 10,
         weapon_id = 163230,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -16538,10 +16538,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 163230,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Asanagi" }
-  }},
+  },
   ["17120"] = {
     barrages = { {
       name = "Hiranuma's Protection",
@@ -16572,10 +16572,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 163250,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Natori" }
-  }},
+  },
   ["17130"] = {
     barrages = { {
       name = "Secret Cheat Code Powers!",
@@ -16608,10 +16608,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 163260,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Natori" }
-  }},
+  },
   ["17140"] = {
     barrages = { {
       name = "Space City Strike",
@@ -16642,10 +16642,10 @@ local p = {
         velocity = 10,
         weapon_id = 163310,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Houston II" }
-  }},
+  },
   ["17160"] = {
     barrages = { {
       name = "Unseen Phantom",
@@ -16676,10 +16676,10 @@ local p = {
         velocity = 6,
         weapon_id = 163350,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mary Celeste" }
-  }},
+  },
   ["17200"] = {
     barrages = { {
       name = "Peerless Cannons of Destruction",
@@ -16712,7 +16712,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 163330,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 6,
         angle = 25,
@@ -16740,10 +16740,10 @@ local p = {
         velocity = 0.5,
         weapon_id = 163340,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "São Martinho" }
-  }},
+  },
   ["17210"] = {
     barrages = { {
       name = "For a Good Night's Sleep",
@@ -16774,10 +16774,10 @@ local p = {
         velocity = 12,
         weapon_id = 163370,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Whydah" }
-  }},
+  },
   ["17250"] = {
     barrages = { {
       name = "Hindhorn's Grace",
@@ -16808,10 +16808,10 @@ local p = {
         velocity = 7,
         weapon_id = 163360,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Golden Hind" }
-  }},
+  },
   ["17260"] = {
     barrages = { {
       name = "Claws of Mistrust",
@@ -16842,10 +16842,10 @@ local p = {
         velocity = 100,
         weapon_id = 163380,
         weapon_type = 17
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Adventure Galley" }
-  }},
+  },
   ["17290"] = {
     barrages = { {
       name = "The Lady's Advance",
@@ -16876,10 +16876,10 @@ local p = {
         velocity = 14,
         weapon_id = 163900,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Louisville" }
-  }},
+  },
   ["17300"] = {
     barrages = { {
       name = "Ready, Raring, and Motivated",
@@ -16910,7 +16910,7 @@ local p = {
         velocity = 22,
         weapon_id = 163780,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -16937,8 +16937,8 @@ local p = {
         velocity = 3,
         weapon_id = 163790,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Ready, Raring, and Motivated\n(Summon)",
       parts = { {
         aa = "100%",
@@ -16983,11 +16983,11 @@ local p = {
           velocity = 10,
           weapon_id = 163770,
           weapon_type = 2
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     ships = { "Laffey II" }
-  }},
+  },
   ["17340"] = {
     barrages = { {
       name = "Guest Incoming!",
@@ -17018,10 +17018,10 @@ local p = {
         velocity = 15,
         weapon_id = 163820,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Guam" }
-  }},
+  },
   ["17350"] = {
     barrages = { {
       name = "On-Air Broadcast Assistance",
@@ -17052,8 +17052,8 @@ local p = {
         velocity = 12,
         weapon_id = 163830,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "On-Air Broadcast Assistance\n(crossfleet)",
       parts = { {
         aim_type = 0,
@@ -17082,7 +17082,7 @@ local p = {
         velocity = 15,
         weapon_id = 163820,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 60,
@@ -17109,10 +17109,10 @@ local p = {
         velocity = 12,
         weapon_id = 163860,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Guam" }
-  }},
+  },
   ["17370"] = {
     barrages = { {
       name = "Scaling Spiral",
@@ -17143,7 +17143,7 @@ local p = {
         velocity = 16,
         weapon_id = 163840,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -17170,7 +17170,7 @@ local p = {
         velocity = 5,
         weapon_id = 163850,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -17197,10 +17197,10 @@ local p = {
         velocity = 5,
         weapon_id = 163850,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Constellation" }
-  }},
+  },
   ["17390"] = {
     barrages = { {
       name = "Young Eagles' Roost",
@@ -17233,10 +17233,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 53370,
         weapon_type = 25
-      }} }
-    }} },
+      } }
+    } },
     ships = { "San Jacinto" }
-  }},
+  },
   ["17400"] = {
     barrages = { {
       name = "Playful Avengers",
@@ -17268,10 +17268,10 @@ local p = {
         velocity = 3,
         weapon_id = 163880,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "San Jacinto" }
-  }},
+  },
   ["17410"] = {
     barrages = { {
       name = "Teary-Eyed Huntress",
@@ -17302,10 +17302,10 @@ local p = {
         velocity = 4,
         weapon_id = 163810,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Flasher" }
-  }},
+  },
   ["17460"] = {
     barrages = { {
       name = "For Safe Returns, Schemes Shaped",
@@ -17336,10 +17336,10 @@ local p = {
         velocity = 4,
         weapon_id = 163940,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chi An" }
-  }},
+  },
   ["17480"] = {
     barrages = { {
       name = "Inkscape of Dancing Clouds\n(enhanced)",
@@ -17370,7 +17370,7 @@ local p = {
         velocity = 2,
         weapon_id = 163920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -17398,7 +17398,7 @@ local p = {
         velocity = 8,
         weapon_id = 163920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -17425,8 +17425,8 @@ local p = {
         velocity = 4,
         weapon_id = 163930,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Inkscape of Dancing Clouds",
       parts = { {
         aim_type = 0,
@@ -17455,7 +17455,7 @@ local p = {
         velocity = 2,
         weapon_id = 163960,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -17482,7 +17482,7 @@ local p = {
         velocity = 8,
         weapon_id = 163960,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -17509,10 +17509,10 @@ local p = {
         velocity = 4,
         weapon_id = 163930,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fei Yuen" }
-  }},
+  },
   ["17500"] = {
     barrages = { {
       name = "Unfettered Freedom",
@@ -17545,7 +17545,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 163980,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 180,
@@ -17574,7 +17574,7 @@ local p = {
         velocity = 15,
         weapon_id = 163990,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 180,
@@ -17603,10 +17603,10 @@ local p = {
         velocity = 15,
         weapon_id = 164000,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chen Hai" }
-  }},
+  },
   ["17510"] = {
     barrages = { {
       name = "Dragon's Dance",
@@ -17637,10 +17637,10 @@ local p = {
         velocity = 4,
         weapon_id = 161560,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lung Wu" }
-  }},
+  },
   ["17530"] = {
     barrages = { {
       name = "Tiger Thrasher!",
@@ -17671,10 +17671,10 @@ local p = {
         velocity = 12,
         weapon_id = 161570,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hu Pen" }
-  }},
+  },
   ["17550"] = {
     barrages = { {
       name = "Xuanwu's Tenacity",
@@ -17705,7 +17705,7 @@ local p = {
         velocity = 15,
         weapon_id = 161550,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -17733,10 +17733,10 @@ local p = {
         velocity = 15,
         weapon_id = 161550,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tai Yuan" }
-  }},
+  },
   ["17580"] = {
     barrages = { {
       name = "Always Prepared, Always Vigiliant",
@@ -17767,10 +17767,10 @@ local p = {
         velocity = 10,
         weapon_id = 164030,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Huan Ch'ang" }
-  }},
+  },
   ["17590"] = {
     barrages = { {
       name = "Sublimation, to Sunder All Storms",
@@ -17804,7 +17804,7 @@ local p = {
         velocity = 0,
         weapon_id = 164040,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -17834,10 +17834,10 @@ local p = {
         velocity = 0,
         weapon_id = 164050,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sovetsky Soyuz" }
-  }},
+  },
   ["17610"] = {
     barrages = { {
       name = "Sublimation, to Sunder All Storms\n(crossfleet)",
@@ -17871,7 +17871,7 @@ local p = {
         velocity = 0,
         weapon_id = 164040,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -17901,10 +17901,10 @@ local p = {
         velocity = 0,
         weapon_id = 164050,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sovetsky Soyuz" }
-  }},
+  },
   ["17630"] = {
     barrages = { {
       name = "Firepower Overload!",
@@ -17935,7 +17935,7 @@ local p = {
         velocity = 2,
         weapon_id = 164060,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 200,
@@ -17962,10 +17962,10 @@ local p = {
         velocity = 4,
         weapon_id = 164070,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ognevoy" }
-  }},
+  },
   ["17660"] = {
     barrages = { {
       name = "Protecting Links",
@@ -17996,10 +17996,10 @@ local p = {
         velocity = 15,
         weapon_id = 164080,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Poltava" }
-  }},
+  },
   ["17670"] = {
     barrages = { {
       name = "Creative Burst",
@@ -18032,7 +18032,7 @@ local p = {
         velocity = 18,
         weapon_id = 164100,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -18061,10 +18061,10 @@ local p = {
         velocity = 6,
         weapon_id = 164110,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Svirepy" }
-  }},
+  },
   ["17690"] = {
     barrages = { {
       name = "Service Mode",
@@ -18095,10 +18095,10 @@ local p = {
         velocity = 4,
         weapon_id = 164150,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Devonshire" }
-  }},
+  },
   ["17730"] = {
     barrages = { {
       name = "It's Cleaning Time!",
@@ -18129,8 +18129,8 @@ local p = {
         velocity = 8,
         weapon_id = 164160,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "It's Cleaning Time!\n(Slash)",
       parts = { {
         clears = { 1, 3 },
@@ -18143,10 +18143,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nubian" }
-  }},
+  },
   ["17760"] = {
     barrages = { {
       name = "Victory's Consonance",
@@ -18177,7 +18177,7 @@ local p = {
         velocity = 10,
         weapon_id = 164180,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -18204,7 +18204,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 164180,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -18232,10 +18232,10 @@ local p = {
         velocity = 15,
         weapon_id = 164180,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Friedrich Carl" }
-  }},
+  },
   ["17780"] = {
     barrages = { {
       name = "Crimson Song",
@@ -18268,8 +18268,8 @@ local p = {
         velocity = 18,
         weapon_id = 164260,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Crimson Song\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -18300,10 +18300,10 @@ local p = {
         velocity = 18,
         weapon_id = 164270,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Prinz Eugen μ" }
-  }},
+  },
   ["17790"] = {
     barrages = { {
       name = "Suppressive Fire Order",
@@ -18334,10 +18334,10 @@ local p = {
         velocity = 18,
         weapon_id = 164170,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Liverpool" }
-  }},
+  },
   ["17830"] = {
     barrages = { {
       name = "Perfect Curtain Call",
@@ -18369,10 +18369,10 @@ local p = {
         velocity = 3,
         weapon_id = 164290,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Formidable μ" }
-  }},
+  },
   ["17850"] = {
     barrages = { {
       name = "Resonant Fortissimo",
@@ -18403,7 +18403,7 @@ local p = {
         velocity = 7,
         weapon_id = 164330,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -18432,7 +18432,7 @@ local p = {
         velocity = 4,
         weapon_id = 164330,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -18461,10 +18461,10 @@ local p = {
         velocity = 3,
         weapon_id = 164340,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Noshiro μ" }
-  }},
+  },
   ["17860"] = {
     barrages = { {
       name = "Sky-Blue Reverie",
@@ -18495,7 +18495,7 @@ local p = {
         velocity = 18,
         weapon_id = 164300,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -18521,15 +18521,15 @@ local p = {
         tracker = {
           angular = 1.2,
           range = 12
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 164310,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Téméraire μ" }
-  }},
+  },
   ["17880"] = {
     barrages = { {
       name = "Upon an Elegant Stage",
@@ -18560,10 +18560,10 @@ local p = {
         velocity = 15,
         weapon_id = 164320,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kongou μ" }
-  }},
+  },
   ["17900"] = {
     barrages = { {
       name = "Masked Workaholic",
@@ -18594,10 +18594,10 @@ local p = {
         velocity = 18,
         weapon_id = 164350,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Boise μ" }
-  }},
+  },
   ["17920"] = {
     barrages = { {
       name = "Dreaming Butterfly",
@@ -18630,7 +18630,7 @@ local p = {
         velocity = -7,
         weapon_id = 164360,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -18659,10 +18659,10 @@ local p = {
         velocity = 0.6,
         weapon_id = 164360,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shinano-chan" }
-  }},
+  },
   ["17940"] = {
     barrages = { {
       name = "Cleaver of All Sin",
@@ -18695,7 +18695,7 @@ local p = {
         velocity = 15,
         weapon_id = 164470,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 180,
@@ -18722,10 +18722,10 @@ local p = {
         velocity = 5,
         weapon_id = 164480,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mogador" }
-  }},
+  },
   ["17970"] = {
     barrages = { {
       name = "Big Seven - Colorado",
@@ -18756,7 +18756,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 66150,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -18783,10 +18783,10 @@ local p = {
         velocity = 15,
         weapon_id = 164500,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Colorado" }
-  }},
+  },
   ["18070"] = {
     barrages = { {
       name = "A Legend's Inheritance+",
@@ -18817,7 +18817,7 @@ local p = {
         velocity = 11,
         weapon_id = 68210,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -18844,10 +18844,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 68210,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Izumo" }
-  }},
+  },
   ["18180"] = {
     barrages = { {
       name = "Kitakaze Style - Lotus Torpedoes+",
@@ -18878,7 +18878,7 @@ local p = {
         velocity = 18,
         weapon_id = 69690,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -18905,10 +18905,10 @@ local p = {
         velocity = 4,
         weapon_id = 69680,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kitakaze" }
-  }},
+  },
   ["18210"] = {
     barrages = { {
       name = "Special Gunnery Training",
@@ -18941,8 +18941,8 @@ local p = {
         velocity = 18,
         weapon_id = 68100,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Special Gunnery Training\n(Enhanced, Close)",
       parts = { {
         aim_type = 1,
@@ -18973,7 +18973,7 @@ local p = {
         velocity = 12,
         weapon_id = 68120,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -19002,8 +19002,8 @@ local p = {
         velocity = 18,
         weapon_id = 68100,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Special Gunnery Training\n(Enhanced, Far)",
       parts = { {
         aim_type = 1,
@@ -19034,7 +19034,7 @@ local p = {
         velocity = 12,
         weapon_id = 68110,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -19063,10 +19063,10 @@ local p = {
         velocity = 18,
         weapon_id = 68100,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Azuma" }
-  }},
+  },
   ["18220"] = {
     barrages = { {
       name = "Symphony of Destruction+ - Eins",
@@ -19099,7 +19099,7 @@ local p = {
         velocity = 10,
         weapon_id = 160640,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -19126,8 +19126,8 @@ local p = {
         velocity = 14,
         weapon_id = 160650,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Symphony of Destruction+ - Zwei",
       parts = { {
         aim_type = 0,
@@ -19156,10 +19156,10 @@ local p = {
         velocity = 14,
         weapon_id = 160650,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Friedrich der Große" }
-  }},
+  },
   ["18300"] = {
     barrages = { {
       name = "Flintlock Burst",
@@ -19190,10 +19190,10 @@ local p = {
         velocity = 15,
         weapon_id = 69590,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Drake" }
-  }},
+  },
   ["18320"] = {
     barrages = { {
       name = "Ausgewogen+",
@@ -19224,10 +19224,10 @@ local p = {
         velocity = 15,
         weapon_id = 64260,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mainz" }
-  }},
+  },
   ["18340"] = {
     barrages = { {
       name = "Herteitr's Rolling Thunder+",
@@ -19258,7 +19258,7 @@ local p = {
         velocity = 3,
         weapon_id = 64270,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -19285,10 +19285,10 @@ local p = {
         velocity = 36,
         weapon_id = 64280,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Odin" }
-  }},
+  },
   ["18350"] = {
     barrages = { {
       name = "Augmenting Mechanism: Setzer Principle+",
@@ -19319,7 +19319,7 @@ local p = {
         velocity = 12,
         weapon_id = 64300,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -19346,10 +19346,10 @@ local p = {
         velocity = 22,
         weapon_id = 64290,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Champagne" }
-  }},
+  },
   ["18380"] = {
     barrages = { {
       name = "Sky-Rending Retribution+",
@@ -19384,7 +19384,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 64330,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -19412,10 +19412,10 @@ local p = {
         velocity = 3,
         weapon_id = 161590,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hakuryuu" }
-  }},
+  },
   ["18440"] = {
     barrages = { {
       name = "Riddle Me This+",
@@ -19448,7 +19448,7 @@ local p = {
         velocity = 15,
         weapon_id = 64410,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -19475,10 +19475,10 @@ local p = {
         velocity = 3,
         weapon_id = 62710,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Anchorage" }
-  }},
+  },
   ["18550"] = {
     barrages = { {
       name = "Lindwurm - Devouring Fang+",
@@ -19508,12 +19508,12 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 163020,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -19540,10 +19540,10 @@ local p = {
         velocity = 18,
         weapon_id = 163030,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Prinz Rupprecht" }
-  }},
+  },
   ["18590"] = {
     barrages = { {
       name = "Blazing Battledance+",
@@ -19574,10 +19574,10 @@ local p = {
         velocity = 0,
         weapon_id = 163040,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Harbin" }
-  }},
+  },
   ["18610"] = {
     barrages = { {
       name = "Contingency Experiment - Suppressive Fire+",
@@ -19610,10 +19610,10 @@ local p = {
         velocity = 22,
         weapon_id = 163110,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chkalov" }
-  }},
+  },
   ["18620"] = {
     barrages = { {
       name = "Tormentor of the Weak",
@@ -19646,7 +19646,7 @@ local p = {
         velocity = 22,
         weapon_id = 161440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -19675,10 +19675,10 @@ local p = {
         velocity = 4,
         weapon_id = 161450,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Felix Schultz" }
-  }},
+  },
   ["18730"] = {
     barrages = { {
       name = "Apotheosis: Flourishing Assault+",
@@ -19709,7 +19709,7 @@ local p = {
         velocity = 18,
         weapon_id = 164970,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -19736,7 +19736,7 @@ local p = {
         velocity = 30,
         weapon_id = 162030,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -19763,10 +19763,10 @@ local p = {
         velocity = 10,
         weapon_id = 162030,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Flandre" }
-  }},
+  },
   ["18790"] = {
     barrages = { {
       name = "Nocturnal Judgment+",
@@ -19800,10 +19800,10 @@ local p = {
         velocity = 15,
         weapon_id = 168780,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Halford" }
-  }},
+  },
   ["18860"] = {
     barrages = { {
       name = "Causality Anchor+",
@@ -19834,7 +19834,7 @@ local p = {
         velocity = 5,
         weapon_id = 164840,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -19863,10 +19863,10 @@ local p = {
         velocity = 15,
         weapon_id = 168800,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Daisen" }
-  }},
+  },
   ["19030"] = {
     barrages = { {
       name = "Monarch's Coercion",
@@ -19899,10 +19899,10 @@ local p = {
         velocity = 15,
         weapon_id = 66790,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Monarch" }
-  }},
+  },
   ["19060"] = {
     barrages = { {
       name = "Flash of Lightning",
@@ -19933,10 +19933,10 @@ local p = {
         velocity = 4.5,
         weapon_id = 66810,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ibuki" }
-  }},
+  },
   ["19070"] = {
     barrages = { {
       name = "A Legend's Inheritance",
@@ -19967,10 +19967,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 66750,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Izumo" }
-  }},
+  },
   ["19160"] = {
     barrages = { {
       name = "Heavy Barrel Blaster",
@@ -20003,7 +20003,7 @@ local p = {
         velocity = 11,
         weapon_id = 68130,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -20032,10 +20032,10 @@ local p = {
         velocity = 11,
         weapon_id = 68150,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Georgia" }
-  }},
+  },
   ["19180"] = {
     barrages = { {
       name = "Kitakaze Style - Lotus Torpedoes",
@@ -20066,10 +20066,10 @@ local p = {
         velocity = 4,
         weapon_id = 68190,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kitakaze" }
-  }},
+  },
   ["19210"] = {
     barrages = { {
       name = "Special Gunnery Training",
@@ -20102,8 +20102,8 @@ local p = {
         velocity = 18,
         weapon_id = 68100,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Special Gunnery Training\n(Enhanced, Close)",
       parts = { {
         aim_type = 1,
@@ -20134,7 +20134,7 @@ local p = {
         velocity = 12,
         weapon_id = 68120,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -20163,8 +20163,8 @@ local p = {
         velocity = 18,
         weapon_id = 68100,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Special Gunnery Training\n(Enhanced, Far)",
       parts = { {
         aim_type = 1,
@@ -20195,7 +20195,7 @@ local p = {
         velocity = 12,
         weapon_id = 68110,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -20224,10 +20224,10 @@ local p = {
         velocity = 18,
         weapon_id = 68100,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Azuma" }
-  }},
+  },
   ["19220"] = {
     barrages = { {
       name = "Symphony of Destruction",
@@ -20260,7 +20260,7 @@ local p = {
         velocity = 10,
         weapon_id = 68200,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -20287,10 +20287,10 @@ local p = {
         velocity = 14,
         weapon_id = 68230,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Friedrich der Große" }
-  }},
+  },
   ["19260"] = {
     barrages = { {
       name = "Precision Salvo Protocol",
@@ -20321,7 +20321,7 @@ local p = {
         velocity = 12,
         weapon_id = 68160,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -20348,7 +20348,7 @@ local p = {
         velocity = 12,
         weapon_id = 68170,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -20375,8 +20375,8 @@ local p = {
         velocity = 12,
         weapon_id = 68180,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Precision Salvo Protocol\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -20405,7 +20405,7 @@ local p = {
         velocity = 12,
         weapon_id = 69620,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -20432,7 +20432,7 @@ local p = {
         velocity = 12,
         weapon_id = 69630,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -20459,10 +20459,10 @@ local p = {
         velocity = 12,
         weapon_id = 69640,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gascogne" }
-  }},
+  },
   ["19280"] = {
     barrages = { {
       name = "Grin and Fire!",
@@ -20494,10 +20494,10 @@ local p = {
         velocity = 5,
         weapon_id = 69540,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cheshire" }
-  }},
+  },
   ["19300"] = {
     barrages = { {
       name = "Flintlock Burst",
@@ -20528,10 +20528,10 @@ local p = {
         velocity = 15,
         weapon_id = 69590,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Drake" }
-  }},
+  },
   ["19310"] = {
     barrages = { {
       name = "Retaliatory Shield",
@@ -20564,7 +20564,7 @@ local p = {
         velocity = 18,
         weapon_id = 69600,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 360,
@@ -20593,10 +20593,10 @@ local p = {
         velocity = 18,
         weapon_id = 69600,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mainz" }
-  }},
+  },
   ["19320"] = {
     barrages = { {
       name = "Ausgewogen",
@@ -20627,10 +20627,10 @@ local p = {
         velocity = 15,
         weapon_id = 69610,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mainz" }
-  }},
+  },
   ["19340"] = {
     barrages = { {
       name = "Herteitr's Rolling Thunder",
@@ -20661,7 +20661,7 @@ local p = {
         velocity = 3,
         weapon_id = 69570,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -20690,10 +20690,10 @@ local p = {
         velocity = 36,
         weapon_id = 69580,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Odin" }
-  }},
+  },
   ["19350"] = {
     barrages = { {
       name = "Augmenting Mechanism: Setzer Principle",
@@ -20724,7 +20724,7 @@ local p = {
         velocity = 12,
         weapon_id = 69550,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -20751,10 +20751,10 @@ local p = {
         velocity = 22,
         weapon_id = 69560,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Champagne" }
-  }},
+  },
   ["19380"] = {
     barrages = { {
       name = "Sky-Rending Retribution",
@@ -20789,7 +20789,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 64330,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -20817,10 +20817,10 @@ local p = {
         velocity = 3,
         weapon_id = 64340,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hakuryuu" }
-  }},
+  },
   ["19390"] = {
     barrages = { {
       name = "Flame-Anointed Conquest\n(Fighter)",
@@ -20851,7 +20851,7 @@ local p = {
         velocity = 15,
         weapon_id = 64380,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 1,
@@ -20879,8 +20879,8 @@ local p = {
         velocity = 5,
         weapon_id = 64380,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Flame-Anointed Conquest\n(No fighter)",
       parts = { {
         aim_type = 1,
@@ -20909,10 +20909,10 @@ local p = {
         velocity = 8,
         weapon_id = 64370,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hakuryuu" }
-  }},
+  },
   ["19430"] = {
     barrages = { {
       name = "Jöttun's Jaws",
@@ -20943,7 +20943,7 @@ local p = {
         velocity = 18,
         weapon_id = 64400,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -20970,10 +20970,10 @@ local p = {
         velocity = 22,
         weapon_id = 64390,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ägir" }
-  }},
+  },
   ["19440"] = {
     barrages = { {
       name = "Riddle Me This",
@@ -21006,10 +21006,10 @@ local p = {
         velocity = 15,
         weapon_id = 64410,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Anchorage" }
-  }},
+  },
   ["19470"] = {
     barrages = { {
       name = "Hex-Principle of Shattering",
@@ -21043,7 +21043,7 @@ local p = {
         velocity = 15,
         weapon_id = 64360,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 6,
         angle = 50,
@@ -21073,10 +21073,10 @@ local p = {
         velocity = 15,
         weapon_id = 64360,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "August von Parseval" }
-  }},
+  },
   ["19490"] = {
     barrages = { {
       name = "Legendary Voyage",
@@ -21107,7 +21107,7 @@ local p = {
         velocity = 15,
         weapon_id = 64430,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 7,
         angle = 60,
@@ -21134,7 +21134,7 @@ local p = {
         velocity = 15,
         weapon_id = 64440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -21161,8 +21161,8 @@ local p = {
         velocity = 18,
         weapon_id = 64450,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Legendary Voyage\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -21191,7 +21191,7 @@ local p = {
         velocity = 15,
         weapon_id = 62730,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 7,
         angle = 60,
@@ -21218,7 +21218,7 @@ local p = {
         velocity = 15,
         weapon_id = 62740,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -21245,10 +21245,10 @@ local p = {
         velocity = 18,
         weapon_id = 62750,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Marco Polo" }
-  }},
+  },
   ["19510"] = {
     barrages = { {
       name = "Untold Tales",
@@ -21279,10 +21279,10 @@ local p = {
         velocity = 18,
         weapon_id = 64460,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Marco Polo" }
-  }},
+  },
   ["19540"] = {
     barrages = { {
       name = "Pathfinder's Shroud",
@@ -21315,7 +21315,7 @@ local p = {
         velocity = 15,
         weapon_id = 62550,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -21345,10 +21345,10 @@ local p = {
         velocity = 15,
         weapon_id = 62550,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Plymouth" }
-  }},
+  },
   ["19550"] = {
     barrages = { {
       name = "Lindwurm - Devouring Fang",
@@ -21379,10 +21379,10 @@ local p = {
         velocity = 3,
         weapon_id = 62580,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Prinz Rupprecht" }
-  }},
+  },
   ["19560"] = {
     barrages = { {
       name = "Lindwurm - Protector's Oculus",
@@ -21413,7 +21413,7 @@ local p = {
         velocity = 15,
         weapon_id = 62560,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -21440,10 +21440,10 @@ local p = {
         velocity = 18,
         weapon_id = 62570,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Prinz Rupprecht" }
-  }},
+  },
   ["19590"] = {
     barrages = { {
       name = "Blazing Battledance",
@@ -21474,10 +21474,10 @@ local p = {
         velocity = 0,
         weapon_id = 62610,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Harbin" }
-  }},
+  },
   ["19600"] = {
     barrages = { {
       name = "Aviation Experiment - Coordinated Bombardment",
@@ -21509,7 +21509,7 @@ local p = {
         velocity = 3,
         weapon_id = 62650,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -21538,8 +21538,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 62670,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Aviation Experiment - Coordinated Bombardment\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -21569,7 +21569,7 @@ local p = {
         velocity = 3,
         weapon_id = 62650,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -21598,7 +21598,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 62630,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -21627,8 +21627,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 62670,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Aviation Experiment - Coordinated Bombardment\n(fate sim)",
       parts = { {
         aim_type = 0,
@@ -21658,7 +21658,7 @@ local p = {
         velocity = 3,
         weapon_id = 163080,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -21687,8 +21687,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 163100,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Aviation Experiment - Coordinated Bombardment\n(fate sim, enhanced)",
       parts = { {
         aim_type = 0,
@@ -21718,7 +21718,7 @@ local p = {
         velocity = 3,
         weapon_id = 163080,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -21747,7 +21747,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 163060,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -21776,10 +21776,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 163100,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chkalov" }
-  }},
+  },
   ["19610"] = {
     barrages = { {
       name = "Contingency Experiment - Suppressive Fire",
@@ -21812,10 +21812,10 @@ local p = {
         velocity = 22,
         weapon_id = 62680,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chkalov" }
-  }},
+  },
   ["19650"] = {
     barrages = { {
       name = "Panacea's Paean",
@@ -21846,8 +21846,8 @@ local p = {
         velocity = 15,
         weapon_id = 62590,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Panacea's Paean\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -21876,7 +21876,7 @@ local p = {
         velocity = 18,
         weapon_id = 62600,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -21903,10 +21903,10 @@ local p = {
         velocity = 15,
         weapon_id = 62590,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Brest" }
-  }},
+  },
   ["19680"] = {
     barrages = { {
       name = "Combat Adaptation Module\n(every 20s, no burn)",
@@ -21939,8 +21939,8 @@ local p = {
         velocity = 7,
         weapon_id = 161370,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Combat Adaptation Module\n(every 20s, burn)",
       parts = { {
         aim_type = 1,
@@ -21971,7 +21971,7 @@ local p = {
         velocity = 15,
         weapon_id = 161380,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -22000,8 +22000,8 @@ local p = {
         velocity = 15,
         weapon_id = 161390,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Combat Adaptation Module\n(airstrike)",
       parts = { {
         aim_type = 1,
@@ -22031,10 +22031,10 @@ local p = {
         velocity = 15,
         weapon_id = 161410,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kearsarge" }
-  }},
+  },
   ["19690"] = {
     barrages = { {
       name = "Tormentor of the Weak",
@@ -22067,7 +22067,7 @@ local p = {
         velocity = 22,
         weapon_id = 161440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -22096,10 +22096,10 @@ local p = {
         velocity = 4,
         weapon_id = 161450,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Felix Schultz" }
-  }},
+  },
   ["19720"] = {
     barrages = { {
       name = "Doombringer's Euphoria",
@@ -22132,7 +22132,7 @@ local p = {
         velocity = 15,
         weapon_id = 162010,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -22162,8 +22162,8 @@ local p = {
         velocity = 15,
         weapon_id = 162010,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Doombringer's Euphoria\n(5s)",
       parts = { {
         aim_type = 1,
@@ -22192,10 +22192,10 @@ local p = {
         velocity = 15,
         weapon_id = 473,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hindenburg" }
-  }},
+  },
   ["19730"] = {
     barrages = { {
       name = "Apotheosis: Flourishing Assault",
@@ -22226,7 +22226,7 @@ local p = {
         velocity = 16,
         weapon_id = 162020,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -22253,7 +22253,7 @@ local p = {
         velocity = 30,
         weapon_id = 162030,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -22280,10 +22280,10 @@ local p = {
         velocity = 10,
         weapon_id = 162030,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Flandre" }
-  }},
+  },
   ["19750"] = {
     barrages = { {
       name = "Torrential Wrath",
@@ -22316,8 +22316,8 @@ local p = {
         velocity = 20,
         weapon_id = 161460,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Torrential Wrath\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -22348,7 +22348,7 @@ local p = {
         velocity = 20,
         weapon_id = 161460,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 4,
@@ -22378,10 +22378,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 161470,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shimanto" }
-  }},
+  },
   ["19770"] = {
     barrages = { {
       name = "The Dauntless Exemplar",
@@ -22412,7 +22412,7 @@ local p = {
         velocity = 15,
         weapon_id = 164750,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -22439,10 +22439,10 @@ local p = {
         velocity = 15,
         weapon_id = 164760,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bayard" }
-  }},
+  },
   ["19790"] = {
     barrages = { {
       name = "Nocturnal Judgment",
@@ -22476,10 +22476,10 @@ local p = {
         velocity = 15,
         weapon_id = 164740,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Halford" }
-  }},
+  },
   ["19800"] = {
     barrages = { {
       name = "Pedigree of Perfection",
@@ -22512,7 +22512,7 @@ local p = {
         velocity = 12,
         weapon_id = 920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -22539,7 +22539,7 @@ local p = {
         velocity = 14,
         weapon_id = 164790,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -22566,10 +22566,10 @@ local p = {
         velocity = 6,
         weapon_id = 164800,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Halford" }
-  }},
+  },
   ["19810"] = {
     barrages = { {
       name = "Destructive Connection: Peak Load Crash",
@@ -22601,10 +22601,10 @@ local p = {
         velocity = 6,
         weapon_id = 164780,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Admiral Nakhimov" }
-  }},
+  },
   ["19840"] = {
     barrages = { {
       name = "Requiem Aeternam",
@@ -22635,10 +22635,10 @@ local p = {
         velocity = 22,
         weapon_id = 164812,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Napoli" }
-  }},
+  },
   ["19850"] = {
     barrages = { {
       name = "Caelum Imbrialis",
@@ -22671,7 +22671,7 @@ local p = {
         velocity = 12,
         weapon_id = 920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -22700,10 +22700,10 @@ local p = {
         velocity = 12,
         weapon_id = 164810,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Napoli" }
-  }},
+  },
   ["19860"] = {
     barrages = { {
       name = "Causality Anchor\n(torpedo)",
@@ -22734,7 +22734,7 @@ local p = {
         velocity = 5,
         weapon_id = 164840,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -22761,8 +22761,8 @@ local p = {
         velocity = 15,
         weapon_id = 164830,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Causality Anchor\n(burn)",
       parts = { {
         aim_type = 1,
@@ -22793,8 +22793,8 @@ local p = {
         velocity = 15,
         weapon_id = 164850,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Causality Anchor\n(30%)",
       parts = { {
         aim_type = 1,
@@ -22823,7 +22823,7 @@ local p = {
         velocity = 5,
         weapon_id = 164840,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -22852,10 +22852,10 @@ local p = {
         velocity = 15,
         weapon_id = 164850,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Daisen" }
-  }},
+  },
   ["19890"] = {
     barrages = { {
       name = "Ultimatum: Flügelsturm\n(10s + every 20s)",
@@ -22889,7 +22889,7 @@ local p = {
         velocity = 0,
         weapon_id = 168490,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -22918,8 +22918,8 @@ local p = {
         velocity = 3,
         weapon_id = 168500,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Ultimatum: Flügelsturm\n(on Fire)",
       parts = { {
         aim_type = 1,
@@ -22948,10 +22948,10 @@ local p = {
         velocity = 0,
         weapon_id = 168510,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mecklenburg" }
-  }},
+  },
   ["19920"] = {
     barrages = { {
       name = "Starfall",
@@ -22985,7 +22985,7 @@ local p = {
         velocity = 0,
         weapon_id = 168480,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -23014,10 +23014,10 @@ local p = {
         velocity = 8,
         weapon_id = 168540,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gouden Leeuw" }
-  }},
+  },
   ["19940"] = {
     barrages = { {
       name = "Spiritual Echoes",
@@ -23048,7 +23048,7 @@ local p = {
         velocity = 6,
         weapon_id = 168520,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 360,
@@ -23075,8 +23075,8 @@ local p = {
         velocity = 18,
         weapon_id = 168520,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Spiritual Echoes\n(enchanced)",
       parts = { {
         aim_type = 1,
@@ -23105,10 +23105,10 @@ local p = {
         velocity = 12,
         weapon_id = 168530,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gouden Leeuw" }
-  }},
+  },
   ["19950"] = {
     barrages = { {
       name = "Ambrosial Arc's Moonhaze\n(smokescreen)",
@@ -23141,8 +23141,8 @@ local p = {
         velocity = 12,
         weapon_id = 168560,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Ambrosial Arc's Moonhaze",
       parts = { {
         aim_type = 0,
@@ -23170,13 +23170,13 @@ local p = {
         tracker = {
           angular = 8,
           range = 75
-        }},
+        },
         type = "weapon",
         velocity = 15,
         weapon_id = 168570,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Ambrosial Arc's Moonhaze\n(additional every 15 times)",
       parts = { {
         aim_type = 0,
@@ -23205,10 +23205,10 @@ local p = {
         velocity = 4,
         weapon_id = 168590,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vittorio Cuniberti" }
-  }},
+  },
   ["19980"] = {
     barrages = { {
       name = "Chargeburst\n(<3 Stack)",
@@ -23239,7 +23239,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 168440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 60,
@@ -23266,8 +23266,8 @@ local p = {
         velocity = 14,
         weapon_id = 168450,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Chargeburst\n(=3 Stack)",
       parts = { {
         aim_type = 1,
@@ -23296,7 +23296,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 168440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 60,
@@ -23323,10 +23323,10 @@ local p = {
         velocity = 14,
         weapon_id = 168450,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kansas" }
-  }},
+  },
   ["20012"] = {
     barrages = { {
       is_aoa = true,
@@ -23358,10 +23358,10 @@ local p = {
         velocity = 18,
         weapon_id = 70012,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Aylwin", "Dewey" }
-  }},
+  },
   ["20022"] = {
     barrages = { {
       is_aoa = true,
@@ -23393,10 +23393,10 @@ local p = {
         velocity = 18,
         weapon_id = 70022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cassin", "Downes" }
-  }},
+  },
   ["20032"] = {
     barrages = { {
       is_aoa = true,
@@ -23428,10 +23428,10 @@ local p = {
         velocity = 18,
         weapon_id = 70032,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Craven", "Gridley", "Maury", "McCall" }
-  }},
+  },
   ["20042"] = {
     barrages = { {
       is_aoa = true,
@@ -23463,10 +23463,10 @@ local p = {
         velocity = 18,
         weapon_id = 70042,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Aulick", "Bache", "Bell", "Bush", "Charles Ausburne", "Fletcher", "Foote", "Halsey Powell", "Hazelwood", "Jenkins", "Kimberly", "Miller", "Morrison", "Mullany", "Nicholas", "Radford", "Smalley", "Spence", "Stanly", "Stephen Potter", "Thatcher" }
-  }},
+  },
   ["20052"] = {
     barrages = { {
       is_aoa = true,
@@ -23498,10 +23498,10 @@ local p = {
         velocity = 18,
         weapon_id = 70052,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hammann", "Sims" }
-  }},
+  },
   ["20062"] = {
     barrages = { {
       is_aoa = true,
@@ -23533,10 +23533,10 @@ local p = {
         velocity = 16,
         weapon_id = 70062,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bailey", "Benson", "Hobby", "Kalk" }
-  }},
+  },
   ["20082"] = {
     barrages = { {
       is_aoa = true,
@@ -23568,10 +23568,10 @@ local p = {
         velocity = 16,
         weapon_id = 70082,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cooper" }
-  }},
+  },
   ["20092"] = {
     barrages = { {
       is_aoa = true,
@@ -23603,10 +23603,10 @@ local p = {
         velocity = 14,
         weapon_id = 70092,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hammann II" }
-  }},
+  },
   ["20112"] = {
     barrages = { {
       is_aoa = true,
@@ -23638,10 +23638,10 @@ local p = {
         velocity = 18,
         weapon_id = 70112,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Concord", "Marblehead", "Memphis", "Murmansk", "Omaha", "Raleigh", "Richmond" }
-  }},
+  },
   ["20122"] = {
     barrages = { {
       is_aoa = true,
@@ -23673,10 +23673,10 @@ local p = {
         velocity = 18,
         weapon_id = 70122,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Boise", "Brooklyn", "Helena", "Honolulu", "Lena", "Phoenix", "St. Louis" }
-  }},
+  },
   ["20132"] = {
     barrages = { {
       is_aoa = true,
@@ -23708,10 +23708,10 @@ local p = {
         velocity = 18,
         weapon_id = 70132,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Atlanta", "Juneau", "Li'l Sandy", "San Diego", "San Juan" }
-  }},
+  },
   ["20133"] = {
     barrages = { {
       is_aoa = true,
@@ -23743,10 +23743,10 @@ local p = {
         velocity = 18,
         weapon_id = 70132,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Juneau" }
-  }},
+  },
   ["20142"] = {
     barrages = { {
       is_aoa = true,
@@ -23778,10 +23778,10 @@ local p = {
         velocity = 18,
         weapon_id = 70142,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Biloxi", "Birmingham", "Clevelad", "Cleveland", "Columbia", "Denver", "Montpelier" }
-  }},
+  },
   ["20212"] = {
     barrages = { {
       is_aoa = true,
@@ -23813,10 +23813,10 @@ local p = {
         velocity = 20,
         weapon_id = 70212,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pensacola", "Salt Lake City" }
-  }},
+  },
   ["20222"] = {
     barrages = { {
       is_aoa = true,
@@ -23850,10 +23850,10 @@ local p = {
         velocity = 12,
         weapon_id = 70222,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chicago", "Houston", "Louisville", "Northampton" }
-  }},
+  },
   ["20232"] = {
     barrages = { {
       is_aoa = true,
@@ -23887,10 +23887,10 @@ local p = {
         velocity = 12,
         weapon_id = 70232,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Indianapolis", "Portland" }
-  }},
+  },
   ["20242"] = {
     barrages = { {
       is_aoa = true,
@@ -23924,10 +23924,10 @@ local p = {
         velocity = 12,
         weapon_id = 70242,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Astoria", "Minneapolis", "New Orleans", "Quincy", "Vincennes" }
-  }},
+  },
   ["20252"] = {
     barrages = { {
       is_aoa = true,
@@ -23961,10 +23961,10 @@ local p = {
         velocity = 12,
         weapon_id = 70252,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Wichita" }
-  }},
+  },
   ["20262"] = {
     barrages = { {
       is_aoa = true,
@@ -23996,8 +23996,8 @@ local p = {
         velocity = 18,
         weapon_id = 69200,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - Baltimore-class II",
       parts = { {
@@ -24027,10 +24027,10 @@ local p = {
         velocity = 15,
         weapon_id = 70262,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Baltimore", "Bremerton", "Pittsburgh" }
-  }},
+  },
   ["20282"] = {
     barrages = { {
       is_aoa = true,
@@ -24062,10 +24062,10 @@ local p = {
         velocity = 16,
         weapon_id = 70282,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Northampton II" }
-  }},
+  },
   ["20312"] = {
     barrages = { {
       is_aoa = true,
@@ -24097,8 +24097,8 @@ local p = {
         velocity = 3,
         weapon_id = 70312,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - Gato Class II",
       parts = { {
@@ -24128,10 +24128,10 @@ local p = {
         velocity = 3,
         weapon_id = 70312,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bluegill", "Dace", "Herring" }
-  }},
+  },
   ["20322"] = {
     barrages = { {
       is_aoa = true,
@@ -24163,7 +24163,7 @@ local p = {
         velocity = 3,
         weapon_id = 70322,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -24190,10 +24190,10 @@ local p = {
         velocity = 3,
         weapon_id = 70324,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nautilus" }
-  }},
+  },
   ["21012"] = {
     barrages = { {
       is_aoa = true,
@@ -24225,10 +24225,10 @@ local p = {
         velocity = 3,
         weapon_id = 71012,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Acasta", "Amazon", "Ardent" }
-  }},
+  },
   ["21017"] = {
     barrages = { {
       is_aoa = true,
@@ -24260,10 +24260,10 @@ local p = {
         velocity = 0.8,
         weapon_id = 71017,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Eskimo" }
-  }},
+  },
   ["21022"] = {
     barrages = { {
       is_aoa = true,
@@ -24295,10 +24295,10 @@ local p = {
         velocity = 18,
         weapon_id = 71022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Beagle", "Bulldog" }
-  }},
+  },
   ["21027"] = {
     barrages = { {
       is_aoa = true,
@@ -24330,10 +24330,10 @@ local p = {
         velocity = 18,
         weapon_id = 71027,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Icarus" }
-  }},
+  },
   ["21032"] = {
     barrages = { {
       is_aoa = true,
@@ -24365,10 +24365,10 @@ local p = {
         velocity = 18,
         weapon_id = 71032,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Comet", "Crescent", "Cygnet" }
-  }},
+  },
   ["21042"] = {
     barrages = { {
       is_aoa = true,
@@ -24400,10 +24400,10 @@ local p = {
         velocity = 18,
         weapon_id = 71042,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fortune", "Foxhound" }
-  }},
+  },
   ["21052"] = {
     barrages = { {
       is_aoa = true,
@@ -24435,10 +24435,10 @@ local p = {
         velocity = 3,
         weapon_id = 71052,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gallant", "Grenville" }
-  }},
+  },
   ["21062"] = {
     barrages = { {
       is_aoa = true,
@@ -24470,10 +24470,10 @@ local p = {
         velocity = 3,
         weapon_id = 71062,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hardy", "Hero", "Hunter" }
-  }},
+  },
   ["21072"] = {
     barrages = { {
       is_aoa = true,
@@ -24505,10 +24505,10 @@ local p = {
         velocity = 18,
         weapon_id = 71072,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Jersey", "Juno", "Jupiter" }
-  }},
+  },
   ["21082"] = {
     barrages = { {
       is_aoa = true,
@@ -24540,10 +24540,10 @@ local p = {
         velocity = 12,
         weapon_id = 71082,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Matchless", "Musketeer" }
-  }},
+  },
   ["21092"] = {
     barrages = { {
       is_aoa = true,
@@ -24575,10 +24575,10 @@ local p = {
         velocity = 12,
         weapon_id = 71092,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Echo" }
-  }},
+  },
   ["21112"] = {
     barrages = { {
       is_aoa = true,
@@ -24610,10 +24610,10 @@ local p = {
         velocity = 18,
         weapon_id = 71112,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Achilles", "Ajax", "Leander" }
-  }},
+  },
   ["21122"] = {
     barrages = { {
       is_aoa = true,
@@ -24645,10 +24645,10 @@ local p = {
         velocity = 3,
         weapon_id = 71122,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bellona", "Black Prince" }
-  }},
+  },
   ["21132"] = {
     barrages = { {
       is_aoa = true,
@@ -24680,10 +24680,10 @@ local p = {
         velocity = 18,
         weapon_id = 71132,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Arethusa", "Aurora", "Galatea", "Penelope" }
-  }},
+  },
   ["21142"] = {
     barrages = { {
       is_aoa = true,
@@ -24715,10 +24715,10 @@ local p = {
         velocity = 18,
         weapon_id = 71142,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Edinburgh", "Little Bel" }
-  }},
+  },
   ["21152"] = {
     barrages = { {
       is_aoa = true,
@@ -24750,10 +24750,10 @@ local p = {
         velocity = 15,
         weapon_id = 71152,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Glasgow", "Newcastle", "Sheffield", "Southampton" }
-  }},
+  },
   ["21162"] = {
     barrages = { {
       is_aoa = true,
@@ -24785,10 +24785,10 @@ local p = {
         velocity = 18,
         weapon_id = 71162,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fiji", "Jamaica", "Trinidad" }
-  }},
+  },
   ["21172"] = {
     barrages = { {
       is_aoa = true,
@@ -24820,10 +24820,10 @@ local p = {
         velocity = 18,
         weapon_id = 71172,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Curacoa", "Curlew" }
-  }},
+  },
   ["21182"] = {
     barrages = { {
       is_aoa = true,
@@ -24855,10 +24855,10 @@ local p = {
         velocity = 15,
         weapon_id = 71182,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gloucester", "Liverpool", "Manchester" }
-  }},
+  },
   ["21192"] = {
     barrages = { {
       is_aoa = true,
@@ -24890,10 +24890,10 @@ local p = {
         velocity = 18,
         weapon_id = 71192,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Enterprise" }
-  }},
+  },
   ["21212"] = {
     barrages = { {
       is_aoa = true,
@@ -24927,10 +24927,10 @@ local p = {
         velocity = 12,
         weapon_id = 71212,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Devonshire", "London", "Shropshire", "Sussex" }
-  }},
+  },
   ["21222"] = {
     barrages = { {
       is_aoa = true,
@@ -24962,10 +24962,10 @@ local p = {
         velocity = 4,
         weapon_id = 71222,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kent", "Suffolk" }
-  }},
+  },
   ["21232"] = {
     barrages = { {
       is_aoa = true,
@@ -24997,10 +24997,10 @@ local p = {
         velocity = 4,
         weapon_id = 71232,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dorsetshire", "Norfolk" }
-  }},
+  },
   ["21242"] = {
     barrages = { {
       is_aoa = true,
@@ -25032,10 +25032,10 @@ local p = {
         velocity = 14,
         weapon_id = 71242,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Exeter", "York" }
-  }},
+  },
   ["22012"] = {
     barrages = { {
       is_aoa = true,
@@ -25069,10 +25069,10 @@ local p = {
         velocity = 15,
         weapon_id = 72012,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fumizuki", "Kisaragi", "Mikazuki", "Minazuki", "Mutsuki", "Nagatsuki", "Uzuki" }
-  }},
+  },
   ["22022"] = {
     barrages = { {
       is_aoa = true,
@@ -25104,10 +25104,10 @@ local p = {
         velocity = 15,
         weapon_id = 72022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fubuki", "Miyuki", "Shirayuki", "Uranami" }
-  }},
+  },
   ["22032"] = {
     barrages = { {
       is_aoa = true,
@@ -25139,10 +25139,10 @@ local p = {
         velocity = 18,
         weapon_id = 72032,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shigure", "Shiratsuyu", "Umikaze", "Yamakaze" }
-  }},
+  },
   ["22042"] = {
     barrages = { {
       is_aoa = true,
@@ -25174,10 +25174,10 @@ local p = {
         velocity = 18,
         weapon_id = 72042,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ariake", "Hatsuharu", "Hatsushimo", "Wakaba", "Yuugure" }
-  }},
+  },
   ["22052"] = {
     barrages = { {
       is_aoa = true,
@@ -25209,10 +25209,10 @@ local p = {
         velocity = 3,
         weapon_id = 72052,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hamakaze", "Isokaze", "Kagerou", "Kuroshio", "Nowaki", "Oyashio", "Shiranui", "Tanikaze", "Urakaze" }
-  }},
+  },
   ["22057"] = {
     barrages = { {
       is_aoa = true,
@@ -25244,10 +25244,10 @@ local p = {
         velocity = 3,
         weapon_id = 72057,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kiyonami", "Makinami", "Naganami", "Suzunami" }
-  }},
+  },
   ["22062"] = {
     barrages = { {
       is_aoa = true,
@@ -25281,10 +25281,10 @@ local p = {
         velocity = 15,
         weapon_id = 72062,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hanazuki", "Harutsuki", "Niizuki", "Yoizuki" }
-  }},
+  },
   ["22072"] = {
     barrages = { {
       is_aoa = true,
@@ -25316,10 +25316,10 @@ local p = {
         velocity = 15,
         weapon_id = 72072,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Akatsuki", "Hibiki", "Ikazuchi", "Inazuma" }
-  }},
+  },
   ["22082"] = {
     barrages = { {
       is_aoa = true,
@@ -25353,10 +25353,10 @@ local p = {
         velocity = 15,
         weapon_id = 72082,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Asanagi", "Hatakaze", "Kamikaze", "Matsukaze", "Oite" }
-  }},
+  },
   ["22092"] = {
     barrages = { {
       is_aoa = true,
@@ -25390,10 +25390,10 @@ local p = {
         velocity = 16,
         weapon_id = 72092,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Arashio", "Asashio", "Kasumi", "Michishio", "Ooshio" }
-  }},
+  },
   ["22132"] = {
     barrages = { {
       is_aoa = true,
@@ -25425,10 +25425,10 @@ local p = {
         velocity = 13,
         weapon_id = 72132,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ayase", "Jintsuu", "Naka", "Sendai" }
-  }},
+  },
   ["22142"] = {
     barrages = { {
       is_aoa = true,
@@ -25460,10 +25460,10 @@ local p = {
         velocity = 15,
         weapon_id = 72142,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Abukuma", "Isuzu", "Kinu", "Nagara", "Natori", "Yura" }
-  }},
+  },
   ["22152"] = {
     barrages = { {
       is_aoa = true,
@@ -25497,10 +25497,10 @@ local p = {
         velocity = 15,
         weapon_id = 72152,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Agano" }
-  }},
+  },
   ["22162"] = {
     barrages = { {
       is_aoa = true,
@@ -25532,10 +25532,10 @@ local p = {
         velocity = 15,
         weapon_id = 72162,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yuubari" }
-  }},
+  },
   ["22212"] = {
     barrages = { {
       is_aoa = true,
@@ -25569,10 +25569,10 @@ local p = {
         velocity = 12,
         weapon_id = 72212,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Furutaka", "Kako" }
-  }},
+  },
   ["22222"] = {
     barrages = { {
       is_aoa = true,
@@ -25606,10 +25606,10 @@ local p = {
         velocity = 12,
         weapon_id = 72222,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Aoba", "Kinugasa" }
-  }},
+  },
   ["22232"] = {
     barrages = { {
       is_aoa = true,
@@ -25641,10 +25641,10 @@ local p = {
         velocity = 18,
         weapon_id = 72232,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ashigara", "Haguro", "Myoukou", "Nachi" }
-  }},
+  },
   ["22242"] = {
     barrages = { {
       is_aoa = true,
@@ -25676,10 +25676,10 @@ local p = {
         velocity = 10,
         weapon_id = 72242,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chikuma" }
-  }},
+  },
   ["22252"] = {
     barrages = { {
       is_aoa = true,
@@ -25713,10 +25713,10 @@ local p = {
         velocity = 15,
         weapon_id = 72252,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mikuma", "Mogami" }
-  }},
+  },
   ["22253"] = {
     barrages = { {
       is_aoa = true,
@@ -25750,10 +25750,10 @@ local p = {
         velocity = 16,
         weapon_id = 72253,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mogami" }
-  }},
+  },
   ["22255"] = {
     barrages = { {
       is_aoa = true,
@@ -25787,8 +25787,8 @@ local p = {
         velocity = 16,
         weapon_id = 72255,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - Suzuya II\n(enhanced)",
       parts = { {
@@ -25820,7 +25820,7 @@ local p = {
         velocity = 16,
         weapon_id = 72257,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -25847,10 +25847,10 @@ local p = {
         velocity = 22,
         weapon_id = 72257,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kumano", "Suzuya" }
-  }},
+  },
   ["22262"] = {
     barrages = { {
       is_aoa = true,
@@ -25882,10 +25882,10 @@ local p = {
         velocity = 16,
         weapon_id = 72262,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Atago", "Choukai", "Maya", "Takao" }
-  }},
+  },
   ["22312"] = {
     barrages = { {
       is_aoa = true,
@@ -25917,10 +25917,10 @@ local p = {
         velocity = 4,
         weapon_id = 72312,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-25", "I-26", "I-56", "I-58" }
-  }},
+  },
   ["22412"] = {
     barrages = { {
       is_aoa = true,
@@ -25954,10 +25954,10 @@ local p = {
         velocity = 15,
         weapon_id = 72412,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kashino" }
-  }},
+  },
   ["23012"] = {
     barrages = { {
       is_aoa = true,
@@ -25989,10 +25989,10 @@ local p = {
         velocity = 18,
         weapon_id = 73012,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z2" }
-  }},
+  },
   ["23022"] = {
     barrages = { {
       is_aoa = true,
@@ -26024,10 +26024,10 @@ local p = {
         velocity = 16,
         weapon_id = 73022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z11", "Z13", "Z16", "Z9" }
-  }},
+  },
   ["23032"] = {
     barrages = { {
       is_aoa = true,
@@ -26059,10 +26059,10 @@ local p = {
         velocity = 18,
         weapon_id = 73032,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z18", "Z19", "Z20", "Z21" }
-  }},
+  },
   ["23042"] = {
     barrages = { {
       is_aoa = true,
@@ -26094,10 +26094,10 @@ local p = {
         velocity = 22,
         weapon_id = 73042,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z24", "Z25", "Z26", "Z28" }
-  }},
+  },
   ["23052"] = {
     barrages = { {
       is_aoa = true,
@@ -26131,10 +26131,10 @@ local p = {
         velocity = 15,
         weapon_id = 73052,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z35", "Z36", "Z43" }
-  }},
+  },
   ["23112"] = {
     barrages = { {
       is_aoa = true,
@@ -26166,10 +26166,10 @@ local p = {
         velocity = 3,
         weapon_id = 73112,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Karlsruhe", "Köln", "Königsberg" }
-  }},
+  },
   ["23122"] = {
     barrages = { {
       is_aoa = true,
@@ -26201,10 +26201,10 @@ local p = {
         velocity = 3,
         weapon_id = 73122,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Leipzig", "Nürnberg" }
-  }},
+  },
   ["23132"] = {
     barrages = { {
       is_aoa = true,
@@ -26236,10 +26236,10 @@ local p = {
         velocity = 12,
         weapon_id = 73132,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Elbing" }
-  }},
+  },
   ["23212"] = {
     barrages = { {
       is_aoa = true,
@@ -26273,10 +26273,10 @@ local p = {
         velocity = 12,
         weapon_id = 73212,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Admiral Hipper", "Blücher", "Little Prinz Eugen", "Prinz Eugen" }
-  }},
+  },
   ["23222"] = {
     barrages = { {
       is_aoa = true,
@@ -26308,7 +26308,7 @@ local p = {
         velocity = 22,
         weapon_id = 73222,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -26335,10 +26335,10 @@ local p = {
         velocity = 22,
         weapon_id = 73222,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Admiral Graf Spee", "Deutschland", "Little Spee" }
-  }},
+  },
   ["23232"] = {
     barrages = { {
       is_aoa = true,
@@ -26370,10 +26370,10 @@ local p = {
         velocity = 22,
         weapon_id = 73232,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Friedrich Carl", "Prinz Adalbert", "Prinz Heinrich" }
-  }},
+  },
   ["23242"] = {
     barrages = { {
       is_aoa = true,
@@ -26405,10 +26405,10 @@ local p = {
         velocity = 22,
         weapon_id = 73242,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yorck" }
-  }},
+  },
   ["23312"] = {
     barrages = { {
       is_aoa = true,
@@ -26439,15 +26439,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 73312,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-1206", "U-410", "U-556", "U-557" }
-  }},
+  },
   ["23322"] = {
     barrages = { {
       is_aoa = true,
@@ -26478,15 +26478,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 73322,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-110" }
-  }},
+  },
   ["23412"] = {
     barrages = { {
       is_aoa = true,
@@ -26517,15 +26517,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 73412,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-73" }
-  }},
+  },
   ["23512"] = {
     barrages = { {
       is_aoa = true,
@@ -26556,15 +26556,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 73512,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-522" }
-  }},
+  },
   ["23612"] = {
     barrages = { {
       is_aoa = true,
@@ -26595,15 +26595,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 73612,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-31" }
-  }},
+  },
   ["24012"] = {
     barrages = { {
       is_aoa = true,
@@ -26635,8 +26635,8 @@ local p = {
         velocity = 1,
         weapon_id = 74053,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - An Shan-class II\n(s4g)",
       parts = { {
@@ -26666,10 +26666,10 @@ local p = {
         velocity = 1,
         weapon_id = 74022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "An Shan", "Chang Chun", "Fu Shun", "Tai Yuan" }
-  }},
+  },
   ["24032"] = {
     barrages = { {
       is_aoa = true,
@@ -26701,10 +26701,10 @@ local p = {
         velocity = 4,
         weapon_id = 170292,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lung Wu" }
-  }},
+  },
   ["24042"] = {
     barrages = { {
       is_aoa = true,
@@ -26736,10 +26736,10 @@ local p = {
         velocity = 12,
         weapon_id = 170302,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hu Pen" }
-  }},
+  },
   ["24062"] = {
     barrages = { {
       is_aoa = true,
@@ -26771,10 +26771,10 @@ local p = {
         velocity = 3,
         weapon_id = 74062,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fei Yuen" }
-  }},
+  },
   ["24112"] = {
     barrages = { {
       is_aoa = true,
@@ -26806,10 +26806,10 @@ local p = {
         velocity = 3,
         weapon_id = 74112,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ning Hai", "Ping Hai" }
-  }},
+  },
   ["24122"] = {
     barrages = { {
       is_aoa = true,
@@ -26843,10 +26843,10 @@ local p = {
         velocity = 15,
         weapon_id = 74122,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yat Sen" }
-  }},
+  },
   ["24132"] = {
     barrages = { {
       is_aoa = true,
@@ -26878,7 +26878,7 @@ local p = {
         velocity = 15,
         weapon_id = 74132,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -26905,10 +26905,10 @@ local p = {
         velocity = 15,
         weapon_id = 74132,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chao Ho", "Ying Swei" }
-  }},
+  },
   ["24142"] = {
     barrages = { {
       is_aoa = true,
@@ -26940,10 +26940,10 @@ local p = {
         velocity = 12,
         weapon_id = 74142,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hai Chi", "Hai Tien" }
-  }},
+  },
   ["24152"] = {
     barrages = { {
       is_aoa = true,
@@ -26975,10 +26975,10 @@ local p = {
         velocity = 6,
         weapon_id = 74152,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chi An" }
-  }},
+  },
   ["25012"] = {
     barrages = { {
       is_aoa = true,
@@ -27010,10 +27010,10 @@ local p = {
         velocity = 3,
         weapon_id = 75012,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Carabiniere" }
-  }},
+  },
   ["25022"] = {
     barrages = { {
       is_aoa = true,
@@ -27045,10 +27045,10 @@ local p = {
         velocity = 3,
         weapon_id = 75022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Alfredo Oriani", "Giosuè Carducci", "Vincenzo Gioberti" }
-  }},
+  },
   ["25032"] = {
     barrages = { {
       is_aoa = true,
@@ -27080,10 +27080,10 @@ local p = {
         velocity = 15,
         weapon_id = 75032,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Libeccio", "Maestrale" }
-  }},
+  },
   ["25042"] = {
     barrages = { {
       is_aoa = true,
@@ -27115,10 +27115,10 @@ local p = {
         velocity = 22,
         weapon_id = 75042,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Emanuele Pessagno", "Nicoloso da Recco" }
-  }},
+  },
   ["25212"] = {
     barrages = { {
       is_aoa = true,
@@ -27150,10 +27150,10 @@ local p = {
         velocity = 4,
         weapon_id = 75212,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Trento" }
-  }},
+  },
   ["25214"] = {
     barrages = { {
       is_aoa = true,
@@ -27185,10 +27185,10 @@ local p = {
         velocity = 4,
         weapon_id = 75214,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Trieste" }
-  }},
+  },
   ["25222"] = {
     barrages = { {
       is_aoa = true,
@@ -27220,10 +27220,10 @@ local p = {
         velocity = 22,
         weapon_id = 75222,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gorizia", "Pola", "Zara" }
-  }},
+  },
   ["25232"] = {
     barrages = { {
       is_aoa = true,
@@ -27255,10 +27255,10 @@ local p = {
         velocity = 3,
         weapon_id = 75232,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bolzano" }
-  }},
+  },
   ["25512"] = {
     barrages = { {
       is_aoa = true,
@@ -27289,15 +27289,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 75512,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Torricelli" }
-  }},
+  },
   ["26012"] = {
     barrages = { {
       is_aoa = true,
@@ -27329,10 +27329,10 @@ local p = {
         velocity = 15,
         weapon_id = 76012,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gremyashchy", "Gromky", "Grozny", "Stremitelny" }
-  }},
+  },
   ["26022"] = {
     barrages = { {
       is_aoa = true,
@@ -27366,10 +27366,10 @@ local p = {
         velocity = 15,
         weapon_id = 76022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Minsk" }
-  }},
+  },
   ["26032"] = {
     barrages = { {
       is_aoa = true,
@@ -27401,10 +27401,10 @@ local p = {
         velocity = 18,
         weapon_id = 76032,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Soobrazitelny", "Svirepy" }
-  }},
+  },
   ["26112"] = {
     barrages = { {
       is_aoa = true,
@@ -27436,10 +27436,10 @@ local p = {
         velocity = 3,
         weapon_id = 76112,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Oleg", "Pamiat' Merkuria" }
-  }},
+  },
   ["26312"] = {
     barrages = { {
       is_aoa = true,
@@ -27471,10 +27471,10 @@ local p = {
         velocity = 3,
         weapon_id = 170032,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kursk" }
-  }},
+  },
   ["28012"] = {
     barrages = { {
       is_aoa = true,
@@ -27506,10 +27506,10 @@ local p = {
         velocity = 22,
         weapon_id = 78012,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Forbin", "Le Mars" }
-  }},
+  },
   ["28022"] = {
     barrages = { {
       is_aoa = true,
@@ -27541,10 +27541,10 @@ local p = {
         velocity = 18,
         weapon_id = 78022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fleuret", "L'Opiniâtre", "Le Téméraire", "Épée" }
-  }},
+  },
   ["28032"] = {
     barrages = { {
       is_aoa = true,
@@ -27576,10 +27576,10 @@ local p = {
         velocity = 18,
         weapon_id = 78032,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kersaint", "Maillé Brézé", "Tartu", "Vauquelin" }
-  }},
+  },
   ["28112"] = {
     barrages = { {
       is_aoa = true,
@@ -27611,10 +27611,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 78112,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Émile Bertin" }
-  }},
+  },
   ["28122"] = {
     barrages = { {
       is_aoa = true,
@@ -27646,10 +27646,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 78122,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "La Galissonnière" }
-  }},
+  },
   ["28212"] = {
     barrages = { {
       is_aoa = true,
@@ -27681,10 +27681,10 @@ local p = {
         velocity = 12,
         weapon_id = 78212,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Algérie" }
-  }},
+  },
   ["28222"] = {
     barrages = { {
       is_aoa = true,
@@ -27716,10 +27716,10 @@ local p = {
         velocity = 22,
         weapon_id = 78222,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dupleix", "Foch", "Suffren" }
-  }},
+  },
   ["28232"] = {
     barrages = { {
       is_aoa = true,
@@ -27751,10 +27751,10 @@ local p = {
         velocity = 3,
         weapon_id = 170692,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chang Feng" }
-  }},
+  },
   ["28242"] = {
     barrages = { {
       is_aoa = true,
@@ -27786,10 +27786,10 @@ local p = {
         velocity = 15,
         weapon_id = 74162,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hai Yung" }
-  }},
+  },
   ["28252"] = {
     barrages = { {
       is_aoa = true,
@@ -27823,10 +27823,10 @@ local p = {
         velocity = 15,
         weapon_id = 170672,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chien Wu" }
-  }},
+  },
   ["28262"] = {
     barrages = { {
       is_aoa = true,
@@ -27858,10 +27858,10 @@ local p = {
         velocity = 3,
         weapon_id = 170692,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fu Po" }
-  }},
+  },
   ["28282"] = {
     barrages = { {
       is_aoa = true,
@@ -27893,7 +27893,7 @@ local p = {
         velocity = 15,
         weapon_id = 78102,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -27920,10 +27920,10 @@ local p = {
         velocity = 4,
         weapon_id = 78104,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duguay-Trouin" }
-  }},
+  },
   ["29022"] = {
     barrages = { {
       is_aoa = true,
@@ -27955,10 +27955,10 @@ local p = {
         velocity = 12,
         weapon_id = 79022,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Eldridge" }
-  }},
+  },
   ["29023"] = {
     barrages = { {
       is_aoa = true,
@@ -27990,10 +27990,10 @@ local p = {
         velocity = 12,
         weapon_id = 79023,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Eldridge" }
-  }},
+  },
   ["29052"] = {
     barrages = { {
       is_aoa = true,
@@ -28027,10 +28027,10 @@ local p = {
         velocity = 15,
         weapon_id = 79052,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Laffey" }
-  }},
+  },
   ["29062"] = {
     barrages = { {
       is_aoa = true,
@@ -28062,10 +28062,10 @@ local p = {
         velocity = 4,
         weapon_id = 79062,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Glowworm" }
-  }},
+  },
   ["29082"] = {
     barrages = { {
       is_aoa = true,
@@ -28097,10 +28097,10 @@ local p = {
         velocity = 22,
         weapon_id = 79082,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Javelin" }
-  }},
+  },
   ["29092"] = {
     barrages = { {
       is_aoa = true,
@@ -28132,10 +28132,10 @@ local p = {
         velocity = 4,
         weapon_id = 79092,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vampire" }
-  }},
+  },
   ["29102"] = {
     barrages = { {
       is_aoa = true,
@@ -28167,10 +28167,10 @@ local p = {
         velocity = 18,
         weapon_id = 79102,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Belfast" }
-  }},
+  },
   ["29112"] = {
     barrages = { {
       is_aoa = true,
@@ -28204,10 +28204,10 @@ local p = {
         velocity = 15,
         weapon_id = 79112,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ayanami" }
-  }},
+  },
   ["29122"] = {
     barrages = { {
       is_aoa = true,
@@ -28239,7 +28239,7 @@ local p = {
         velocity = 16,
         weapon_id = 79122,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -28266,10 +28266,10 @@ local p = {
         velocity = 4,
         weapon_id = 79124,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yuudachi" }
-  }},
+  },
   ["29123"] = {
     barrages = { {
       is_aoa = true,
@@ -28301,7 +28301,7 @@ local p = {
         velocity = 16,
         weapon_id = 79125,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -28328,10 +28328,10 @@ local p = {
         velocity = 4,
         weapon_id = 79126,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yuudachi" }
-  }},
+  },
   ["29132"] = {
     barrages = { {
       is_aoa = true,
@@ -28365,7 +28365,7 @@ local p = {
         velocity = 15,
         weapon_id = 79132,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -28392,10 +28392,10 @@ local p = {
         velocity = 4,
         weapon_id = 79134,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yukikaze" }
-  }},
+  },
   ["29142"] = {
     barrages = { {
       is_aoa = true,
@@ -28427,7 +28427,7 @@ local p = {
         velocity = 12,
         weapon_id = 79772,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -28454,7 +28454,7 @@ local p = {
         velocity = 4,
         weapon_id = 79774,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -28481,10 +28481,10 @@ local p = {
         velocity = 8,
         weapon_id = 79774,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shimakaze" }
-  }},
+  },
   ["29172"] = {
     barrages = { {
       is_aoa = true,
@@ -28516,10 +28516,10 @@ local p = {
         velocity = 18,
         weapon_id = 79172,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z1" }
-  }},
+  },
   ["29192"] = {
     barrages = { {
       is_aoa = true,
@@ -28551,10 +28551,10 @@ local p = {
         velocity = 3,
         weapon_id = 79192,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Avrora" }
-  }},
+  },
   ["29202"] = {
     barrages = { {
       is_aoa = true,
@@ -28586,10 +28586,10 @@ local p = {
         velocity = 22,
         weapon_id = 79202,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z23" }
-  }},
+  },
   ["29212"] = {
     barrages = { {
       is_aoa = true,
@@ -28621,7 +28621,7 @@ local p = {
         velocity = 18,
         weapon_id = 79212,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -28647,15 +28647,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 79214,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z46" }
-  }},
+  },
   ["29222"] = {
     barrages = { {
       is_aoa = true,
@@ -28689,10 +28689,10 @@ local p = {
         velocity = 16,
         weapon_id = 79222,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ibuki" }
-  }},
+  },
   ["29232"] = {
     barrages = { {
       is_aoa = true,
@@ -28724,10 +28724,10 @@ local p = {
         velocity = 18,
         weapon_id = 79232,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Neptune" }
-  }},
+  },
   ["29242"] = {
     barrages = { {
       is_aoa = true,
@@ -28761,7 +28761,7 @@ local p = {
         velocity = 18,
         weapon_id = 79242,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -28788,10 +28788,10 @@ local p = {
         velocity = 18,
         weapon_id = 79242,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Roon" }
-  }},
+  },
   ["29252"] = {
     barrages = { {
       is_aoa = true,
@@ -28825,10 +28825,10 @@ local p = {
         velocity = 24,
         weapon_id = 79252,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Saint Louis" }
-  }},
+  },
   ["29262"] = {
     barrages = { {
       is_aoa = true,
@@ -28860,10 +28860,10 @@ local p = {
         velocity = 4,
         weapon_id = 79262,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-19" }
-  }},
+  },
   ["29272"] = {
     barrages = { {
       is_aoa = true,
@@ -28894,15 +28894,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 79272,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-81" }
-  }},
+  },
   ["29282"] = {
     barrages = { {
       is_aoa = true,
@@ -28934,7 +28934,7 @@ local p = {
         velocity = 16,
         weapon_id = 79282,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -28961,10 +28961,10 @@ local p = {
         velocity = 4,
         weapon_id = 79284,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kawakaze" }
-  }},
+  },
   ["29312"] = {
     barrages = { {
       is_aoa = true,
@@ -28995,15 +28995,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 79312,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-47" }
-  }},
+  },
   ["29322"] = {
     barrages = { {
       is_aoa = true,
@@ -29037,10 +29037,10 @@ local p = {
         velocity = 8,
         weapon_id = 79322,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Surcouf" }
-  }},
+  },
   ["29332"] = {
     barrages = { {
       is_aoa = true,
@@ -29072,7 +29072,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 79332,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -29099,7 +29099,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 79332,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -29126,7 +29126,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 79332,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -29153,10 +29153,10 @@ local p = {
         velocity = 4,
         weapon_id = 79334,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Triomphant" }
-  }},
+  },
   ["29342"] = {
     barrages = { {
       is_aoa = true,
@@ -29188,10 +29188,10 @@ local p = {
         velocity = 3,
         weapon_id = 79342,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Albacore" }
-  }},
+  },
   ["29351"] = {
     barrages = { {
       is_aoa = true,
@@ -29223,10 +29223,10 @@ local p = {
         velocity = 9,
         weapon_id = 79351,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "San Diego" }
-  }},
+  },
   ["29362"] = {
     barrages = { {
       is_aoa = true,
@@ -29258,10 +29258,10 @@ local p = {
         velocity = 2,
         weapon_id = 79362,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sirius" }
-  }},
+  },
   ["29382"] = {
     barrages = { {
       is_aoa = true,
@@ -29293,7 +29293,7 @@ local p = {
         velocity = 18,
         weapon_id = 79382,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -29320,10 +29320,10 @@ local p = {
         velocity = 4,
         weapon_id = 79384,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kitakaze" }
-  }},
+  },
   ["29392"] = {
     barrages = { {
       is_aoa = true,
@@ -29355,10 +29355,10 @@ local p = {
         velocity = 2,
         weapon_id = 79392,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Seattle" }
-  }},
+  },
   ["29402"] = {
     barrages = { {
       is_aoa = true,
@@ -29390,10 +29390,10 @@ local p = {
         velocity = 18,
         weapon_id = 79402,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Swiftsure" }
-  }},
+  },
   ["29412"] = {
     barrages = { {
       is_aoa = true,
@@ -29425,7 +29425,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 79412,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -29452,10 +29452,10 @@ local p = {
         velocity = 4,
         weapon_id = 79414,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Malin" }
-  }},
+  },
   ["29422"] = {
     barrages = { {
       is_aoa = true,
@@ -29487,10 +29487,10 @@ local p = {
         velocity = 4,
         weapon_id = 79422,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-168" }
-  }},
+  },
   ["29432"] = {
     barrages = { {
       is_aoa = true,
@@ -29521,15 +29521,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 79432,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-101" }
-  }},
+  },
   ["29442"] = {
     barrages = { {
       is_aoa = true,
@@ -29561,10 +29561,10 @@ local p = {
         velocity = 3,
         weapon_id = 79442,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cavalla" }
-  }},
+  },
   ["29452"] = {
     barrages = { {
       is_aoa = true,
@@ -29596,10 +29596,10 @@ local p = {
         velocity = 22,
         weapon_id = 79452,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cleveland μ" }
-  }},
+  },
   ["29462"] = {
     barrages = { {
       is_aoa = true,
@@ -29631,10 +29631,10 @@ local p = {
         velocity = 9,
         weapon_id = 79462,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sheffield μ" }
-  }},
+  },
   ["29472"] = {
     barrages = { {
       is_aoa = true,
@@ -29668,10 +29668,10 @@ local p = {
         velocity = 18,
         weapon_id = 79472,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Admiral Hipper μ" }
-  }},
+  },
   ["29482"] = {
     barrages = { {
       is_aoa = true,
@@ -29703,7 +29703,7 @@ local p = {
         velocity = 18,
         weapon_id = 79482,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -29730,10 +29730,10 @@ local p = {
         velocity = 4,
         weapon_id = 79483,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Noshiro" }
-  }},
+  },
   ["29492"] = {
     barrages = { {
       is_aoa = true,
@@ -29765,7 +29765,7 @@ local p = {
         velocity = 15,
         weapon_id = 79492,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -29792,10 +29792,10 @@ local p = {
         velocity = 15,
         weapon_id = 79492,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dido" }
-  }},
+  },
   ["29502"] = {
     barrages = { {
       is_aoa = true,
@@ -29827,10 +29827,10 @@ local p = {
         velocity = 2,
         weapon_id = 79502,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tashkent" }
-  }},
+  },
   ["29512"] = {
     barrages = { {
       is_aoa = true,
@@ -29862,10 +29862,10 @@ local p = {
         velocity = 15,
         weapon_id = 79512,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chapayev" }
-  }},
+  },
   ["29531"] = {
     barrages = { {
       is_aoa = true,
@@ -29897,10 +29897,10 @@ local p = {
         velocity = 6,
         weapon_id = 79522,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Reno" }
-  }},
+  },
   ["29542"] = {
     barrages = { {
       is_aoa = true,
@@ -29932,7 +29932,7 @@ local p = {
         velocity = 15,
         weapon_id = 79542,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -29959,10 +29959,10 @@ local p = {
         velocity = 4,
         weapon_id = 79543,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Jeanne d'Arc" }
-  }},
+  },
   ["29552"] = {
     barrages = { {
       is_aoa = true,
@@ -29994,10 +29994,10 @@ local p = {
         velocity = 15,
         weapon_id = 79552,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cheshire" }
-  }},
+  },
   ["29562"] = {
     barrages = { {
       is_aoa = true,
@@ -30029,7 +30029,7 @@ local p = {
         velocity = 4,
         weapon_id = 79562,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -30056,10 +30056,10 @@ local p = {
         velocity = 18,
         weapon_id = 79562,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Drake" }
-  }},
+  },
   ["29572"] = {
     barrages = { {
       is_aoa = true,
@@ -30091,10 +30091,10 @@ local p = {
         velocity = 18,
         weapon_id = 79572,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mainz" }
-  }},
+  },
   ["29582"] = {
     barrages = { {
       is_aoa = true,
@@ -30126,10 +30126,10 @@ local p = {
         velocity = 18,
         weapon_id = 79582,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hermione" }
-  }},
+  },
   ["29592"] = {
     barrages = { {
       is_aoa = true,
@@ -30160,15 +30160,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 79592,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-96" }
-  }},
+  },
   ["29602"] = {
     barrages = { {
       is_aoa = true,
@@ -30200,7 +30200,7 @@ local p = {
         velocity = 8,
         weapon_id = 79602,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -30227,10 +30227,10 @@ local p = {
         velocity = 4,
         weapon_id = 79603,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Suzutsuki" }
-  }},
+  },
   ["29612"] = {
     barrages = { {
       is_aoa = true,
@@ -30264,7 +30264,7 @@ local p = {
         velocity = 18,
         weapon_id = 79612,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -30291,10 +30291,10 @@ local p = {
         velocity = 18,
         weapon_id = 79612,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Roon μ" }
-  }},
+  },
   ["29622"] = {
     barrages = { {
       is_aoa = true,
@@ -30326,7 +30326,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 79622,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -30353,10 +30353,10 @@ local p = {
         velocity = 4,
         weapon_id = 79624,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Malin μ" }
-  }},
+  },
   ["29632"] = {
     barrages = { {
       is_aoa = true,
@@ -30388,7 +30388,7 @@ local p = {
         velocity = 15,
         weapon_id = 79632,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -30415,10 +30415,10 @@ local p = {
         velocity = 15,
         weapon_id = 79632,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dido μ" }
-  }},
+  },
   ["29642"] = {
     barrages = { {
       is_aoa = true,
@@ -30450,10 +30450,10 @@ local p = {
         velocity = 2,
         weapon_id = 79642,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tashkent μ" }
-  }},
+  },
   ["29652"] = {
     barrages = { {
       is_aoa = true,
@@ -30485,10 +30485,10 @@ local p = {
         velocity = 3,
         weapon_id = 79652,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Albacore μ" }
-  }},
+  },
   ["29662"] = {
     barrages = { {
       is_aoa = true,
@@ -30522,10 +30522,10 @@ local p = {
         velocity = 18,
         weapon_id = 79662,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Baltimore μ" }
-  }},
+  },
   ["29672"] = {
     barrages = { {
       is_aoa = true,
@@ -30556,15 +30556,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 79672,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-37" }
-  }},
+  },
   ["29682"] = {
     barrages = { {
       is_aoa = true,
@@ -30596,7 +30596,7 @@ local p = {
         velocity = 15,
         weapon_id = 79682,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -30623,10 +30623,10 @@ local p = {
         velocity = 4,
         weapon_id = 79683,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kirov" }
-  }},
+  },
   ["29692"] = {
     barrages = { {
       is_aoa = true,
@@ -30658,7 +30658,7 @@ local p = {
         velocity = 16,
         weapon_id = 79692,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -30685,10 +30685,10 @@ local p = {
         velocity = 4,
         weapon_id = 79693,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Allen M. Sumner" }
-  }},
+  },
   ["29702"] = {
     barrages = { {
       is_aoa = true,
@@ -30720,7 +30720,7 @@ local p = {
         velocity = 5,
         weapon_id = 79702,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 360,
@@ -30747,7 +30747,7 @@ local p = {
         velocity = 2.5,
         weapon_id = 79702,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -30774,10 +30774,10 @@ local p = {
         velocity = 3,
         weapon_id = 79703,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duca degli Abruzzi" }
-  }},
+  },
   ["29712"] = {
     barrages = { {
       is_aoa = true,
@@ -30811,10 +30811,10 @@ local p = {
         velocity = 15,
         weapon_id = 79712,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "San Francisco" }
-  }},
+  },
   ["29722"] = {
     barrages = { {
       is_aoa = true,
@@ -30846,7 +30846,7 @@ local p = {
         velocity = 3,
         weapon_id = 79722,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -30875,10 +30875,10 @@ local p = {
         velocity = 3,
         weapon_id = 79722,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Archerfish" }
-  }},
+  },
   ["29732"] = {
     barrages = { {
       is_aoa = true,
@@ -30910,7 +30910,7 @@ local p = {
         velocity = 16,
         weapon_id = 79742,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -30937,10 +30937,10 @@ local p = {
         velocity = 4,
         weapon_id = 79744,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kazagumo" }
-  }},
+  },
   ["29742"] = {
     barrages = { {
       is_aoa = true,
@@ -30972,7 +30972,7 @@ local p = {
         velocity = 15,
         weapon_id = 79752,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -30999,10 +30999,10 @@ local p = {
         velocity = 4,
         weapon_id = 79753,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Anchorage" }
-  }},
+  },
   ["29752"] = {
     barrages = { {
       is_aoa = true,
@@ -31034,7 +31034,7 @@ local p = {
         velocity = 16,
         weapon_id = 79762,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -31061,10 +31061,10 @@ local p = {
         velocity = 4,
         weapon_id = 79763,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ingraham" }
-  }},
+  },
   ["29762"] = {
     barrages = { {
       is_aoa = true,
@@ -31096,7 +31096,7 @@ local p = {
         velocity = 1,
         weapon_id = 79782,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -31123,10 +31123,10 @@ local p = {
         velocity = 5,
         weapon_id = 79784,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Terrible" }
-  }},
+  },
   ["29772"] = {
     barrages = { {
       is_aoa = true,
@@ -31158,7 +31158,7 @@ local p = {
         velocity = 12,
         weapon_id = 79792,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -31185,10 +31185,10 @@ local p = {
         velocity = 5,
         weapon_id = 79794,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Magdeburg" }
-  }},
+  },
   ["29782"] = {
     barrages = { {
       is_aoa = true,
@@ -31220,7 +31220,7 @@ local p = {
         velocity = 15,
         weapon_id = 79802,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -31247,10 +31247,10 @@ local p = {
         velocity = 15,
         weapon_id = 79802,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Charybdis" }
-  }},
+  },
   ["29792"] = {
     barrages = { {
       is_aoa = true,
@@ -31282,7 +31282,7 @@ local p = {
         velocity = 16,
         weapon_id = 79812,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -31309,10 +31309,10 @@ local p = {
         velocity = 4,
         weapon_id = 79813,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bristol" }
-  }},
+  },
   ["29801"] = {
     barrages = { {
       is_aoa = true,
@@ -31344,8 +31344,8 @@ local p = {
         velocity = 1,
         weapon_id = 74023,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - An Shan III\n(s4g, vanguard)",
       parts = { {
@@ -31375,10 +31375,10 @@ local p = {
         velocity = 1,
         weapon_id = 74024,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "An Shan" }
-  }},
+  },
   ["29811"] = {
     barrages = { {
       is_aoa = true,
@@ -31410,8 +31410,8 @@ local p = {
         velocity = 1,
         weapon_id = 74023,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - Chang Chung III\n(s4g, vanguard)",
       parts = { {
@@ -31441,10 +31441,10 @@ local p = {
         velocity = 1,
         weapon_id = 74024,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chang Chun" }
-  }},
+  },
   ["29822"] = {
     barrages = { {
       is_aoa = true,
@@ -31476,10 +31476,10 @@ local p = {
         velocity = 2,
         weapon_id = 79822,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kiev" }
-  }},
+  },
   ["29832"] = {
     barrages = { {
       is_aoa = true,
@@ -31511,10 +31511,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 79832,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pompeo Magno" }
-  }},
+  },
   ["29842"] = {
     barrages = { {
       is_aoa = true,
@@ -31546,10 +31546,10 @@ local p = {
         velocity = 3.9,
         weapon_id = 79842,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Emden" }
-  }},
+  },
   ["29852"] = {
     barrages = { {
       is_aoa = true,
@@ -31581,7 +31581,7 @@ local p = {
         velocity = 15,
         weapon_id = 79852,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -31608,10 +31608,10 @@ local p = {
         velocity = 4,
         weapon_id = 79854,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Jervis" }
-  }},
+  },
   ["29862"] = {
     barrages = { {
       is_aoa = true,
@@ -31643,10 +31643,10 @@ local p = {
         velocity = 15,
         weapon_id = 79862,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Cheshire" }
-  }},
+  },
   ["29882"] = {
     barrages = { {
       is_aoa = true,
@@ -31678,7 +31678,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 79882,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -31705,10 +31705,10 @@ local p = {
         velocity = 4,
         weapon_id = 79884,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "L'Indomptable" }
-  }},
+  },
   ["29892"] = {
     barrages = { {
       is_aoa = true,
@@ -31740,7 +31740,7 @@ local p = {
         velocity = 15,
         weapon_id = 79892,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -31767,10 +31767,10 @@ local p = {
         velocity = 4,
         weapon_id = 79893,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Plymouth" }
-  }},
+  },
   ["29902"] = {
     barrages = { {
       is_aoa = true,
@@ -31802,7 +31802,7 @@ local p = {
         velocity = 15,
         weapon_id = 79902,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -31829,10 +31829,10 @@ local p = {
         velocity = 4,
         weapon_id = 79903,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Harbin" }
-  }},
+  },
   ["29912"] = {
     barrages = { {
       is_aoa = true,
@@ -31864,10 +31864,10 @@ local p = {
         velocity = 3,
         weapon_id = 79922,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Leonardo da Vinci" }
-  }},
+  },
   ["29922"] = {
     barrages = { {
       is_aoa = true,
@@ -31899,7 +31899,7 @@ local p = {
         velocity = 5,
         weapon_id = 79912,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 360,
@@ -31926,7 +31926,7 @@ local p = {
         velocity = 2.5,
         weapon_id = 79912,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -31953,10 +31953,10 @@ local p = {
         velocity = 3,
         weapon_id = 79913,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Giuseppe Garibaldi" }
-  }},
+  },
   ["29932"] = {
     barrages = { {
       is_aoa = true,
@@ -31988,7 +31988,7 @@ local p = {
         velocity = 20,
         weapon_id = 79942,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32015,10 +32015,10 @@ local p = {
         velocity = 5,
         weapon_id = 79943,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sakawa" }
-  }},
+  },
   ["29942"] = {
     barrages = { {
       is_aoa = true,
@@ -32050,7 +32050,7 @@ local p = {
         velocity = 8,
         weapon_id = 79952,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32077,10 +32077,10 @@ local p = {
         velocity = 4,
         weapon_id = 79953,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Wakatsuki" }
-  }},
+  },
   ["29952"] = {
     barrages = { {
       is_aoa = true,
@@ -32112,7 +32112,7 @@ local p = {
         velocity = 15,
         weapon_id = 79972,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32139,10 +32139,10 @@ local p = {
         velocity = 4,
         weapon_id = 79974,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Janus" }
-  }},
+  },
   ["29962"] = {
     barrages = { {
       is_aoa = true,
@@ -32175,10 +32175,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 79982,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Royal Fortune" }
-  }},
+  },
   ["29972"] = {
     barrages = { {
       is_aoa = true,
@@ -32210,10 +32210,10 @@ local p = {
         velocity = 12,
         weapon_id = 170002,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kuybyshev" }
-  }},
+  },
   ["29982"] = {
     barrages = { {
       is_aoa = true,
@@ -32245,7 +32245,7 @@ local p = {
         velocity = 15,
         weapon_id = 170022,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -32272,10 +32272,10 @@ local p = {
         velocity = 15,
         weapon_id = 170022,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Scylla" }
-  }},
+  },
   ["29992"] = {
     barrages = { {
       is_aoa = true,
@@ -32307,7 +32307,7 @@ local p = {
         velocity = 15,
         weapon_id = 170052,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32334,10 +32334,10 @@ local p = {
         velocity = 4,
         weapon_id = 170053,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Voroshilov" }
-  }},
+  },
   ["30011"] = {
     barrages = { {
       is_aoa = true,
@@ -32369,10 +32369,10 @@ local p = {
         velocity = 22,
         weapon_id = 170062,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Otto von Alvensleben" }
-  }},
+  },
   ["30022"] = {
     barrages = { {
       is_aoa = true,
@@ -32404,7 +32404,7 @@ local p = {
         velocity = 12,
         weapon_id = 170083,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32431,8 +32431,8 @@ local p = {
         velocity = 5,
         weapon_id = 170084,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - Regensburg II\n(enhanced)",
       parts = { {
@@ -32462,7 +32462,7 @@ local p = {
         velocity = 10,
         weapon_id = 170085,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32489,7 +32489,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 170086,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -32516,7 +32516,7 @@ local p = {
         velocity = 12,
         weapon_id = 170083,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32543,10 +32543,10 @@ local p = {
         velocity = 5,
         weapon_id = 170084,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Regensburg" }
-  }},
+  },
   ["30032"] = {
     barrages = { {
       is_aoa = true,
@@ -32578,10 +32578,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 170102,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Attilio Regolo" }
-  }},
+  },
   ["30051"] = {
     barrages = { {
       is_aoa = true,
@@ -32613,7 +32613,7 @@ local p = {
         velocity = 22,
         weapon_id = 170112,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32640,10 +32640,10 @@ local p = {
         velocity = 4,
         weapon_id = 170113,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Felix Schultz" }
-  }},
+  },
   ["30062"] = {
     barrages = { {
       is_aoa = true,
@@ -32675,10 +32675,10 @@ local p = {
         velocity = 18,
         weapon_id = 170122,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hindenburg" }
-  }},
+  },
   ["30072"] = {
     barrages = { {
       is_aoa = true,
@@ -32710,10 +32710,10 @@ local p = {
         velocity = 12,
         weapon_id = 170132,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shimanto" }
-  }},
+  },
   ["30082"] = {
     barrages = { {
       is_aoa = true,
@@ -32745,10 +32745,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 170152,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Marseillaise" }
-  }},
+  },
   ["30092"] = {
     barrages = { {
       is_aoa = true,
@@ -32780,7 +32780,7 @@ local p = {
         velocity = 4,
         weapon_id = 170162,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 180,
@@ -32808,10 +32808,10 @@ local p = {
         velocity = 12,
         weapon_id = 170162,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Guichen" }
-  }},
+  },
   ["30102"] = {
     barrages = { {
       is_aoa = true,
@@ -32845,7 +32845,7 @@ local p = {
         velocity = 16,
         weapon_id = 170182,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -32872,10 +32872,10 @@ local p = {
         velocity = 4,
         weapon_id = 170183,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Unzen" }
-  }},
+  },
   ["30112"] = {
     barrages = { {
       is_aoa = true,
@@ -32907,7 +32907,7 @@ local p = {
         velocity = 1,
         weapon_id = 170193,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -32934,10 +32934,10 @@ local p = {
         velocity = 3,
         weapon_id = 170194,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hatsuzuki" }
-  }},
+  },
   ["30122"] = {
     barrages = { {
       is_aoa = true,
@@ -32969,10 +32969,10 @@ local p = {
         velocity = 18,
         weapon_id = 170202,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Houston II" }
-  }},
+  },
   ["30132"] = {
     barrages = { {
       is_aoa = true,
@@ -33005,10 +33005,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 170212,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mary Celeste" }
-  }},
+  },
   ["30142"] = {
     barrages = { {
       is_aoa = true,
@@ -33040,10 +33040,10 @@ local p = {
         velocity = 15,
         weapon_id = 170232,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Whydah" }
-  }},
+  },
   ["30152"] = {
     barrages = { {
       is_aoa = true,
@@ -33075,7 +33075,7 @@ local p = {
         velocity = 12,
         weapon_id = 170223,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -33102,10 +33102,10 @@ local p = {
         velocity = 12,
         weapon_id = 170224,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Golden Hind" }
-  }},
+  },
   ["30162"] = {
     barrages = { {
       is_aoa = true,
@@ -33137,10 +33137,10 @@ local p = {
         velocity = 12,
         weapon_id = 170234,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Adventure Galley" }
-  }},
+  },
   ["30172"] = {
     barrages = { {
       is_aoa = true,
@@ -33172,7 +33172,7 @@ local p = {
         velocity = 16,
         weapon_id = 170262,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -33199,10 +33199,10 @@ local p = {
         velocity = 4,
         weapon_id = 170263,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Laffey II" }
-  }},
+  },
   ["30182"] = {
     barrages = { {
       is_aoa = true,
@@ -33234,10 +33234,10 @@ local p = {
         velocity = 4,
         weapon_id = 170272,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Flasher" }
-  }},
+  },
   ["30191"] = {
     barrages = { {
       is_aoa = true,
@@ -33269,8 +33269,8 @@ local p = {
         velocity = 1,
         weapon_id = 74053,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - Tai Yuan III\n(s4g, vanguard)",
       parts = { {
@@ -33300,10 +33300,10 @@ local p = {
         velocity = 1,
         weapon_id = 74054,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tai Yuan" }
-  }},
+  },
   ["30202"] = {
     barrages = { {
       is_aoa = true,
@@ -33335,10 +33335,10 @@ local p = {
         velocity = 4,
         weapon_id = 170402,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ognevoy" }
-  }},
+  },
   ["30212"] = {
     barrages = { {
       is_aoa = true,
@@ -33370,10 +33370,10 @@ local p = {
         velocity = 0.8,
         weapon_id = 170422,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nubian" }
-  }},
+  },
   ["30222"] = {
     barrages = { {
       is_aoa = true,
@@ -33405,10 +33405,10 @@ local p = {
         velocity = 18,
         weapon_id = 170442,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Prinz Eugen μ" }
-  }},
+  },
   ["30232"] = {
     barrages = { {
       is_aoa = true,
@@ -33440,7 +33440,7 @@ local p = {
         velocity = 14,
         weapon_id = 170462,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -33467,10 +33467,10 @@ local p = {
         velocity = 4,
         weapon_id = 170463,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Noshiro μ" }
-  }},
+  },
   ["30242"] = {
     barrages = { {
       is_aoa = true,
@@ -33502,7 +33502,7 @@ local p = {
         velocity = 18,
         weapon_id = 170452,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -33528,15 +33528,15 @@ local p = {
         tracker = {
           angular = 1.2,
           range = 12
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 170454,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Téméraire μ" }
-  }},
+  },
   ["30252"] = {
     barrages = { {
       is_aoa = true,
@@ -33568,10 +33568,10 @@ local p = {
         velocity = 18,
         weapon_id = 170472,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Boise μ" }
-  }},
+  },
   ["30262"] = {
     barrages = { {
       is_aoa = true,
@@ -33603,10 +33603,10 @@ local p = {
         velocity = 22,
         weapon_id = 170482,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mogador" }
-  }},
+  },
   ["30272"] = {
     barrages = { {
       is_aoa = true,
@@ -33640,10 +33640,10 @@ local p = {
         velocity = 1,
         weapon_id = 170492,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Brennus" }
-  }},
+  },
   ["30282"] = {
     barrages = { {
       is_aoa = true,
@@ -33675,7 +33675,7 @@ local p = {
         velocity = 10,
         weapon_id = 170522,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -33703,10 +33703,10 @@ local p = {
         velocity = 18,
         weapon_id = 170522,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z47" }
-  }},
+  },
   ["30292"] = {
     barrages = { {
       is_aoa = true,
@@ -33738,7 +33738,7 @@ local p = {
         velocity = 1,
         weapon_id = 170532,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -33765,10 +33765,10 @@ local p = {
         velocity = 4,
         weapon_id = 170533,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bayard" }
-  }},
+  },
   ["30302"] = {
     barrages = { {
       is_aoa = true,
@@ -33800,10 +33800,10 @@ local p = {
         velocity = 15,
         weapon_id = 170542,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Halford" }
-  }},
+  },
   ["30312"] = {
     barrages = { {
       is_aoa = true,
@@ -33835,7 +33835,7 @@ local p = {
         velocity = 15,
         weapon_id = 170552,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 7,
         angle = 360,
@@ -33863,7 +33863,7 @@ local p = {
         velocity = 15,
         weapon_id = 170552,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -33890,10 +33890,10 @@ local p = {
         velocity = 5,
         weapon_id = 170553,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Napoli" }
-  }},
+  },
   ["30322"] = {
     barrages = { {
       is_aoa = true,
@@ -33925,7 +33925,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 170562,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -33952,10 +33952,10 @@ local p = {
         velocity = 4,
         weapon_id = 170564,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "L'Audacieux" }
-  }},
+  },
   ["30332"] = {
     barrages = { {
       is_aoa = true,
@@ -33987,10 +33987,10 @@ local p = {
         velocity = 15,
         weapon_id = 170582,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fargo" }
-  }},
+  },
   ["30342"] = {
     barrages = { {
       is_aoa = true,
@@ -34022,7 +34022,7 @@ local p = {
         velocity = 17,
         weapon_id = 170593,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -34049,10 +34049,10 @@ local p = {
         velocity = 17,
         weapon_id = 170592,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Watarase" }
-  }},
+  },
   ["30352"] = {
     barrages = { {
       is_aoa = true,
@@ -34085,10 +34085,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 170602,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Amity" }
-  }},
+  },
   ["30362"] = {
     barrages = { {
       is_aoa = true,
@@ -34120,10 +34120,10 @@ local p = {
         velocity = 12,
         weapon_id = 170612,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fancy" }
-  }},
+  },
   ["30382"] = {
     barrages = { {
       is_aoa = true,
@@ -34155,10 +34155,10 @@ local p = {
         velocity = 12,
         weapon_id = 170632,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Portsmouth Adventure" }
-  }},
+  },
   ["30392"] = {
     barrages = { {
       is_aoa = true,
@@ -34190,7 +34190,7 @@ local p = {
         velocity = 10,
         weapon_id = 170652,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -34218,8 +34218,8 @@ local p = {
         velocity = 18,
         weapon_id = 170652,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault II\n(Additional)",
       parts = { {
@@ -34249,10 +34249,10 @@ local p = {
         velocity = 5,
         weapon_id = 170653,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z52" }
-  }},
+  },
   ["30402"] = {
     barrages = { {
       is_aoa = true,
@@ -34284,7 +34284,7 @@ local p = {
         velocity = 8,
         weapon_id = 170662,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -34311,10 +34311,10 @@ local p = {
         velocity = 5,
         weapon_id = 170663,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duisburg" }
-  }},
+  },
   ["30411"] = {
     barrages = { {
       is_aoa = true,
@@ -34346,8 +34346,8 @@ local p = {
         velocity = 1,
         weapon_id = 74033,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - Fu Shun III\n(s4g, vanguard)",
       parts = { {
@@ -34377,10 +34377,10 @@ local p = {
         velocity = 1,
         weapon_id = 74034,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fu Shun" }
-  }},
+  },
   ["30422"] = {
     barrages = { {
       is_aoa = true,
@@ -34412,10 +34412,10 @@ local p = {
         velocity = 3,
         weapon_id = 170712,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Maggiore Baracca" }
-  }},
+  },
   ["30432"] = {
     barrages = { {
       is_aoa = true,
@@ -34447,10 +34447,10 @@ local p = {
         velocity = 12,
         weapon_id = 170722,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Santa Fe" }
-  }},
+  },
   ["30442"] = {
     barrages = { {
       is_aoa = true,
@@ -34482,7 +34482,7 @@ local p = {
         velocity = 0,
         weapon_id = 170742,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -34510,10 +34510,10 @@ local p = {
         velocity = 10,
         weapon_id = 170742,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "De Zeven Provinciën" }
-  }},
+  },
   ["30452"] = {
     barrages = { {
       is_aoa = true,
@@ -34545,7 +34545,7 @@ local p = {
         velocity = 15,
         weapon_id = 170752,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -34572,10 +34572,10 @@ local p = {
         velocity = 15,
         weapon_id = 170752,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Anchorage" }
-  }},
+  },
   ["30462"] = {
     barrages = { {
       is_aoa = true,
@@ -34607,10 +34607,10 @@ local p = {
         velocity = 15,
         weapon_id = 170772,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cleopatra" }
-  }},
+  },
   ["30472"] = {
     barrages = { {
       is_aoa = true,
@@ -34642,7 +34642,7 @@ local p = {
         velocity = 3,
         weapon_id = 170782,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -34670,7 +34670,7 @@ local p = {
         velocity = 3,
         weapon_id = 170782,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -34697,7 +34697,7 @@ local p = {
         velocity = 3,
         weapon_id = 170784,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -34725,10 +34725,10 @@ local p = {
         velocity = 3,
         weapon_id = 170784,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Trafalgar" }
-  }},
+  },
   ["30482"] = {
     barrages = { {
       is_aoa = true,
@@ -34759,13 +34759,13 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 168272,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - U-552 II\n(enhanced)",
       parts = { {
@@ -34794,15 +34794,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 168274,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-552" }
-  }},
+  },
   ["30492"] = {
     barrages = { {
       is_aoa = true,
@@ -34834,10 +34834,10 @@ local p = {
         velocity = 22,
         weapon_id = 170802,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vittorio Cuniberti" }
-  }},
+  },
   ["30502"] = {
     barrages = { {
       is_aoa = true,
@@ -34869,10 +34869,10 @@ local p = {
         velocity = 15,
         weapon_id = 170812,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dmitri Donskoi" }
-  }},
+  },
   ["30512"] = {
     barrages = { {
       is_aoa = true,
@@ -34904,10 +34904,10 @@ local p = {
         velocity = 3,
         weapon_id = 170832,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Hardi" }
-  }},
+  },
   ["101060"] = {
     barrages = { {
       name = "Victory Slash",
@@ -34938,7 +34938,7 @@ local p = {
         velocity = 1,
         weapon_id = 66470,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -34965,10 +34965,10 @@ local p = {
         velocity = 18,
         weapon_id = 66490,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Purple Heart" }
-  }},
+  },
   ["101070"] = {
     barrages = { {
       name = "Blaze Break",
@@ -34999,10 +34999,10 @@ local p = {
         velocity = 14,
         weapon_id = 66510,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Purple Heart" }
-  }},
+  },
   ["101090"] = {
     barrages = { {
       name = "Lacy Dance",
@@ -35033,7 +35033,7 @@ local p = {
         velocity = 12,
         weapon_id = 66530,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -35060,7 +35060,7 @@ local p = {
         velocity = 12,
         weapon_id = 66530,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -35089,10 +35089,10 @@ local p = {
         velocity = 12,
         weapon_id = 66530,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Black Heart" }
-  }},
+  },
   ["104020"] = {
     barrages = { {
       name = "Crisis Prevention!",
@@ -35123,10 +35123,10 @@ local p = {
         velocity = 4,
         weapon_id = 68300,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kizuna AI" }
-  }},
+  },
   ["104050"] = {
     barrages = { {
       name = "Future Base",
@@ -35159,7 +35159,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 68320,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -35188,10 +35188,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 68330,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Anniversary Kizuna AI" }
-  }},
+  },
   ["104070"] = {
     barrages = { {
       name = "Super AIming Adjustments",
@@ -35222,7 +35222,7 @@ local p = {
         velocity = 4,
         weapon_id = 68290,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -35249,10 +35249,10 @@ local p = {
         velocity = 18,
         weapon_id = 68280,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Super Gamer Kizuna AI" }
-  }},
+  },
   ["105010"] = {
     barrages = { {
       name = "Mach 2.42 Blossom",
@@ -35285,10 +35285,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 68970,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shirakami Fubuki" }
-  }},
+  },
   ["105030"] = {
     barrages = { {
       name = "Dream☆Story",
@@ -35322,10 +35322,10 @@ local p = {
         velocity = 6,
         weapon_id = 68830,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tokino Sora" }
-  }},
+  },
   ["105070"] = {
     barrages = { {
       name = "Promise to the Sunflower",
@@ -35356,8 +35356,8 @@ local p = {
         velocity = 4,
         weapon_id = 68840,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Promise to the Sunflower\n(Enhanced)",
       parts = { {
         aim_type = 0,
@@ -35386,10 +35386,10 @@ local p = {
         velocity = 4,
         weapon_id = 68840,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Minato Aqua" }
-  }},
+  },
   ["105080"] = {
     barrages = { {
       name = "The Summer Flower We Watch",
@@ -35420,7 +35420,7 @@ local p = {
         velocity = 18,
         weapon_id = 68850,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -35449,10 +35449,10 @@ local p = {
         velocity = 18,
         weapon_id = 68850,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Natsuiro Matsuri" }
-  }},
+  },
   ["105110"] = {
     barrages = { {
       name = "Demon Cutter Asura-Rakshasa",
@@ -35485,10 +35485,10 @@ local p = {
         velocity = 15,
         weapon_id = 68980,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nakiri Ayame" }
-  }},
+  },
   ["105130"] = {
     barrages = { {
       name = "MP Burst - Explosion",
@@ -35522,7 +35522,7 @@ local p = {
         velocity = 0,
         weapon_id = 999,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -35549,10 +35549,10 @@ local p = {
         velocity = 0,
         weapon_id = 68950,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Murasaki Shion" }
-  }},
+  },
   ["105140"] = {
     barrages = { {
       name = "Wild Dualism\n(odd)",
@@ -35584,8 +35584,8 @@ local p = {
         velocity = 3,
         weapon_id = 68880,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Wild Dualism\n(even)",
       parts = { {
         aim_type = 1,
@@ -35616,10 +35616,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 68900,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ōkami Mio" }
-  }},
+  },
   ["106010"] = {
     barrages = { {
       name = "Rose's Thorns",
@@ -35650,10 +35650,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 65280,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Marie Rose" }
-  }},
+  },
   ["106030"] = {
     barrages = { {
       name = "Rock-Paper-Cannon Salvo\n(Petals)",
@@ -35684,7 +35684,7 @@ local p = {
         velocity = 18,
         weapon_id = 65420,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 360,
@@ -35711,8 +35711,8 @@ local p = {
         velocity = 18,
         weapon_id = 65420,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Rock-Paper-Cannon Salvo\n(Bullets)",
       parts = { {
         aim_type = 1,
@@ -35741,8 +35741,8 @@ local p = {
         velocity = 15,
         weapon_id = 65430,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Rock-Paper-Cannon Salvo\n(Cards)",
       parts = { {
         aim_type = 1,
@@ -35771,10 +35771,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 65440,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Honoka" }
-  }},
+  },
   ["106040"] = {
     barrages = { {
       name = "Super Mega Explosion",
@@ -35807,7 +35807,7 @@ local p = {
         velocity = 15,
         weapon_id = 65290,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 60,
@@ -35836,10 +35836,10 @@ local p = {
         velocity = 11,
         weapon_id = 65300,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Honoka" }
-  }},
+  },
   ["106050"] = {
     barrages = { {
       name = "Sakura Petal Dance",
@@ -35870,7 +35870,7 @@ local p = {
         velocity = 18,
         weapon_id = 65310,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 360,
@@ -35897,10 +35897,10 @@ local p = {
         velocity = 18,
         weapon_id = 65310,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kasumi" }
-  }},
+  },
   ["106080"] = {
     barrages = { {
       name = "Venus Friends",
@@ -35933,10 +35933,10 @@ local p = {
         velocity = 15,
         weapon_id = 65340,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Misaki" }
-  }},
+  },
   ["106090"] = {
     barrages = { {
       name = "Not-So-Gentle Sister",
@@ -35969,7 +35969,7 @@ local p = {
         velocity = 15,
         weapon_id = 65350,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -35998,10 +35998,10 @@ local p = {
         velocity = 20,
         weapon_id = 65360,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nagisa" }
-  }},
+  },
   ["106110"] = {
     barrages = { {
       name = "Joker Card",
@@ -36034,7 +36034,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 65380,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 360,
@@ -36061,10 +36061,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 65370,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Monica" }
-  }},
+  },
   ["106130"] = {
     barrages = { {
       name = "Dance of the Heavens",
@@ -36097,7 +36097,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 65400,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -36126,10 +36126,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 65410,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nyotengu" }
-  }},
+  },
   ["106150"] = {
     barrages = { {
       name = "Scholar's Ocean Investigation",
@@ -36163,10 +36163,10 @@ local p = {
         velocity = 0,
         weapon_id = 160930,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Luna" }
-  }},
+  },
   ["106170"] = {
     barrages = { {
       name = "Rose's Thorns+",
@@ -36199,10 +36199,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 160940,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Marie Rose" }
-  }},
+  },
   ["106210"] = {
     barrages = { {
       name = "Super Mega Explosion+",
@@ -36235,7 +36235,7 @@ local p = {
         velocity = 15,
         weapon_id = 65290,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 60,
@@ -36264,10 +36264,10 @@ local p = {
         velocity = 11,
         weapon_id = 160950,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Honoka" }
-  }},
+  },
   ["106330"] = {
     barrages = { {
       name = "lisianthus Halation",
@@ -36300,10 +36300,10 @@ local p = {
         velocity = 16,
         weapon_id = 160970,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tamaki" }
-  }},
+  },
   ["106340"] = {
     barrages = { {
       name = "lisianthus Halation",
@@ -36336,10 +36336,10 @@ local p = {
         velocity = 16,
         weapon_id = 160970,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tamaki" }
-  }},
+  },
   ["107030"] = {
     barrages = { {
       name = "Positivity Burst!",
@@ -36372,7 +36372,7 @@ local p = {
         velocity = 15,
         weapon_id = 64470,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -36399,10 +36399,10 @@ local p = {
         velocity = 3,
         weapon_id = 64480,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Haruka Amami" }
-  }},
+  },
   ["107040"] = {
     barrages = { {
       name = "Cerulean Song",
@@ -36435,7 +36435,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 64550,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -36463,10 +36463,10 @@ local p = {
         velocity = 3,
         weapon_id = 64590,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chihaya Kisaragi" }
-  }},
+  },
   ["107070"] = {
     barrages = { {
       name = "Iori Strike!",
@@ -36499,7 +36499,7 @@ local p = {
         velocity = 15,
         weapon_id = 64560,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 50,
@@ -36526,10 +36526,10 @@ local p = {
         velocity = 15,
         weapon_id = 64570,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Iori Minase" }
-  }},
+  },
   ["107110"] = {
     barrages = { {
       name = "Directionally Challenged",
@@ -36560,10 +36560,10 @@ local p = {
         velocity = 3,
         weapon_id = 64490,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Azusa Miura" }
-  }},
+  },
   ["107120"] = {
     barrages = { {
       name = "Fleet Course Management",
@@ -36596,7 +36596,7 @@ local p = {
         velocity = 15,
         weapon_id = 64510,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -36623,7 +36623,7 @@ local p = {
         velocity = 15,
         weapon_id = 64500,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -36650,10 +36650,10 @@ local p = {
         velocity = 15,
         weapon_id = 64500,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ritsuko Akizuki" }
-  }},
+  },
   ["107150"] = {
     barrages = { {
       name = "Double Trouble - Ami",
@@ -36684,10 +36684,10 @@ local p = {
         velocity = 4,
         weapon_id = 64520,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ami Futami" }
-  }},
+  },
   ["107170"] = {
     barrages = { {
       name = "Double Trouble - Mami",
@@ -36718,10 +36718,10 @@ local p = {
         velocity = 4,
         weapon_id = 64530,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mami Futami" }
-  }},
+  },
   ["108010"] = {
     barrages = { {
       name = "Grid Beam\n(No BattleTracto/Namiko)",
@@ -36752,8 +36752,8 @@ local p = {
         velocity = 1,
         weapon_id = 63200,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Grid Beam\n(BattleTracto/Namiko)",
       parts = { {
         aim_type = 0,
@@ -36782,8 +36782,8 @@ local p = {
         velocity = 1,
         weapon_id = 63210,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Grid Beam\n(BusterBorr/Hass)",
       parts = { {
         aim_type = 0,
@@ -36812,10 +36812,10 @@ local p = {
         velocity = 1,
         weapon_id = 63220,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Rikka Takarada" }
-  }},
+  },
   ["108020"] = {
     barrages = { {
       name = "Slash & Circus\n(unenhanced)",
@@ -36846,8 +36846,8 @@ local p = {
         velocity = 8,
         weapon_id = 63240,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Slash & Circus\n(Calibur/Namiko)",
       parts = { {
         aim_type = 1,
@@ -36878,8 +36878,8 @@ local p = {
         velocity = 8,
         weapon_id = 63260,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Slash & Circus\n(Vittor/Hass)",
       parts = { {
         aim_type = 0,
@@ -36908,10 +36908,10 @@ local p = {
         velocity = 8,
         weapon_id = 63250,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Rikka Takarada" }
-  }},
+  },
   ["108030"] = {
     barrages = { {
       name = "Grid Fixer Beam",
@@ -36942,10 +36942,10 @@ local p = {
         velocity = 1,
         weapon_id = 63230,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Rikka Takarada" }
-  }},
+  },
   ["108040"] = {
     barrages = { {
       name = "Energy Pulse",
@@ -36976,7 +36976,7 @@ local p = {
         velocity = 11,
         weapon_id = 63360,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 3,
@@ -37004,10 +37004,10 @@ local p = {
         velocity = 5,
         weapon_id = 63380,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Akane Shinjo" }
-  }},
+  },
   ["108050"] = {
     barrages = { {
       name = "Instance Abreaction",
@@ -37039,10 +37039,10 @@ local p = {
         velocity = 11,
         weapon_id = 63440,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Akane Shinjo" }
-  }},
+  },
   ["108070"] = {
     barrages = { {
       name = "Calibur End",
@@ -37073,10 +37073,10 @@ local p = {
         velocity = 8,
         weapon_id = 63240,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Namiko" }
-  }},
+  },
   ["108080"] = {
     barrages = { {
       name = "Tanker Cannon",
@@ -37107,7 +37107,7 @@ local p = {
         velocity = 16,
         weapon_id = 63270,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -37134,10 +37134,10 @@ local p = {
         velocity = 16,
         weapon_id = 63270,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Namiko" }
-  }},
+  },
   ["108090"] = {
     barrages = { {
       name = "Coordinated Volley",
@@ -37168,10 +37168,10 @@ local p = {
         velocity = 10,
         weapon_id = 63280,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hass" }
-  }},
+  },
   ["108100"] = {
     barrages = { {
       name = "Amp Laser Circus",
@@ -37202,7 +37202,7 @@ local p = {
         velocity = 8,
         weapon_id = 63290,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -37229,10 +37229,10 @@ local p = {
         velocity = 18,
         weapon_id = 63300,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hass" }
-  }},
+  },
   ["108110"] = {
     barrages = { {
       name = "Blazing Inferno Rex Roar",
@@ -37263,10 +37263,10 @@ local p = {
         velocity = 1,
         weapon_id = 63310,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yume Minami" }
-  }},
+  },
   ["108120"] = {
     barrages = { {
       name = "Something Beam",
@@ -37299,10 +37299,10 @@ local p = {
         velocity = 1,
         weapon_id = 63330,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yume Minami" }
-  }},
+  },
   ["108130"] = {
     barrages = { {
       name = "Dynazenon Full Burst",
@@ -37333,7 +37333,7 @@ local p = {
         velocity = 1,
         weapon_id = 63340,
         weapon_type = 24
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 60,
@@ -37360,10 +37360,10 @@ local p = {
         velocity = 10,
         weapon_id = 63350,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yume Minami" }
-  }},
+  },
   ["108140"] = {
     barrages = { {
       name = "Ride the Wind",
@@ -37395,10 +37395,10 @@ local p = {
         velocity = 3,
         weapon_id = 63460,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chise Asukagawa" }
-  }},
+  },
   ["108150"] = {
     barrages = { {
       name = "Take to the Skies",
@@ -37430,7 +37430,7 @@ local p = {
         velocity = 0,
         weapon_id = 63470,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 1,
@@ -37458,10 +37458,10 @@ local p = {
         velocity = 0,
         weapon_id = 63480,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chise Asukagawa" }
-  }},
+  },
   ["108160"] = {
     barrages = { {
       name = "Instance Domination: Wings",
@@ -37493,7 +37493,7 @@ local p = {
         velocity = 4,
         weapon_id = 63410,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 180,
@@ -37521,10 +37521,10 @@ local p = {
         velocity = 1,
         weapon_id = 63420,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mujina" }
-  }},
+  },
   ["108170"] = {
     barrages = { {
       name = "Instance Domination: Flames",
@@ -37555,10 +37555,10 @@ local p = {
         velocity = 18,
         weapon_id = 63490,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mujina" }
-  }},
+  },
   ["108210"] = {
     barrages = { {
       name = "Grid Beam+\n(No BattleTracto/Namiko)",
@@ -37589,8 +37589,8 @@ local p = {
         velocity = 1,
         weapon_id = 162240,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Grid Beam+\n(BattleTracto/Namiko)",
       parts = { {
         aim_type = 0,
@@ -37619,8 +37619,8 @@ local p = {
         velocity = 1,
         weapon_id = 162250,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Grid Beam+\n(BusterBorr/Hass)",
       parts = { {
         aim_type = 0,
@@ -37649,10 +37649,10 @@ local p = {
         velocity = 1,
         weapon_id = 162300,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Rikka Takarada" }
-  }},
+  },
   ["108220"] = {
     barrages = { {
       name = "Energy Pulse+",
@@ -37683,7 +37683,7 @@ local p = {
         velocity = 11,
         weapon_id = 162130,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 2,
@@ -37711,10 +37711,10 @@ local p = {
         velocity = 5,
         weapon_id = 162150,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Akane Shinjo" }
-  }},
+  },
   ["108230"] = {
     barrages = { {
       name = "Tanker Cannon+",
@@ -37745,10 +37745,10 @@ local p = {
         velocity = 16,
         weapon_id = 162170,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Namiko" }
-  }},
+  },
   ["108240"] = {
     barrages = { {
       name = "Coordinated Volley+",
@@ -37779,7 +37779,7 @@ local p = {
         velocity = 10,
         weapon_id = 162180,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -37808,10 +37808,10 @@ local p = {
         velocity = 12,
         weapon_id = 61518,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hass" }
-  }},
+  },
   ["108250"] = {
     barrages = { {
       name = "Something Beam+",
@@ -37844,10 +37844,10 @@ local p = {
         velocity = 1,
         weapon_id = 162190,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yume Minami" }
-  }},
+  },
   ["108260"] = {
     barrages = { {
       name = "Take to the Skies+",
@@ -37879,7 +37879,7 @@ local p = {
         velocity = 0,
         weapon_id = 162090,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 1,
@@ -37907,10 +37907,10 @@ local p = {
         velocity = 0,
         weapon_id = 162100,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chise Asukagawa" }
-  }},
+  },
   ["108270"] = {
     barrages = { {
       name = "Instance Domination: Flames+",
@@ -37941,7 +37941,7 @@ local p = {
         velocity = 18,
         weapon_id = 162260,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 60,
@@ -37968,10 +37968,10 @@ local p = {
         velocity = 18,
         weapon_id = 162270,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mujina" }
-  }},
+  },
   ["108280"] = {
     barrages = { {
       name = "Sounderous Full Blast+",
@@ -38002,7 +38002,7 @@ local p = {
         velocity = 10,
         weapon_id = 162290,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -38029,10 +38029,10 @@ local p = {
         velocity = 1,
         weapon_id = 162210,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "The 2nd" }
-  }},
+  },
   ["108300"] = {
     barrages = { {
       name = "Sounderous Full Blast",
@@ -38063,7 +38063,7 @@ local p = {
         velocity = 10,
         weapon_id = 162220,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -38090,10 +38090,10 @@ local p = {
         velocity = 1,
         weapon_id = 162210,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "The 2nd" }
-  }},
+  },
   ["108310"] = {
     barrages = { {
       name = "Melodic Blaster",
@@ -38124,10 +38124,10 @@ local p = {
         velocity = 1,
         weapon_id = 162200,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "The 2nd" }
-  }},
+  },
   ["108330"] = {
     barrages = { {
       name = "Promises, Love, and Expiration Dates",
@@ -38160,10 +38160,10 @@ local p = {
         velocity = 10,
         weapon_id = 162280,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Princess Hime" }
-  }},
+  },
   ["109010"] = {
     barrages = { {
       name = "Shining Blast",
@@ -38195,10 +38195,10 @@ local p = {
         velocity = 0,
         weapon_id = 160110,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Reisalin Stout" }
-  }},
+  },
   ["109040"] = {
     barrages = { {
       name = "Grand Chariot+",
@@ -38229,10 +38229,10 @@ local p = {
         velocity = 1,
         weapon_id = 160120,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Reisalin Stout" }
-  }},
+  },
   ["109050"] = {
     barrages = { {
       name = "Frozen Lily",
@@ -38266,8 +38266,8 @@ local p = {
         velocity = 0,
         weapon_id = 160130,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Frozen Lily\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -38299,10 +38299,10 @@ local p = {
         velocity = 0,
         weapon_id = 160210,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Klaudia Valentz" }
-  }},
+  },
   ["109080"] = {
     barrages = { {
       name = "White Requiem+",
@@ -38334,10 +38334,10 @@ local p = {
         velocity = 30,
         weapon_id = 160180,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Klaudia Valentz" }
-  }},
+  },
   ["109090"] = {
     barrages = { {
       name = "Red Flame Slash",
@@ -38370,7 +38370,7 @@ local p = {
         velocity = 12,
         weapon_id = 160140,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -38397,8 +38397,8 @@ local p = {
         velocity = 15,
         weapon_id = 160150,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Red Flame Slash\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -38429,7 +38429,7 @@ local p = {
         velocity = 12,
         weapon_id = 160220,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -38456,10 +38456,10 @@ local p = {
         velocity = 15,
         weapon_id = 160150,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Patricia Abelheim" }
-  }},
+  },
   ["109120"] = {
     barrages = { {
       name = "Flawless Desire+",
@@ -38490,10 +38490,10 @@ local p = {
         velocity = 18,
         weapon_id = 160160,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Patricia Abelheim" }
-  }},
+  },
   ["109130"] = {
     barrages = { {
       name = "Wild Growth",
@@ -38524,10 +38524,10 @@ local p = {
         velocity = 1,
         weapon_id = 160170,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Serri Glaus" }
-  }},
+  },
   ["109160"] = {
     barrages = { {
       name = "Eternity Bloom+",
@@ -38558,10 +38558,10 @@ local p = {
         velocity = 0,
         weapon_id = 160221,
         weapon_type = 28
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Serri Glaus" }
-  }},
+  },
   ["109170"] = {
     barrages = { {
       name = "Elemental Link",
@@ -38592,10 +38592,10 @@ local p = {
         velocity = 15,
         weapon_id = 160240,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lila Decyrus" }
-  }},
+  },
   ["109200"] = {
     barrages = { {
       name = "Einzelkampf+",
@@ -38626,10 +38626,10 @@ local p = {
         velocity = 100,
         weapon_id = 160280,
         weapon_type = 17
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lila Decyrus" }
-  }},
+  },
   ["109210"] = {
     barrages = { {
       name = "Dark Spirit",
@@ -38660,10 +38660,10 @@ local p = {
         velocity = 3.9,
         weapon_id = 160190,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kala Ideas" }
-  }},
+  },
   ["109240"] = {
     barrages = { {
       name = "Luna Judgment+",
@@ -38694,10 +38694,10 @@ local p = {
         velocity = 0,
         weapon_id = 160191,
         weapon_type = 28
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kala Ideas" }
-  }},
+  },
   ["110010"] = {
     barrages = { {
       name = "Twin Blades - Followup Slash\n(12s)",
@@ -38729,7 +38729,7 @@ local p = {
         velocity = 0,
         weapon_id = 163630,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -38757,8 +38757,8 @@ local p = {
         velocity = 0,
         weapon_id = 163620,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Twin Blades - Followup Slash\n(on kill, no augment)",
       parts = { {
         aim_type = 1,
@@ -38787,8 +38787,8 @@ local p = {
         velocity = 15,
         weapon_id = 163650,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Twin Blades - Followup Slash\n(on kill, augment)",
       parts = { {
         aim_type = 1,
@@ -38818,7 +38818,7 @@ local p = {
         velocity = 0,
         weapon_id = 163660,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -38846,7 +38846,7 @@ local p = {
         velocity = 0,
         weapon_id = 163670,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -38874,7 +38874,7 @@ local p = {
         velocity = 0,
         weapon_id = 163660,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -38902,7 +38902,7 @@ local p = {
         velocity = 0,
         weapon_id = 163680,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -38930,10 +38930,10 @@ local p = {
         velocity = 0,
         weapon_id = 163690,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Asuka" }
-  }},
+  },
   ["110020"] = {
     barrages = { {
       name = "Twin Blades Combo Strike",
@@ -38964,8 +38964,8 @@ local p = {
         velocity = 15,
         weapon_id = 163700,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Twin Blades Combo Strike+\n(30%)",
       parts = { {
         aim_type = 1,
@@ -38995,7 +38995,7 @@ local p = {
         velocity = 0,
         weapon_id = 163630,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39023,8 +39023,8 @@ local p = {
         velocity = 0,
         weapon_id = 163620,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Twin Blades Combo Strike+\n(on kill)",
       parts = { {
         aim_type = 1,
@@ -39054,7 +39054,7 @@ local p = {
         velocity = 0,
         weapon_id = 163710,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39082,7 +39082,7 @@ local p = {
         velocity = 0,
         weapon_id = 163720,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39110,7 +39110,7 @@ local p = {
         velocity = 0,
         weapon_id = 163710,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39138,7 +39138,7 @@ local p = {
         velocity = 0,
         weapon_id = 163730,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39166,10 +39166,10 @@ local p = {
         velocity = 0,
         weapon_id = 163740,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Asuka" }
-  }},
+  },
   ["110030"] = {
     barrages = { {
       name = "Twin Blades Combo Strike",
@@ -39200,8 +39200,8 @@ local p = {
         velocity = 15,
         weapon_id = 163700,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Twin Blades Combo Strike+\n(30%)",
       parts = { {
         aim_type = 1,
@@ -39231,7 +39231,7 @@ local p = {
         velocity = 0,
         weapon_id = 163630,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39259,8 +39259,8 @@ local p = {
         velocity = 0,
         weapon_id = 163620,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Twin Blades Combo Strike+\n(on kill)",
       parts = { {
         aim_type = 1,
@@ -39290,7 +39290,7 @@ local p = {
         velocity = 0,
         weapon_id = 163710,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39318,7 +39318,7 @@ local p = {
         velocity = 0,
         weapon_id = 163720,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39346,7 +39346,7 @@ local p = {
         velocity = 0,
         weapon_id = 163710,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39374,7 +39374,7 @@ local p = {
         velocity = 0,
         weapon_id = 163730,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39402,10 +39402,10 @@ local p = {
         velocity = 0,
         weapon_id = 163740,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Asuka" }
-  }},
+  },
   ["110040"] = {
     barrages = { {
       name = "Fierce Sky Phoenix Flash",
@@ -39436,8 +39436,8 @@ local p = {
         velocity = 8,
         weapon_id = 163470,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Fierce Sky Phoenix Flash\n(Slash)",
       parts = { {
         clears = { 1, 3 },
@@ -39450,10 +39450,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ikaruga" }
-  }},
+  },
   ["110050"] = {
     barrages = { {
       name = "Phoenix's Superb Fire Dance",
@@ -39484,10 +39484,10 @@ local p = {
         velocity = 3,
         weapon_id = 163490,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ikaruga" }
-  }},
+  },
   ["110060"] = {
     barrages = { {
       name = "Fierce Sky Phoenix Flash+",
@@ -39518,7 +39518,7 @@ local p = {
         velocity = 8,
         weapon_id = 163470,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -39545,8 +39545,8 @@ local p = {
         velocity = 0.1,
         weapon_id = 163480,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Fierce Sky Phoenix Flash+\n(Slash)",
       parts = { {
         clears = { 1, 3 },
@@ -39559,10 +39559,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ikaruga" }
-  }},
+  },
   ["110070"] = {
     barrages = { {
       name = "Blaze of Sacrifice",
@@ -39595,10 +39595,10 @@ local p = {
         velocity = 3,
         weapon_id = 163600,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Homura" }
-  }},
+  },
   ["110080"] = {
     barrages = { {
       name = "Flaming Crimson",
@@ -39631,7 +39631,7 @@ local p = {
         velocity = 3,
         weapon_id = 163590,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -39660,10 +39660,10 @@ local p = {
         velocity = 3,
         weapon_id = 163590,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Homura" }
-  }},
+  },
   ["110090"] = {
     barrages = { {
       name = "Blaze of Sacrifice+",
@@ -39696,7 +39696,7 @@ local p = {
         velocity = 3,
         weapon_id = 161500,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -39726,10 +39726,10 @@ local p = {
         velocity = 0,
         weapon_id = 163610,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Homura" }
-  }},
+  },
   ["110100"] = {
     barrages = { {
       name = "Fan Dance of Ice and Snow",
@@ -39761,10 +39761,10 @@ local p = {
         velocity = 0,
         weapon_id = 163500,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yumi" }
-  }},
+  },
   ["110110"] = {
     barrages = { {
       name = "Frozen Trees in Heavenly Storm",
@@ -39795,10 +39795,10 @@ local p = {
         velocity = 1,
         weapon_id = 163510,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yumi" }
-  }},
+  },
   ["110120"] = {
     barrages = { {
       name = "Fan Dance of Ice and Snow+",
@@ -39832,10 +39832,10 @@ local p = {
         velocity = 0,
         weapon_id = 163520,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yumi" }
-  }},
+  },
   ["110140"] = {
     barrages = { {
       name = "Purple Ice Blast",
@@ -39868,10 +39868,10 @@ local p = {
         velocity = 10,
         weapon_id = 163540,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fubuki" }
-  }},
+  },
   ["110150"] = {
     barrages = { {
       name = "Purple Ice Blast+",
@@ -39904,7 +39904,7 @@ local p = {
         velocity = 10,
         weapon_id = 163540,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -39933,10 +39933,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 163560,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fubuki" }
-  }},
+  },
   ["110170"] = {
     barrages = { {
       name = "Root of Calamity Storm",
@@ -39967,10 +39967,10 @@ local p = {
         velocity = 5,
         weapon_id = 163580,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Murasaki" }
-  }},
+  },
   ["110180"] = {
     barrages = { {
       name = "Root of Calamity Storm+",
@@ -40004,7 +40004,7 @@ local p = {
         velocity = 0,
         weapon_id = 163570,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -40033,10 +40033,10 @@ local p = {
         velocity = 5,
         weapon_id = 161490,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Murasaki" }
-  }},
+  },
   ["110190"] = {
     barrages = { {
       name = "Soul of Tohno\n(Slash)",
@@ -40051,10 +40051,10 @@ local p = {
         range = 25,
         type = "slash",
         velocity = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yūyaki" }
-  }},
+  },
   ["110200"] = {
     barrages = { {
       name = "Enka Tuypa",
@@ -40085,10 +40085,10 @@ local p = {
         velocity = 13,
         weapon_id = 163640,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yūyaki" }
-  }},
+  },
   ["110210"] = {
     barrages = { {
       name = "Soul of Tohno+\n(Slash)",
@@ -40103,7 +40103,7 @@ local p = {
         range = 25,
         type = "slash",
         velocity = 0
-      }}, {
+      }, {
         clears = { 1, 3 },
         count = 2,
         damage = 0,
@@ -40114,7 +40114,7 @@ local p = {
         range = 35,
         type = "slash",
         velocity = 0
-      }}, {
+      }, {
         clears = { 1, 3 },
         count = 2,
         damage = 0,
@@ -40125,10 +40125,10 @@ local p = {
         range = 25,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yūyaki" }
-  }},
+  },
   ["110220"] = {
     barrages = { {
       name = "New Link Chance!\n(Variant 1)",
@@ -40160,8 +40160,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 161506,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "New Link Chance!\n(Variant 2)",
       parts = { {
         aim_type = 0,
@@ -40191,8 +40191,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 161507,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "New Link Chance!\n(Variant 3)",
       parts = { {
         aim_type = 0,
@@ -40222,8 +40222,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 161508,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "New Link Chance!\n(Variant 4)",
       parts = { {
         aim_type = 0,
@@ -40253,8 +40253,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 161509,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "New Link Chance!\n(Variant 5)",
       parts = { {
         aim_type = 0,
@@ -40284,10 +40284,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 161510,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Asuka", "Fubuki", "Homura", "Ikaruga", "Murasaki", "Yumi", "Yūyaki" }
-  }},
+  },
   ["111010"] = {
     barrages = { {
       name = "Go Go Vacuum-Kun!\n(summon)",
@@ -40334,7 +40334,7 @@ local p = {
           velocity = 30,
           weapon_id = 166681,
           weapon_type = 1
-        }}, {
+        }, {
           aim_type = 1,
           ammo = 4,
           angle = 50,
@@ -40364,11 +40364,11 @@ local p = {
           velocity = 10,
           weapon_id = 166681,
           weapon_type = 1
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     ships = { "Lala Satalin Deviluke" }
-  }},
+  },
   ["111020"] = {
     barrages = { {
       name = "Almighty Fighting Inventorator!",
@@ -40399,7 +40399,7 @@ local p = {
         velocity = 7,
         weapon_id = 166760,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -40426,10 +40426,10 @@ local p = {
         velocity = 11,
         weapon_id = 166760,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lala Satalin Deviluke" }
-  }},
+  },
   ["111030"] = {
     barrages = { {
       name = "Almighty Fighting Inventorator!+",
@@ -40460,7 +40460,7 @@ local p = {
         velocity = 7,
         weapon_id = 166850,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -40487,10 +40487,10 @@ local p = {
         velocity = 11,
         weapon_id = 166850,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lala Satalin Deviluke" }
-  }},
+  },
   ["111040"] = {
     barrages = { {
       name = "Alien Animal Friend",
@@ -40524,10 +40524,10 @@ local p = {
         velocity = 0,
         weapon_id = 166720,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nana Astar Deviluke" }
-  }},
+  },
   ["111060"] = {
     barrages = { {
       name = "Alien Animal Friend+",
@@ -40561,7 +40561,7 @@ local p = {
         velocity = 0,
         weapon_id = 166720,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 60,
@@ -40588,7 +40588,7 @@ local p = {
         velocity = 2,
         weapon_id = 166730,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -40616,12 +40616,12 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 5,
         weapon_id = 166730,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 60,
@@ -40648,10 +40648,10 @@ local p = {
         velocity = 0,
         weapon_id = 166730,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nana Astar Deviluke" }
-  }},
+  },
   ["111070"] = {
     barrages = { {
       name = "Alien Plant Friend",
@@ -40682,8 +40682,8 @@ local p = {
         velocity = 10,
         weapon_id = 166610,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Alien Plant Friend\n(summon)",
       parts = { {
         aa = "50%",
@@ -40728,11 +40728,11 @@ local p = {
           velocity = 12,
           weapon_id = 166620,
           weapon_type = 1
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     ships = { "Momo Belia Deviluke" }
-  }},
+  },
   ["111080"] = {
     barrages = { {
       name = "Alien Plant Friend+",
@@ -40763,7 +40763,7 @@ local p = {
         velocity = 10,
         weapon_id = 166610,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 60,
@@ -40790,8 +40790,8 @@ local p = {
         velocity = 2,
         weapon_id = 166630,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Alien Plant Friend\n(summon)",
       parts = { {
         aa = "50%",
@@ -40836,11 +40836,11 @@ local p = {
           velocity = 12,
           weapon_id = 166620,
           weapon_type = 1
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     ships = { "Momo Belia Deviluke" }
-  }},
+  },
   ["111100"] = {
     barrages = { {
       name = "Armament Swap\n(HE)",
@@ -40871,7 +40871,7 @@ local p = {
         velocity = 15,
         weapon_id = 166700,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -40898,8 +40898,8 @@ local p = {
         velocity = 16,
         weapon_id = 166740,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Armament Swap\n(AP)",
       parts = { {
         aim_type = 1,
@@ -40928,7 +40928,7 @@ local p = {
         velocity = 15,
         weapon_id = 166710,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -40955,10 +40955,10 @@ local p = {
         velocity = 16,
         weapon_id = 166750,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Golden Darkness" }
-  }},
+  },
   ["111110"] = {
     barrages = { {
       name = "Armament Swap+\n(HE)",
@@ -40991,7 +40991,7 @@ local p = {
         velocity = 15,
         weapon_id = 166810,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -41020,8 +41020,8 @@ local p = {
         velocity = 16,
         weapon_id = 166830,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Armament Swap+\n(AP)",
       parts = { {
         aim_type = 1,
@@ -41052,7 +41052,7 @@ local p = {
         velocity = 15,
         weapon_id = 166820,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -41081,10 +41081,10 @@ local p = {
         velocity = 16,
         weapon_id = 166840,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Golden Darkness" }
-  }},
+  },
   ["111150"] = {
     barrages = { {
       name = "Be Still, My Heart!",
@@ -41115,7 +41115,7 @@ local p = {
         velocity = 15,
         weapon_id = 166640,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -41144,10 +41144,10 @@ local p = {
         velocity = 12,
         weapon_id = 166650,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Haruna Sairenji" }
-  }},
+  },
   ["111160"] = {
     barrages = { {
       name = "Scandalous!",
@@ -41180,10 +41180,10 @@ local p = {
         velocity = 1,
         weapon_id = 166660,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yui Kotegawa" }
-  }},
+  },
   ["111170"] = {
     barrages = { {
       name = "Scandalous!",
@@ -41216,10 +41216,10 @@ local p = {
         velocity = 1,
         weapon_id = 166680,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yui Kotegawa" }
-  }},
+  },
   ["111180"] = {
     barrages = { {
       name = "Overbearing Outside, Softie Inside",
@@ -41252,7 +41252,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 166780,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -41281,10 +41281,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 166790,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yui Kotegawa" }
-  }},
+  },
   ["112010"] = {
     barrages = { {
       name = "Transcend Worlds - Limit Released",
@@ -41315,10 +41315,10 @@ local p = {
         velocity = 17,
         weapon_id = 167940,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "BLACK★ROCK SHOOTER" }
-  }},
+  },
   ["112020"] = {
     barrages = { {
       name = "Transcend Worlds - Limit Released",
@@ -41349,8 +41349,8 @@ local p = {
         velocity = 17,
         weapon_id = 167940,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Transcend Worlds - Limit Released+\n(Beam)",
       parts = { {
         aim_type = 1,
@@ -41379,10 +41379,10 @@ local p = {
         velocity = 0,
         weapon_id = 167950,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "BLACK★ROCK SHOOTER" }
-  }},
+  },
   ["112050"] = {
     barrages = { {
       name = "Death's Domain - Imprisoning Chains",
@@ -41416,10 +41416,10 @@ local p = {
         velocity = 3,
         weapon_id = 168060,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "DEAD MASTER" }
-  }},
+  },
   ["112060"] = {
     barrages = { {
       name = "Trial of Death",
@@ -41452,7 +41452,7 @@ local p = {
         velocity = 15,
         weapon_id = 168070,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -41479,7 +41479,7 @@ local p = {
         velocity = 2,
         weapon_id = 168070,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -41508,10 +41508,10 @@ local p = {
         velocity = 15,
         weapon_id = 168070,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "DEAD MASTER" }
-  }},
+  },
   ["112070"] = {
     barrages = { {
       name = "Trial of Death",
@@ -41544,7 +41544,7 @@ local p = {
         velocity = 15,
         weapon_id = 168070,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -41571,7 +41571,7 @@ local p = {
         velocity = 2,
         weapon_id = 168070,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -41600,8 +41600,8 @@ local p = {
         velocity = 15,
         weapon_id = 168070,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Trial of Death+\n(every 20s)",
       parts = { {
         aim_type = 1,
@@ -41633,10 +41633,10 @@ local p = {
         velocity = 3,
         weapon_id = 168110,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "DEAD MASTER" }
-  }},
+  },
   ["112090"] = {
     barrages = { {
       name = "Alchemy of Taboo and Hope\n(Light Armor)",
@@ -41667,8 +41667,8 @@ local p = {
         velocity = 18,
         weapon_id = 168300,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Alchemy of Taboo and Hope\n(Medium/Heavy Armor)",
       parts = { {
         aim_type = 1,
@@ -41697,8 +41697,8 @@ local p = {
         velocity = 18,
         weapon_id = 168310,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Alchemy of Taboo and Hope\n(Additional if no Enemy within 65 units)",
       parts = { {
         aim_type = 1,
@@ -41727,10 +41727,10 @@ local p = {
         velocity = 100,
         weapon_id = 168290,
         weapon_type = 17
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yumia Liessfeldt" }
-  }},
+  },
   ["112110"] = {
     barrages = { {
       name = "One Step Toward Tomorrow\n(Every 5s, Light Armor)",
@@ -41761,8 +41761,8 @@ local p = {
         velocity = 13,
         weapon_id = 168320,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow\n(Every 5s, Medium/Heavy Armor)",
       parts = { {
         aim_type = 1,
@@ -41791,8 +41791,8 @@ local p = {
         velocity = 13,
         weapon_id = 168330,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow\n(on Special Attack 1 if >=50 Mana or Mana Surge)",
       parts = { {
         aim_type = 1,
@@ -41821,8 +41821,8 @@ local p = {
         velocity = 17,
         weapon_id = 168340,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow\n(on Special Attack 2 if >=50 Mana or Mana Surge)",
       parts = { {
         aim_type = 0,
@@ -41852,10 +41852,10 @@ local p = {
         velocity = 20,
         weapon_id = 168350,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yumia Liessfeldt" }
-  }},
+  },
   ["112130"] = {
     barrages = { {
       name = "One Step Toward Tomorrow+\n(on Airstrike if Mana Surge, up to 11 triggers, Light Armor)",
@@ -41886,7 +41886,7 @@ local p = {
         velocity = 13,
         weapon_id = 168360,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 1,
@@ -41913,8 +41913,8 @@ local p = {
         velocity = 10,
         weapon_id = 168380,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow+\n(on Airstrike if Mana Surge, up to 11 triggers, Medium/Heavy Armor)",
       parts = { {
         aim_type = 1,
@@ -41943,7 +41943,7 @@ local p = {
         velocity = 13,
         weapon_id = 168370,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 1,
@@ -41970,8 +41970,8 @@ local p = {
         velocity = 10,
         weapon_id = 168390,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow+\n(on Airstrike if Mana Surge, after 2.2s if < 11 triggers)",
       parts = { {
         aim_type = 1,
@@ -42001,8 +42001,8 @@ local p = {
         velocity = 13,
         weapon_id = 168400,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow+\n(on Airstrike if Mana Surge, after 2.2s + 11 Triggers)",
       parts = { {
         aim_type = 1,
@@ -42032,7 +42032,7 @@ local p = {
         velocity = 13,
         weapon_id = 168400,
         weapon_type = 24
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -42060,8 +42060,8 @@ local p = {
         velocity = 13,
         weapon_id = 168410,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow\n(Every 5s, Light Armor)",
       parts = { {
         aim_type = 1,
@@ -42090,8 +42090,8 @@ local p = {
         velocity = 13,
         weapon_id = 168320,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow\n(Every 5s, Medium/Heavy Armor)",
       parts = { {
         aim_type = 1,
@@ -42120,8 +42120,8 @@ local p = {
         velocity = 13,
         weapon_id = 168330,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow\n(on Special Attack 1 if >=50 Mana or Mana Surge)",
       parts = { {
         aim_type = 1,
@@ -42150,8 +42150,8 @@ local p = {
         velocity = 17,
         weapon_id = 168340,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "One Step Toward Tomorrow\n(on Special Attack 2 if >=50 Mana or Mana Surge)",
       parts = { {
         aim_type = 0,
@@ -42181,10 +42181,10 @@ local p = {
         velocity = 20,
         weapon_id = 168350,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yumia Liessfeldt" }
-  }},
+  },
   ["112180"] = {
     barrages = { {
       name = "Welleks's Assault\n(if no enemy within 30 units)",
@@ -42215,8 +42215,8 @@ local p = {
         velocity = 15,
         weapon_id = 168670,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Welleks's Assault\n(if Enemy within 30 units)",
       parts = { {
         clears = {},
@@ -42229,10 +42229,10 @@ local p = {
         range = 70,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lenja" }
-  }},
+  },
   ["112190"] = {
     barrages = { {
       name = "Pride of the Welleks's\n(if Mana Surge)",
@@ -42264,7 +42264,7 @@ local p = {
         velocity = 0,
         weapon_id = 168680,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 360,
@@ -42291,10 +42291,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 168690,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lenja" }
-  }},
+  },
   ["112200"] = {
     barrages = { {
       name = "Pride of the Welleks's\n(if Mana Surge)",
@@ -42326,7 +42326,7 @@ local p = {
         velocity = 0,
         weapon_id = 168680,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 360,
@@ -42353,10 +42353,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 168690,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lenja" }
-  }},
+  },
   ["112220"] = {
     barrages = { {
       name = "Blazing Trigger\n(Every 20s)",
@@ -42388,8 +42388,8 @@ local p = {
         velocity = 0,
         weapon_id = 168640,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Blazing Trigger\n(on Fire, no enemy within 65 units)",
       parts = { {
         aim_type = 1,
@@ -42418,8 +42418,8 @@ local p = {
         velocity = 16,
         weapon_id = 168620,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Blazing Trigger\n(on Fire, Enemy within 65 units)",
       parts = { {
         aim_type = 1,
@@ -42448,10 +42448,10 @@ local p = {
         velocity = 18,
         weapon_id = 168630,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nina Friede" }
-  }},
+  },
   ["112240"] = {
     barrages = { {
       name = "Blazing Trigger+\n(Every 20s if Mana Surge)",
@@ -42483,7 +42483,7 @@ local p = {
         velocity = 0,
         weapon_id = 168640,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -42510,8 +42510,8 @@ local p = {
         velocity = 22,
         weapon_id = 168660,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Blazing Trigger\n(Every 20s)",
       parts = { {
         aim_type = 1,
@@ -42541,8 +42541,8 @@ local p = {
         velocity = 0,
         weapon_id = 168640,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Blazing Trigger\n(on Fire, no enemy within 65 units)",
       parts = { {
         aim_type = 1,
@@ -42571,8 +42571,8 @@ local p = {
         velocity = 16,
         weapon_id = 168620,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Blazing Trigger\n(on Fire, Enemy within 65 units)",
       parts = { {
         aim_type = 1,
@@ -42601,10 +42601,10 @@ local p = {
         velocity = 18,
         weapon_id = 168630,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nina Friede" }
-  }},
+  },
   ["112270"] = {
     barrages = { {
       name = "Knights Can Be Maidens Too\n(Every 5s, No enemy within 35 units)",
@@ -42637,8 +42637,8 @@ local p = {
         velocity = 16,
         weapon_id = 168700,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Knights Can Be Maidens Too\n(Every 5s, Enemy within 35 units)",
       parts = { {
         aim_type = 0,
@@ -42669,7 +42669,7 @@ local p = {
         velocity = 18,
         weapon_id = 168710,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -42698,10 +42698,10 @@ local p = {
         velocity = 18,
         weapon_id = 168720,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Isla von Duerer" }
-  }},
+  },
   ["112280"] = {
     barrages = { {
       name = "Alber's Assistance\n(after 3 Stacks)",
@@ -42734,10 +42734,10 @@ local p = {
         velocity = 16,
         weapon_id = 168700,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Isla von Duerer" }
-  }},
+  },
   ["112290"] = {
     barrages = { {
       name = "Alber's Assistance+\n(after 3 Stacks if Mana Surge)",
@@ -42770,7 +42770,7 @@ local p = {
         velocity = 16,
         weapon_id = 168700,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -42799,7 +42799,7 @@ local p = {
         velocity = 18,
         weapon_id = 168710,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -42828,8 +42828,8 @@ local p = {
         velocity = 18,
         weapon_id = 168740,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Alber's Assistance\n(after 3 Stacks)",
       parts = { {
         aim_type = 1,
@@ -42860,10 +42860,10 @@ local p = {
         velocity = 16,
         weapon_id = 168700,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Isla von Duerer" }
-  }},
+  },
   ["150000"] = {
     barrages = { {
       name = "Sword of Final Judgment",
@@ -42894,7 +42894,7 @@ local p = {
         velocity = 0.1,
         weapon_id = 164510,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -42921,8 +42921,8 @@ local p = {
         velocity = 0.1,
         weapon_id = 61631,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Sword of Final Judgment\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -42951,7 +42951,7 @@ local p = {
         velocity = 0.1,
         weapon_id = 164510,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -42978,8 +42978,8 @@ local p = {
         velocity = 0.1,
         weapon_id = 61631,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Sword of Final Judgment\n(Slash)",
       parts = { {
         clears = { 1, 3 },
@@ -42992,10 +42992,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Brennus" }
-  }},
+  },
   ["150010"] = {
     barrages = { {
       name = "Sword of a New Era\n(1 sword)",
@@ -43028,8 +43028,8 @@ local p = {
         velocity = 0.75,
         weapon_id = 164540,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Sword of a New Era\n(2 swords)",
       parts = { {
         aim_type = 1,
@@ -43060,8 +43060,8 @@ local p = {
         velocity = 0.75,
         weapon_id = 164540,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Sword of a New Era\n(3 swords)",
       parts = { {
         aim_type = 1,
@@ -43092,8 +43092,8 @@ local p = {
         velocity = 0.75,
         weapon_id = 164540,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Sword of a New Era\n(4 swords)",
       parts = { {
         aim_type = 1,
@@ -43124,8 +43124,8 @@ local p = {
         velocity = 0.75,
         weapon_id = 164540,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Sword of a New Era\n(5 swords)",
       parts = { {
         aim_type = 1,
@@ -43156,8 +43156,8 @@ local p = {
         velocity = 0.75,
         weapon_id = 164540,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Sword of a New Era\n(6 swords)",
       parts = { {
         aim_type = 1,
@@ -43188,10 +43188,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 164540,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Brennus" }
-  }},
+  },
   ["150020"] = {
     barrages = { {
       name = "Attack Command: Holy Judgment",
@@ -43224,7 +43224,7 @@ local p = {
         velocity = 8,
         weapon_id = 164550,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -43254,7 +43254,7 @@ local p = {
         velocity = 0,
         weapon_id = 164520,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 2,
@@ -43284,10 +43284,10 @@ local p = {
         velocity = 18,
         weapon_id = 164530,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Alsace" }
-  }},
+  },
   ["150040"] = {
     barrages = { {
       name = "Emotional Overflow: Critical Flashpoint",
@@ -43322,10 +43322,10 @@ local p = {
         velocity = 15,
         weapon_id = 490,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Alsace" }
-  }},
+  },
   ["150080"] = {
     barrages = { {
       name = "As Long As I Can Hold On...",
@@ -43358,10 +43358,10 @@ local p = {
         velocity = 12,
         weapon_id = 164560,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Épée" }
-  }},
+  },
   ["150120"] = {
     barrages = { {
       name = "Symphony Rehearsal",
@@ -43392,10 +43392,10 @@ local p = {
         velocity = 14,
         weapon_id = 164580,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Friedrich" }
-  }},
+  },
   ["150140"] = {
     barrages = { {
       name = "Muspel-Piercing Spear",
@@ -43429,10 +43429,10 @@ local p = {
         velocity = 30,
         weapon_id = 164670,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Alvitr" }
-  }},
+  },
   ["150150"] = {
     barrages = { {
       name = "Rune of Omniscience",
@@ -43463,7 +43463,7 @@ local p = {
         velocity = 15,
         weapon_id = 164680,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -43490,10 +43490,10 @@ local p = {
         velocity = 15,
         weapon_id = 164680,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Alvitr" }
-  }},
+  },
   ["150160"] = {
     barrages = { {
       name = "Emojistorm",
@@ -43524,10 +43524,10 @@ local p = {
         velocity = 2,
         weapon_id = 164700,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z47" }
-  }},
+  },
   ["150200"] = {
     barrages = { {
       name = "Danger From Below!",
@@ -43560,10 +43560,10 @@ local p = {
         velocity = 0,
         weapon_id = 164690,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-31" }
-  }},
+  },
   ["150210"] = {
     barrages = { {
       name = "Office Clerk's Fury",
@@ -43594,7 +43594,7 @@ local p = {
         velocity = 20,
         weapon_id = 164860,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -43622,10 +43622,10 @@ local p = {
         velocity = 15,
         weapon_id = 164860,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dupleix" }
-  }},
+  },
   ["150230"] = {
     barrages = { {
       name = "Eight Virtues Charge",
@@ -43656,10 +43656,10 @@ local p = {
         velocity = 5,
         weapon_id = 164870,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "L'Audacieux" }
-  }},
+  },
   ["150250"] = {
     barrages = { {
       name = "Variations on Judgment",
@@ -43692,7 +43692,7 @@ local p = {
         velocity = 14,
         weapon_id = 164890,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -43719,7 +43719,7 @@ local p = {
         velocity = 12,
         weapon_id = 164900,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -43746,10 +43746,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 164910,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Strasbourg" }
-  }},
+  },
   ["150280"] = {
     barrages = { {
       name = "Emotionalization Module",
@@ -43780,10 +43780,10 @@ local p = {
         velocity = 15,
         weapon_id = 165070,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fargo" }
-  }},
+  },
   ["150290"] = {
     barrages = { {
       name = "Followup Combo\n(salvo)",
@@ -43814,7 +43814,7 @@ local p = {
         velocity = 10,
         weapon_id = 164980,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -43841,7 +43841,7 @@ local p = {
         velocity = 15,
         weapon_id = 164980,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -43868,8 +43868,8 @@ local p = {
         velocity = 14,
         weapon_id = 165010,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Followup Combo\n(every 30s or 4 marks)",
       parts = { {
         aim_type = 0,
@@ -43898,7 +43898,7 @@ local p = {
         velocity = 10,
         weapon_id = 164990,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -43925,10 +43925,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 164990,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Indiana" }
-  }},
+  },
   ["150310"] = {
     barrages = { {
       name = "Operation Rainbow+",
@@ -43959,10 +43959,10 @@ local p = {
         velocity = 1,
         weapon_id = 165060,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Eldridge" }
-  }},
+  },
   ["150320"] = {
     barrages = { {
       name = "Max Voltage!",
@@ -43995,10 +43995,10 @@ local p = {
         velocity = 1,
         weapon_id = 165080,
         weapon_type = 17
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Eldridge" }
-  }},
+  },
   ["150330"] = {
     barrages = { {
       name = "Firestarter's Shredders",
@@ -44031,7 +44031,7 @@ local p = {
         velocity = 5,
         weapon_id = 165050,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -44061,10 +44061,10 @@ local p = {
         velocity = 15,
         weapon_id = 165050,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pittsburgh" }
-  }},
+  },
   ["150380"] = {
     barrages = { {
       name = "You'd Better Keep Your Distance\n(torpedo)",
@@ -44095,8 +44095,8 @@ local p = {
         velocity = 3,
         weapon_id = 165020,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "You'd Better Keep Your Distance\n(gun)",
       parts = { {
         aim_type = 1,
@@ -44125,10 +44125,10 @@ local p = {
         velocity = 15,
         weapon_id = 165030,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Herring" }
-  }},
+  },
   ["150400"] = {
     barrages = { {
       name = "I'll Share My Luck With You, Chirp!",
@@ -44160,10 +44160,10 @@ local p = {
         velocity = 3,
         weapon_id = 165140,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Zuihou" }
-  }},
+  },
   ["150420"] = {
     barrages = { {
       name = "Wavesplitter's Edge",
@@ -44194,7 +44194,7 @@ local p = {
         velocity = 18,
         weapon_id = 165180,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -44222,7 +44222,7 @@ local p = {
         velocity = 25,
         weapon_id = 165180,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -44250,10 +44250,10 @@ local p = {
         velocity = 26,
         weapon_id = 165180,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Watarase" }
-  }},
+  },
   ["150430"] = {
     barrages = { {
       name = "Amidst Flowing Shadows",
@@ -44284,10 +44284,10 @@ local p = {
         velocity = 17,
         weapon_id = 165190,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Watarase" }
-  }},
+  },
   ["150440"] = {
     barrages = { {
       name = "Final Bound",
@@ -44320,10 +44320,10 @@ local p = {
         velocity = 14,
         weapon_id = 165210,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Maryland" }
-  }},
+  },
   ["150450"] = {
     barrages = { {
       name = "Big Seven - Maryland",
@@ -44354,7 +44354,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 66150,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -44381,10 +44381,10 @@ local p = {
         velocity = 15,
         weapon_id = 165200,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Maryland" }
-  }},
+  },
   ["150470"] = {
     barrages = { {
       name = "From Advantage Seized, Victory Bequeathed",
@@ -44417,7 +44417,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 165250,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -44446,7 +44446,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 165260,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -44475,7 +44475,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 165250,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -44503,10 +44503,10 @@ local p = {
         velocity = 3,
         weapon_id = 165270,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Amagi(CV)" }
-  }},
+  },
   ["150480"] = {
     barrages = { {
       name = "From Phoenixes Sistren, Flames Given",
@@ -44539,10 +44539,10 @@ local p = {
         velocity = 12,
         weapon_id = 165280,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Amagi(CV)" }
-  }},
+  },
   ["150490"] = {
     barrages = { {
       name = "White Rabbit's Fortune",
@@ -44572,15 +44572,15 @@ local p = {
         tracker = {
           angular = 1.2,
           range = 12
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 165300,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ayase" }
-  }},
+  },
   ["150500"] = {
     barrages = { {
       name = "Three-Tranquilities Formation",
@@ -44611,10 +44611,10 @@ local p = {
         velocity = 0,
         weapon_id = 165310,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ayase" }
-  }},
+  },
   ["150510"] = {
     barrages = { {
       name = "Waves of Bitter Cold",
@@ -44647,7 +44647,7 @@ local p = {
         velocity = 15,
         weapon_id = 165350,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -44676,10 +44676,10 @@ local p = {
         velocity = 12,
         weapon_id = 165360,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Suzunami" }
-  }},
+  },
   ["150560"] = {
     barrages = { {
       name = "Abyssal Baptism",
@@ -44710,10 +44710,10 @@ local p = {
         velocity = 8,
         weapon_id = 165490,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fancy" }
-  }},
+  },
   ["150580"] = {
     barrages = { {
       name = "Winds of Purification and Restoration",
@@ -44745,7 +44745,7 @@ local p = {
         velocity = 0.5,
         weapon_id = 165530,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 60,
@@ -44772,10 +44772,10 @@ local p = {
         velocity = 12,
         weapon_id = 165510,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ganj-i-Sawai" }
-  }},
+  },
   ["150630"] = {
     barrages = { {
       name = "Stormchaser",
@@ -44806,10 +44806,10 @@ local p = {
         velocity = 14,
         weapon_id = 165570,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Portsmouth Adventure" }
-  }},
+  },
   ["150650"] = {
     barrages = { {
       name = "Tearful Torpedo Tactics",
@@ -44840,10 +44840,10 @@ local p = {
         velocity = 0,
         weapon_id = 166990,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z9" }
-  }},
+  },
   ["150670"] = {
     barrages = { {
       name = "Thundering Seal",
@@ -44876,7 +44876,7 @@ local p = {
         velocity = 8,
         weapon_id = 167060,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 100,
@@ -44906,10 +44906,10 @@ local p = {
         velocity = 18,
         weapon_id = 167060,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z52" }
-  }},
+  },
   ["150680"] = {
     barrages = { {
       name = "Soaring Heart",
@@ -44940,7 +44940,7 @@ local p = {
         velocity = 10,
         weapon_id = 167130,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -44968,10 +44968,10 @@ local p = {
         velocity = 18,
         weapon_id = 167130,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z52" }
-  }},
+  },
   ["150690"] = {
     barrages = { {
       name = "Thunder Guardian\n(Slash)",
@@ -44986,10 +44986,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z52" }
-  }},
+  },
   ["150710"] = {
     barrages = { {
       name = "Ornithopter Counterattack\n(Summon)",
@@ -45036,11 +45036,11 @@ local p = {
           velocity = 18,
           weapon_id = 167090,
           weapon_type = 1
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     ships = { "Duisburg" }
-  }},
+  },
   ["150720"] = {
     barrages = { {
       name = "Leisurely Battleplan",
@@ -45071,7 +45071,7 @@ local p = {
         velocity = 11,
         weapon_id = 167120,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 100,
@@ -45098,10 +45098,10 @@ local p = {
         velocity = 11,
         weapon_id = 167120,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duisburg" }
-  }},
+  },
   ["150740"] = {
     barrages = { {
       name = "Simple-Yet-Flashy DIY",
@@ -45132,10 +45132,10 @@ local p = {
         velocity = 0,
         weapon_id = 167080,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z11" }
-  }},
+  },
   ["150750"] = {
     barrages = { {
       name = "Dauntless Wings of the Hero",
@@ -45169,8 +45169,8 @@ local p = {
         velocity = 15,
         weapon_id = 167010,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Dauntless Wings of the Hero\n(Crossfleet)",
       parts = { {
         aim_type = 1,
@@ -45200,10 +45200,10 @@ local p = {
         velocity = 15,
         weapon_id = 167140,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fritz Rumey" }
-  }},
+  },
   ["150760"] = {
     barrages = { {
       name = "Ruinous Blade of the Slayer",
@@ -45234,7 +45234,7 @@ local p = {
         velocity = 3,
         weapon_id = 167020,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -45262,7 +45262,7 @@ local p = {
         velocity = 10,
         weapon_id = 167020,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -45290,7 +45290,7 @@ local p = {
         velocity = 15,
         weapon_id = 167020,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -45317,7 +45317,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 167100,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -45344,10 +45344,10 @@ local p = {
         velocity = 22,
         weapon_id = 167110,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fritz Rumey" }
-  }},
+  },
   ["150790"] = {
     barrages = { {
       name = "Strict and Rigorous",
@@ -45378,7 +45378,7 @@ local p = {
         velocity = 4,
         weapon_id = 167150,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -45405,10 +45405,10 @@ local p = {
         velocity = 8,
         weapon_id = 167160,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chang Feng" }
-  }},
+  },
   ["150800"] = {
     barrages = { {
       name = "Spring Cleaning",
@@ -45439,10 +45439,10 @@ local p = {
         velocity = 0,
         weapon_id = 167170,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chang Feng" }
-  }},
+  },
   ["150810"] = {
     barrages = { {
       name = "Emergency Measures",
@@ -45475,7 +45475,7 @@ local p = {
         velocity = 12,
         weapon_id = 167230,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -45504,10 +45504,10 @@ local p = {
         velocity = 18,
         weapon_id = 167230,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hai Yung" }
-  }},
+  },
   ["150830"] = {
     barrages = { {
       name = "Insurmountable Seamstress",
@@ -45540,10 +45540,10 @@ local p = {
         velocity = 4,
         weapon_id = 167220,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chien Wu" }
-  }},
+  },
   ["150850"] = {
     barrages = { {
       name = "Intoxicating Beauty",
@@ -45578,7 +45578,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 167250,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -45609,10 +45609,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 167260,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hwah Jah" }
-  }},
+  },
   ["150865"] = {
     barrages = { {
       name = "An Shan-class Sword Slash",
@@ -45643,7 +45643,7 @@ local p = {
         velocity = 15,
         weapon_id = 167283,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -45670,10 +45670,10 @@ local p = {
         velocity = 15,
         weapon_id = 167283,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fu Shun" }
-  }},
+  },
   ["150870"] = {
     barrages = { {
       name = "Zhuque's Flamebinds",
@@ -45706,7 +45706,7 @@ local p = {
         velocity = 15,
         weapon_id = 167270,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -45736,10 +45736,10 @@ local p = {
         velocity = 15,
         weapon_id = 167270,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fu Shun" }
-  }},
+  },
   ["150880"] = {
     barrages = { {
       name = "Fu Po's \"Masterstroke\"",
@@ -45770,10 +45770,10 @@ local p = {
         velocity = 4,
         weapon_id = 167280,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fu Po" }
-  }},
+  },
   ["150890"] = {
     barrages = { {
       name = "Blast Off Into the Future",
@@ -45804,10 +45804,10 @@ local p = {
         velocity = 1,
         weapon_id = 167281,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fu Po" }
-  }},
+  },
   ["150910"] = {
     barrages = { {
       name = "Strict Flower of Sardegna",
@@ -45838,7 +45838,7 @@ local p = {
         velocity = 15,
         weapon_id = 167320,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -45865,10 +45865,10 @@ local p = {
         velocity = 18,
         weapon_id = 167330,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bartolomeo Colleoni" }
-  }},
+  },
   ["150920"] = {
     barrages = { {
       name = "Odi Barbare",
@@ -45901,7 +45901,7 @@ local p = {
         velocity = 10,
         weapon_id = 167340,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -45930,10 +45930,10 @@ local p = {
         velocity = 10,
         weapon_id = 167350,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Giosuè Carducci" }
-  }},
+  },
   ["150930"] = {
     barrages = { {
       name = "Il Canto di Marzo",
@@ -45964,7 +45964,7 @@ local p = {
         velocity = 30,
         weapon_id = 167370,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -45993,7 +45993,7 @@ local p = {
         velocity = 1,
         weapon_id = 167370,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -46020,7 +46020,7 @@ local p = {
         velocity = 1,
         weapon_id = 167370,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -46047,7 +46047,7 @@ local p = {
         velocity = 10,
         weapon_id = 167420,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -46074,10 +46074,10 @@ local p = {
         velocity = 5,
         weapon_id = 167480,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Giosuè Carducci" }
-  }},
+  },
   ["150960"] = {
     barrages = { {
       name = "Apex Artist",
@@ -46108,7 +46108,7 @@ local p = {
         velocity = 12,
         weapon_id = 167430,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -46135,8 +46135,8 @@ local p = {
         velocity = 15,
         weapon_id = 167440,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Apex Artist\n(Enhanced, Once)",
       parts = { {
         aim_type = 1,
@@ -46165,7 +46165,7 @@ local p = {
         velocity = 12,
         weapon_id = 167430,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -46192,7 +46192,7 @@ local p = {
         velocity = 15,
         weapon_id = 167440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -46219,8 +46219,8 @@ local p = {
         velocity = 15,
         weapon_id = 167450,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Apex Artist\n(Enhanced, Twice)",
       parts = { {
         aim_type = 1,
@@ -46249,7 +46249,7 @@ local p = {
         velocity = 12,
         weapon_id = 167430,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -46276,7 +46276,7 @@ local p = {
         velocity = 15,
         weapon_id = 167440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 120,
@@ -46303,8 +46303,8 @@ local p = {
         velocity = 15,
         weapon_id = 167450,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Apex Artist\n(crossfleet)",
       parts = { {
         aim_type = 1,
@@ -46333,10 +46333,10 @@ local p = {
         velocity = 15,
         weapon_id = 167450,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Raffaello" }
-  }},
+  },
   ["150980"] = {
     barrages = { {
       name = "Thrill-Seeker",
@@ -46367,10 +46367,10 @@ local p = {
         velocity = 3,
         weapon_id = 167380,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Maggiore Baracca" }
-  }},
+  },
   ["150990"] = {
     barrages = { {
       name = "Born Adventurer",
@@ -46401,10 +46401,10 @@ local p = {
         velocity = 3,
         weapon_id = 167390,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Maggiore Baracca" }
-  }},
+  },
   ["151030"] = {
     barrages = { {
       name = "Glorious Advance",
@@ -46435,8 +46435,8 @@ local p = {
         velocity = 18,
         weapon_id = 167590,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Glorious Advance\n(Flares)",
       parts = { {
         aim_type = 0,
@@ -46465,7 +46465,7 @@ local p = {
         velocity = 5,
         weapon_id = 902,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -46492,10 +46492,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 902,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Santa Fe" }
-  }},
+  },
   ["151060"] = {
     barrages = { {
       name = "BIG BEN",
@@ -46528,7 +46528,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 167610,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -46557,7 +46557,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 167620,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -46587,8 +46587,8 @@ local p = {
         velocity = 3,
         weapon_id = 167640,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "BIG BEN\n(if enemy BC/CV/CVL)",
       parts = { {
         aim_type = 1,
@@ -46619,7 +46619,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 167610,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -46648,7 +46648,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 167620,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -46678,10 +46678,10 @@ local p = {
         velocity = 3,
         weapon_id = 167640,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Franklin" }
-  }},
+  },
   ["151080"] = {
     barrages = { {
       name = "Pixiedust Storm",
@@ -46712,7 +46712,7 @@ local p = {
         velocity = 6,
         weapon_id = 167730,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -46739,10 +46739,10 @@ local p = {
         velocity = 6,
         weapon_id = 167730,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "De Zeven Provinciën" }
-  }},
+  },
   ["151090"] = {
     barrages = { {
       name = "Welkin Blessing",
@@ -46773,10 +46773,10 @@ local p = {
         velocity = 12,
         weapon_id = 167740,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "De Zeven Provinciën" }
-  }},
+  },
   ["151100"] = {
     barrages = { {
       name = "Genius's Intuition",
@@ -46807,10 +46807,10 @@ local p = {
         velocity = 2,
         weapon_id = 167690,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Oleg" }
-  }},
+  },
   ["151110"] = {
     barrages = { {
       name = "I am Mad Scientist!\n(Shield Broken)",
@@ -46841,8 +46841,8 @@ local p = {
         velocity = 18,
         weapon_id = 167710,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "I am Mad Scientist!\n(Bomb)",
       parts = { {
         aim_type = 1,
@@ -46871,8 +46871,8 @@ local p = {
         velocity = 7,
         weapon_id = 167720,
         weapon_type = 19
-      }} }
-    }}, {
+      } }
+    }, {
       name = "I am Mad Scientist!\n(Torpedo)",
       parts = { {
         aim_type = 1,
@@ -46900,15 +46900,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 16
-        }},
+        },
         type = "weapon",
         velocity = 4,
         weapon_id = 167700,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Oleg" }
-  }},
+  },
   ["151120"] = {
     barrages = { {
       name = "Raging Polar Bear of the Distant Sea",
@@ -46941,7 +46941,7 @@ local p = {
         velocity = 15,
         weapon_id = 167750,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -46970,10 +46970,10 @@ local p = {
         velocity = 15,
         weapon_id = 167770,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kazan" }
-  }},
+  },
   ["151140"] = {
     barrages = { {
       name = "Peek-a-Boom!",
@@ -47006,7 +47006,7 @@ local p = {
         velocity = 12,
         weapon_id = 920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -47035,10 +47035,10 @@ local p = {
         velocity = 0,
         weapon_id = 167780,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Anchorage" }
-  }},
+  },
   ["151150"] = {
     barrages = { {
       name = "To My Abyssal Kingdom!",
@@ -47071,10 +47071,10 @@ local p = {
         velocity = 10,
         weapon_id = 168030,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Ägir" }
-  }},
+  },
   ["151160"] = {
     barrages = { {
       name = "Sweet-Toothed Awful Jawful",
@@ -47107,7 +47107,7 @@ local p = {
         velocity = 14,
         weapon_id = 168020,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -47136,10 +47136,10 @@ local p = {
         velocity = 13,
         weapon_id = 168040,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Little Ägir" }
-  }},
+  },
   ["151170"] = {
     barrages = { {
       name = "The Flawless Hunt",
@@ -47172,7 +47172,7 @@ local p = {
         velocity = 10,
         weapon_id = 167850,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -47199,10 +47199,10 @@ local p = {
         velocity = 5,
         weapon_id = 167860,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Trinidad" }
-  }},
+  },
   ["151190"] = {
     barrages = { {
       name = "Glowworm Assault",
@@ -47233,10 +47233,10 @@ local p = {
         velocity = 5,
         weapon_id = 167960,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Glowworm" }
-  }},
+  },
   ["151210"] = {
     barrages = { {
       name = "Dogged Pursuit",
@@ -47269,7 +47269,7 @@ local p = {
         velocity = 10,
         weapon_id = 167830,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -47298,10 +47298,10 @@ local p = {
         velocity = 2,
         weapon_id = 167840,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gallant" }
-  }},
+  },
   ["151220"] = {
     barrages = { {
       name = "Worldgorging Lionflame\n(15s)",
@@ -47334,7 +47334,7 @@ local p = {
         velocity = 8,
         weapon_id = 167890,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -47363,8 +47363,8 @@ local p = {
         velocity = 8,
         weapon_id = 168010,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Worldgorging Lionflame\n(on Fire)",
       parts = { {
         aim_type = 0,
@@ -47396,10 +47396,10 @@ local p = {
         velocity = 15,
         weapon_id = 168080,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lion" }
-  }},
+  },
   ["151230"] = {
     barrages = { {
       name = "Thus Moves the King\n(Crossfleet)",
@@ -47433,10 +47433,10 @@ local p = {
         velocity = 15,
         weapon_id = 167900,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Lion" }
-  }},
+  },
   ["151250"] = {
     barrages = { {
       name = "Upon This Blade, Shall Victory be Inscribed\n(Variant 1)",
@@ -47469,8 +47469,8 @@ local p = {
         velocity = 22,
         weapon_id = 167920,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Upon This Blade, Shall Victory be Inscribed\n(Variant 2)",
       parts = { {
         aim_type = 0,
@@ -47501,10 +47501,10 @@ local p = {
         velocity = 22,
         weapon_id = 167910,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Trafalgar" }
-  }},
+  },
   ["151260"] = {
     barrages = { {
       name = "Upon This Corpus, Shall Irradiance Adorn",
@@ -47538,10 +47538,10 @@ local p = {
         velocity = 0,
         weapon_id = 167930,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Trafalgar" }
-  }},
+  },
   ["151280"] = {
     barrages = { {
       name = "Sun God's Radiance",
@@ -47574,7 +47574,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 167870,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -47602,15 +47602,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 4,
         weapon_id = 167880,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Cleopatra" }
-  }},
+  },
   ["151320"] = {
     barrages = { {
       name = "Threshold Computation\n(multiple enemies)",
@@ -47641,8 +47641,8 @@ local p = {
         velocity = 12,
         weapon_id = 168180,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Threshold Computation\n(no or single enemy)",
       parts = { {
         aim_type = 0,
@@ -47671,10 +47671,10 @@ local p = {
         velocity = 15,
         weapon_id = 168190,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Admiral Zenker" }
-  }},
+  },
   ["151340"] = {
     barrages = { {
       name = "Bespoke Tactics!\n(Level 1)",
@@ -47704,13 +47704,13 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 4,
         weapon_id = 168230,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Bespoke Tactics!\n(Level 2)",
       parts = { {
         aim_type = 0,
@@ -47738,13 +47738,13 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 4,
         weapon_id = 168240,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Bespoke Tactics!\n(Level 3)",
       parts = { {
         aim_type = 0,
@@ -47772,15 +47772,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 4,
         weapon_id = 168250,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z13" }
-  }},
+  },
   ["151360"] = {
     barrages = { {
       name = "Roter Teufel",
@@ -47811,7 +47811,7 @@ local p = {
         velocity = 12,
         weapon_id = 168260,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -47839,15 +47839,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 12,
         weapon_id = 168270,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-552" }
-  }},
+  },
   ["151400"] = {
     barrages = { {
       name = "Blessed Child of Victory",
@@ -47878,7 +47878,7 @@ local p = {
         velocity = 8,
         weapon_id = 168940,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 60,
@@ -47907,10 +47907,10 @@ local p = {
         velocity = 18,
         weapon_id = 168940,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Masséna" }
-  }},
+  },
   ["151440"] = {
     barrages = { {
       name = "Honour Through Bravery",
@@ -47941,7 +47941,7 @@ local p = {
         velocity = 15,
         weapon_id = 168860,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -47971,10 +47971,10 @@ local p = {
         velocity = 15,
         weapon_id = 168860,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duguay-Trouin" }
-  }},
+  },
   ["151450"] = {
     barrages = { {
       name = "Valorous Avengers+",
@@ -48007,15 +48007,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 16
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 67450,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Essex" }
-  }},
+  },
   ["151460"] = {
     barrages = { {
       name = "Next Generation",
@@ -48047,7 +48047,7 @@ local p = {
         velocity = 15,
         weapon_id = 168840,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 5,
         angle = 180,
@@ -48075,7 +48075,7 @@ local p = {
         velocity = 12,
         weapon_id = 50350,
         weapon_type = 4
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 5,
         angle = 180,
@@ -48103,8 +48103,8 @@ local p = {
         velocity = 12,
         weapon_id = 50550,
         weapon_type = 4
-      }} }
-    }}, {
+      } }
+    }, {
       name = "S4\n(Crossfleet)",
       parts = { {
         aim_type = 1,
@@ -48134,7 +48134,7 @@ local p = {
         velocity = 15,
         weapon_id = 168840,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -48161,10 +48161,10 @@ local p = {
         velocity = 8,
         weapon_id = 180015,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Essex" }
-  }},
+  },
   ["151490"] = {
     barrages = { {
       name = "Dreadknight Peureux",
@@ -48197,7 +48197,7 @@ local p = {
         velocity = 5,
         weapon_id = 168950,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -48226,10 +48226,10 @@ local p = {
         velocity = 5,
         weapon_id = 168950,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Hardi" }
-  }},
+  },
   ["151520"] = {
     barrages = { {
       name = "Divine Deeds Done Dreamily",
@@ -48261,7 +48261,7 @@ local p = {
         velocity = 3,
         weapon_id = 168900,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 6,
         angle = 45,
@@ -48289,10 +48289,10 @@ local p = {
         velocity = 15,
         weapon_id = 168920,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bois Belleau" }
-  }},
+  },
   ["190000"] = {
     barrages = { {
       name = "Steelsurge Concerto",
@@ -48323,10 +48323,10 @@ local p = {
         velocity = 16,
         weapon_id = 168600,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dmitri Donskoi" }
-  }},
+  },
   ["250012"] = {
     barrages = { {
       is_aoa = true,
@@ -48358,10 +48358,10 @@ local p = {
         velocity = 20,
         weapon_id = 170732,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Evertsen" }
-  }},
+  },
   ["250212"] = {
     barrages = { {
       is_aoa = true,
@@ -48393,10 +48393,10 @@ local p = {
         velocity = 20,
         weapon_id = 170822,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duquesne" }
-  }},
+  },
   ["800010"] = {
     barrages = { {
       name = "Shadowflame Torch",
@@ -48427,7 +48427,7 @@ local p = {
         velocity = 10,
         weapon_id = 65830,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -48456,7 +48456,7 @@ local p = {
         velocity = 8,
         weapon_id = 65830,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -48485,10 +48485,10 @@ local p = {
         velocity = 10,
         weapon_id = 65830,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ark Royal META" }
-  }},
+  },
   ["800020"] = {
     barrages = { {
       name = "Shadow Skirmisher",
@@ -48519,10 +48519,10 @@ local p = {
         velocity = 3,
         weapon_id = 65840,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ark Royal META" }
-  }},
+  },
   ["800030"] = {
     barrages = { {
       name = "Glorious Onslaught",
@@ -48554,10 +48554,10 @@ local p = {
         velocity = 3,
         weapon_id = 65860,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ark Royal META" }
-  }},
+  },
   ["800040"] = {
     barrages = { {
       name = "Scorched Blade",
@@ -48590,10 +48590,10 @@ local p = {
         velocity = 8,
         weapon_id = 65450,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hiryuu META" }
-  }},
+  },
   ["800050"] = {
     barrages = { {
       name = "Cards of Light and Dark\n(version 1)",
@@ -48624,8 +48624,8 @@ local p = {
         velocity = 6,
         weapon_id = 65480,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Cards of Light and Dark\n(version 2)",
       parts = { {
         aim_type = 0,
@@ -48654,10 +48654,10 @@ local p = {
         velocity = 18,
         weapon_id = 65490,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hiryuu META" }
-  }},
+  },
   ["800060"] = {
     barrages = { {
       name = "The Cherry Petal Memento",
@@ -48689,10 +48689,10 @@ local p = {
         velocity = 3,
         weapon_id = 65470,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hiryuu META" }
-  }},
+  },
   ["800090"] = {
     barrages = { {
       name = "Shadow-Wing Torch",
@@ -48724,7 +48724,7 @@ local p = {
         velocity = 5,
         weapon_id = 64230,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -48754,10 +48754,10 @@ local p = {
         velocity = 15,
         weapon_id = 64230,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Helena META" }
-  }},
+  },
   ["800100"] = {
     barrages = { {
       name = "Scanner Hacking",
@@ -48790,10 +48790,10 @@ local p = {
         velocity = 10,
         weapon_id = 65991,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Helena META" }
-  }},
+  },
   ["800122"] = {
     barrages = { {
       is_aoa = true,
@@ -48825,7 +48825,7 @@ local p = {
         velocity = 18,
         weapon_id = 79732,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -48852,10 +48852,10 @@ local p = {
         velocity = 18,
         weapon_id = 79732,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Helena META" }
-  }},
+  },
   ["800130"] = {
     barrages = { {
       name = "Akatan of Blossoming Flame",
@@ -48886,7 +48886,7 @@ local p = {
         velocity = 1,
         weapon_id = 63040,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -48913,7 +48913,7 @@ local p = {
         velocity = 4,
         weapon_id = 63040,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -48942,7 +48942,7 @@ local p = {
         velocity = 5,
         weapon_id = 63040,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -48971,10 +48971,10 @@ local p = {
         velocity = 18,
         weapon_id = 63050,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Souryuu META" }
-  }},
+  },
   ["800140"] = {
     barrages = { {
       name = "Aotan of Shadow-Sealing",
@@ -49007,7 +49007,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 63070,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -49036,7 +49036,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 63080,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 360,
@@ -49065,7 +49065,7 @@ local p = {
         velocity = 8,
         weapon_id = 63090,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -49092,7 +49092,7 @@ local p = {
         velocity = 10,
         weapon_id = 63100,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -49121,10 +49121,10 @@ local p = {
         velocity = 13,
         weapon_id = 63100,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Souryuu META" }
-  }},
+  },
   ["800170"] = {
     barrages = { {
       name = "Cinderflame Curse",
@@ -49157,10 +49157,10 @@ local p = {
         velocity = 6,
         weapon_id = 63140,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fusou META" }
-  }},
+  },
   ["800180"] = {
     barrages = { {
       name = "The Butterfly's Last Gasp",
@@ -49191,7 +49191,7 @@ local p = {
         velocity = 7,
         weapon_id = 63150,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -49218,8 +49218,8 @@ local p = {
         velocity = 0.6,
         weapon_id = 63150,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "The Butterfly's Last Gasp\n(crossfleet)",
       parts = { {
         aim_type = 0,
@@ -49248,7 +49248,7 @@ local p = {
         velocity = 7,
         weapon_id = 63160,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -49275,10 +49275,10 @@ local p = {
         velocity = 0.6,
         weapon_id = 63160,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fusou META" }
-  }},
+  },
   ["800220"] = {
     barrages = { {
       name = "Stormchasing Blade",
@@ -49309,7 +49309,7 @@ local p = {
         velocity = 8,
         weapon_id = 64800,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 25,
@@ -49337,10 +49337,10 @@ local p = {
         velocity = 3,
         weapon_id = 64790,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hiyou META" }
-  }},
+  },
   ["800260"] = {
     barrages = { {
       name = "Seething Chains",
@@ -49373,7 +49373,7 @@ local p = {
         velocity = 15,
         weapon_id = 64810,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -49402,10 +49402,10 @@ local p = {
         velocity = 5.5,
         weapon_id = 64820,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gneisenau META" }
-  }},
+  },
   ["800270"] = {
     barrages = { {
       name = "Disruption Wave",
@@ -49437,15 +49437,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 64830,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gneisenau META" }
-  }},
+  },
   ["800300"] = {
     barrages = { {
       name = "Stormchasing Spirit",
@@ -49477,10 +49477,10 @@ local p = {
         velocity = 3,
         weapon_id = 64950,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Junyou META" }
-  }},
+  },
   ["800340"] = {
     barrages = { {
       name = "Dual Snipe",
@@ -49513,7 +49513,7 @@ local p = {
         velocity = 15,
         weapon_id = 62010,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 50,
@@ -49542,8 +49542,8 @@ local p = {
         velocity = 15,
         weapon_id = 62010,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Dual Snipe\n(proximity)",
       parts = { {
         aim_type = 0,
@@ -49572,10 +49572,10 @@ local p = {
         velocity = 18,
         weapon_id = 62030,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Scharnhorst META" }
-  }},
+  },
   ["800350"] = {
     barrages = { {
       name = "Blazing Blitz",
@@ -49608,7 +49608,7 @@ local p = {
         velocity = 12,
         weapon_id = 62020,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -49635,10 +49635,10 @@ local p = {
         velocity = 12,
         weapon_id = 62020,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Scharnhorst META" }
-  }},
+  },
   ["800380"] = {
     barrages = { {
       name = "Blood Sacrifice\n(enhanced)",
@@ -49671,7 +49671,7 @@ local p = {
         velocity = 15,
         weapon_id = 63860,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 50,
@@ -49700,8 +49700,8 @@ local p = {
         velocity = 15,
         weapon_id = 63870,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Blood Sacrifice\n(unenhanced)",
       parts = { {
         aim_type = 1,
@@ -49732,10 +49732,10 @@ local p = {
         velocity = 15,
         weapon_id = 63860,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yamashiro META" }
-  }},
+  },
   ["800420"] = {
     barrages = { {
       name = "Decelerative Fire",
@@ -49768,10 +49768,10 @@ local p = {
         velocity = 15,
         weapon_id = 62100,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Memphis META" }
-  }},
+  },
   ["800452"] = {
     barrages = { {
       is_aoa = true,
@@ -49803,7 +49803,7 @@ local p = {
         velocity = 18,
         weapon_id = 79872,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -49830,10 +49830,10 @@ local p = {
         velocity = 3,
         weapon_id = 79873,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Memphis META" }
-  }},
+  },
   ["800460"] = {
     barrages = { {
       name = "Blazing Slash!",
@@ -49866,7 +49866,7 @@ local p = {
         velocity = 15,
         weapon_id = 62110,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -49895,10 +49895,10 @@ local p = {
         velocity = 8,
         weapon_id = 62120,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Repulse META" }
-  }},
+  },
   ["800470"] = {
     barrages = { {
       name = "Repulsing Pyrotechnics",
@@ -49929,7 +49929,7 @@ local p = {
         velocity = 14,
         weapon_id = 62130,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -49956,10 +49956,10 @@ local p = {
         velocity = 10,
         weapon_id = 62140,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Repulse META" }
-  }},
+  },
   ["800500"] = {
     barrages = { {
       name = "Blade of Shattered Dreams",
@@ -49990,10 +49990,10 @@ local p = {
         velocity = 0,
         weapon_id = 62700,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Trento META" }
-  }},
+  },
   ["800532"] = {
     barrages = { {
       is_aoa = true,
@@ -50025,7 +50025,7 @@ local p = {
         velocity = 4,
         weapon_id = 79932,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -50052,10 +50052,10 @@ local p = {
         velocity = 4,
         weapon_id = 79933,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Trento META" }
-  }},
+  },
   ["800540"] = {
     barrages = { {
       name = "Flameforged Edge",
@@ -50089,7 +50089,7 @@ local p = {
         velocity = 5,
         weapon_id = 62370,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -50119,10 +50119,10 @@ local p = {
         velocity = 5,
         weapon_id = 62380,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Renown META" }
-  }},
+  },
   ["800580"] = {
     barrages = { {
       name = "Vicious Rend",
@@ -50155,10 +50155,10 @@ local p = {
         velocity = 15,
         weapon_id = 62930,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hunter META" }
-  }},
+  },
   ["800602"] = {
     barrages = { {
       is_aoa = true,
@@ -50190,10 +50190,10 @@ local p = {
         velocity = 3,
         weapon_id = 79962,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hunter META" }
-  }},
+  },
   ["800610"] = {
     barrages = { {
       name = "Eyes of Fate",
@@ -50224,8 +50224,8 @@ local p = {
         velocity = 20,
         weapon_id = 160090,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Eyes of Fate\n(Slash)",
       parts = { {
         clears = { 1, 3 },
@@ -50238,10 +50238,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fortune META" }
-  }},
+  },
   ["800620"] = {
     barrages = { {
       name = "Fortune and Causality",
@@ -50272,8 +50272,8 @@ local p = {
         velocity = 50,
         weapon_id = 160100,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Fortune and Causality\n(Slash)",
       parts = { {
         clears = { 1, 3 },
@@ -50286,10 +50286,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fortune META" }
-  }},
+  },
   ["800632"] = {
     barrages = { {
       is_aoa = true,
@@ -50321,8 +50321,8 @@ local p = {
         velocity = 18,
         weapon_id = 79992,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Fortune and Causality\n(Slash)",
       parts = { {
         clears = { 1, 3 },
@@ -50335,10 +50335,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fortune META" }
-  }},
+  },
   ["800650"] = {
     barrages = { {
       name = "No More Tears",
@@ -50369,8 +50369,8 @@ local p = {
         velocity = 12,
         weapon_id = 160290,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "No More Tears\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -50399,7 +50399,7 @@ local p = {
         velocity = 12,
         weapon_id = 160300,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -50428,10 +50428,10 @@ local p = {
         velocity = 12,
         weapon_id = 160310,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Arizona META" }
-  }},
+  },
   ["800680"] = {
     barrages = { {
       name = "Quickdraw",
@@ -50464,10 +50464,10 @@ local p = {
         velocity = 12,
         weapon_id = 160580,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sheffield META" }
-  }},
+  },
   ["800702"] = {
     barrages = { {
       is_aoa = true,
@@ -50499,10 +50499,10 @@ local p = {
         velocity = 8,
         weapon_id = 170012,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sheffield META" }
-  }},
+  },
   ["800710"] = {
     barrages = { {
       name = "Ruler of Light and Darkness",
@@ -50535,7 +50535,7 @@ local p = {
         velocity = 15,
         weapon_id = 62970,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 50,
@@ -50564,10 +50564,10 @@ local p = {
         velocity = 13,
         weapon_id = 62970,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Queen Elizabeth META" }
-  }},
+  },
   ["800730"] = {
     barrages = { {
       name = "Answerer of Prayers",
@@ -50599,10 +50599,10 @@ local p = {
         velocity = 0,
         weapon_id = 62960,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Queen Elizabeth META" }
-  }},
+  },
   ["800750"] = {
     barrages = { {
       name = "Inquisition's Hammer",
@@ -50635,10 +50635,10 @@ local p = {
         velocity = 12,
         weapon_id = 160820,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "La Galissonnière META" }
-  }},
+  },
   ["800760"] = {
     barrages = { {
       name = "Inquisition's Axe",
@@ -50671,10 +50671,10 @@ local p = {
         velocity = 8,
         weapon_id = 160830,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "La Galissonnière META" }
-  }},
+  },
   ["800772"] = {
     barrages = { {
       is_aoa = true,
@@ -50706,10 +50706,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 170042,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "La Galissonnière META" }
-  }},
+  },
   ["800790"] = {
     barrages = { {
       name = "Free-Spirited Parzival",
@@ -50740,10 +50740,10 @@ local p = {
         velocity = 3,
         weapon_id = 161050,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-556 META" }
-  }},
+  },
   ["800800"] = {
     barrages = { {
       name = "Grail of Kept Promises",
@@ -50774,10 +50774,10 @@ local p = {
         velocity = 3,
         weapon_id = 161060,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-556 META" }
-  }},
+  },
   ["800812"] = {
     barrages = { {
       is_aoa = true,
@@ -50808,15 +50808,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 170072,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-556 META" }
-  }},
+  },
   ["800820"] = {
     barrages = { {
       name = "Structural Tuning: Overload",
@@ -50850,10 +50850,10 @@ local p = {
         velocity = 0,
         weapon_id = 161110,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vestal META" }
-  }},
+  },
   ["800850"] = {
     barrages = { {
       name = "Sinner's Pursuit",
@@ -50886,10 +50886,10 @@ local p = {
         velocity = 12,
         weapon_id = 161220,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Algérie META" }
-  }},
+  },
   ["800882"] = {
     barrages = { {
       is_aoa = true,
@@ -50921,8 +50921,8 @@ local p = {
         velocity = 12,
         weapon_id = 170092,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "Cinders of Hope - Algérie II\n(enhanced)",
       parts = { {
@@ -50954,10 +50954,10 @@ local p = {
         velocity = 12,
         weapon_id = 170093,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Algérie META" }
-  }},
+  },
   ["800890"] = {
     barrages = { {
       name = "Flash of Inspiration",
@@ -50988,7 +50988,7 @@ local p = {
         velocity = 5,
         weapon_id = 162310,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -51016,10 +51016,10 @@ local p = {
         velocity = 15,
         weapon_id = 162310,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hatakaze META" }
-  }},
+  },
   ["800912"] = {
     barrages = { {
       is_aoa = true,
@@ -51051,10 +51051,10 @@ local p = {
         velocity = 15,
         weapon_id = 170142,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hatakaze META" }
-  }},
+  },
   ["800920"] = {
     barrages = { {
       name = "Unyielding, the Flower Blooms",
@@ -51085,10 +51085,10 @@ local p = {
         velocity = 4,
         weapon_id = 162410,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Jintsuu META" }
-  }},
+  },
   ["800952"] = {
     barrages = { {
       is_aoa = true,
@@ -51120,10 +51120,10 @@ local p = {
         velocity = 0,
         weapon_id = 170172,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Jintsuu META" }
-  }},
+  },
   ["800970"] = {
     barrages = { {
       name = "Into Thin Air",
@@ -51155,10 +51155,10 @@ local p = {
         velocity = 3,
         weapon_id = 163290,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Princeton META" }
-  }},
+  },
   ["801000"] = {
     barrages = { {
       name = "Fade into Darkness",
@@ -51189,7 +51189,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 163750,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -51218,10 +51218,10 @@ local p = {
         velocity = 12,
         weapon_id = 163750,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Erebus META" }
-  }},
+  },
   ["801020"] = {
     barrages = { {
       name = "Vspyshka's Roar\n(summon)",
@@ -51268,7 +51268,7 @@ local p = {
           velocity = 22,
           weapon_id = 482,
           weapon_type = 2
-        }}, {
+        }, {
           aim_type = 0,
           ammo = 1,
           angle = 360,
@@ -51296,11 +51296,11 @@ local p = {
           velocity = 1,
           weapon_id = 483,
           weapon_type = 17
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     ships = { "Kirov META" }
-  }},
+  },
   ["801040"] = {
     barrages = { {
       name = "Coordinated Dance",
@@ -51334,10 +51334,10 @@ local p = {
         velocity = 15,
         weapon_id = 161530,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kirov META" }
-  }},
+  },
   ["801052"] = {
     barrages = { {
       is_aoa = true,
@@ -51369,7 +51369,7 @@ local p = {
         velocity = 15,
         weapon_id = 170242,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -51396,10 +51396,10 @@ local p = {
         velocity = 3,
         weapon_id = 170243,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kirov META" }
-  }},
+  },
   ["801060"] = {
     barrages = { {
       name = "Endless Night",
@@ -51430,7 +51430,7 @@ local p = {
         velocity = 5,
         weapon_id = 163950,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 60,
@@ -51458,10 +51458,10 @@ local p = {
         velocity = 12,
         weapon_id = 163950,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kimberly META" }
-  }},
+  },
   ["801082"] = {
     barrages = { {
       is_aoa = true,
@@ -51493,7 +51493,7 @@ local p = {
         velocity = 15,
         weapon_id = 170282,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -51520,10 +51520,10 @@ local p = {
         velocity = 4,
         weapon_id = 170283,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kimberly META" }
-  }},
+  },
   ["801090"] = {
     barrages = { {
       name = "Shattered Solidarity",
@@ -51554,10 +51554,10 @@ local p = {
         velocity = 12,
         weapon_id = 164090,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pamiat' Merkuria META" }
-  }},
+  },
   ["801122"] = {
     barrages = { {
       is_aoa = true,
@@ -51589,8 +51589,8 @@ local p = {
         velocity = 12,
         weapon_id = 170412,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "Flickering Light - Pamiat' Merkuria II\n(enhanced)",
       parts = { {
@@ -51620,10 +51620,10 @@ local p = {
         velocity = 12,
         weapon_id = 170413,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Pamiat' Merkuria META" }
-  }},
+  },
   ["801130"] = {
     barrages = { {
       name = "My Phantoms",
@@ -51654,8 +51654,8 @@ local p = {
         velocity = 5.5,
         weapon_id = 164210,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "My Phantoms\n(summon)",
       parts = { {
         aa = "100%",
@@ -51700,11 +51700,11 @@ local p = {
           velocity = 22,
           weapon_id = 486,
           weapon_type = 2
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     ships = { "Rodney META" }
-  }},
+  },
   ["801150"] = {
     barrages = { {
       name = "Demise's Arrival",
@@ -51736,10 +51736,10 @@ local p = {
         velocity = 0,
         weapon_id = 164220,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Rodney META" }
-  }},
+  },
   ["801180"] = {
     barrages = { {
       name = "Everlasting Flowers",
@@ -51772,7 +51772,7 @@ local p = {
         velocity = 2,
         weapon_id = 164240,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -51801,10 +51801,10 @@ local p = {
         velocity = 2,
         weapon_id = 164250,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vampire META" }
-  }},
+  },
   ["801192"] = {
     barrages = { {
       is_aoa = true,
@@ -51836,10 +51836,10 @@ local p = {
         velocity = 4,
         weapon_id = 170432,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Vampire META" }
-  }},
+  },
   ["801200"] = {
     barrages = { {
       name = "Keeper of the Grimoire\n(dive bomber)",
@@ -51871,7 +51871,7 @@ local p = {
         velocity = 3,
         weapon_id = 164400,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -51900,7 +51900,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 164420,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -51927,8 +51927,8 @@ local p = {
         velocity = 3,
         weapon_id = 164430,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Keeper of the Grimoire\n(cl gun)",
       parts = { {
         aim_type = 0,
@@ -51958,7 +51958,7 @@ local p = {
         velocity = 3,
         weapon_id = 164400,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -51985,8 +51985,8 @@ local p = {
         velocity = 3,
         weapon_id = 164440,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Keeper of the Grimoire\n(no dive bomber, no cl gun)",
       parts = { {
         aim_type = 0,
@@ -52016,7 +52016,7 @@ local p = {
         velocity = 3,
         weapon_id = 164400,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -52043,10 +52043,10 @@ local p = {
         velocity = 3,
         weapon_id = 164430,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Béarn META" }
-  }},
+  },
   ["801210"] = {
     barrages = { {
       name = "Holy Tempest's Descension",
@@ -52077,7 +52077,7 @@ local p = {
         velocity = 15,
         weapon_id = 164450,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -52106,10 +52106,10 @@ local p = {
         velocity = 15,
         weapon_id = 164450,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Béarn META" }
-  }},
+  },
   ["801220"] = {
     barrages = { {
       name = "Sacrament's Empowering Rite",
@@ -52140,10 +52140,10 @@ local p = {
         velocity = 15,
         weapon_id = 164460,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Béarn META" }
-  }},
+  },
   ["801240"] = {
     barrages = { {
       name = "Hellward Bladepoint",
@@ -52176,10 +52176,10 @@ local p = {
         velocity = 20,
         weapon_id = 164600,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Foch META" }
-  }},
+  },
   ["801262"] = {
     barrages = { {
       is_aoa = true,
@@ -52211,10 +52211,10 @@ local p = {
         velocity = 22,
         weapon_id = 170502,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Foch META" }
-  }},
+  },
   ["801290"] = {
     barrages = { {
       name = "Eleventh Hour",
@@ -52245,7 +52245,7 @@ local p = {
         velocity = 2.5,
         weapon_id = 164650,
         weapon_type = 28
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -52273,10 +52273,10 @@ local p = {
         velocity = 0,
         weapon_id = 164640,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Wichita META" }
-  }},
+  },
   ["801302"] = {
     barrages = { {
       is_aoa = true,
@@ -52310,10 +52310,10 @@ local p = {
         velocity = 12,
         weapon_id = 170512,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Wichita META" }
-  }},
+  },
   ["801320"] = {
     barrages = { {
       name = "Secluded Spiritflame",
@@ -52344,7 +52344,7 @@ local p = {
         velocity = 11,
         weapon_id = 164880,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -52371,10 +52371,10 @@ local p = {
         velocity = 11,
         weapon_id = 164880,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kasumi META" }
-  }},
+  },
   ["801342"] = {
     barrages = { {
       is_aoa = true,
@@ -52408,7 +52408,7 @@ local p = {
         velocity = 16,
         weapon_id = 170572,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -52435,10 +52435,10 @@ local p = {
         velocity = 5,
         weapon_id = 170573,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kasumi META" }
-  }},
+  },
   ["801370"] = {
     barrages = { {
       name = "The Rain Weaves and Disperses\n(enhanced)",
@@ -52471,7 +52471,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 165320,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -52500,7 +52500,7 @@ local p = {
         velocity = 12,
         weapon_id = 165330,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -52527,8 +52527,8 @@ local p = {
         velocity = 12,
         weapon_id = 165340,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "The Rain Weaves and Disperses\n(random 1)",
       parts = { {
         aim_type = 1,
@@ -52559,7 +52559,7 @@ local p = {
         velocity = 12,
         weapon_id = 165330,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -52586,8 +52586,8 @@ local p = {
         velocity = 12,
         weapon_id = 165340,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "The Rain Weaves and Disperses\n(random 2)",
       parts = { {
         aim_type = 1,
@@ -52618,7 +52618,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 165320,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -52645,10 +52645,10 @@ local p = {
         velocity = 12,
         weapon_id = 165340,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nagato META" }
-  }},
+  },
   ["801390"] = {
     barrages = { {
       name = "Skysieging Slash",
@@ -52679,7 +52679,7 @@ local p = {
         velocity = 15,
         weapon_id = 165370,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 360,
@@ -52706,8 +52706,8 @@ local p = {
         velocity = 15,
         weapon_id = 165380,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Skysieging Slash\n(slash)",
       parts = { {
         aim_type = 0,
@@ -52736,10 +52736,10 @@ local p = {
         velocity = 8,
         weapon_id = 165390,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hiei META" }
-  }},
+  },
   ["801460"] = {
     barrages = { {
       name = "Veni, Vidi, Vici!",
@@ -52772,10 +52772,10 @@ local p = {
         velocity = 8,
         weapon_id = 166800,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Giulio Cesare META" }
-  }},
+  },
   ["801540"] = {
     barrages = { {
       name = "Hot-and-Cold Armaments",
@@ -52808,7 +52808,7 @@ local p = {
         velocity = 10,
         weapon_id = 167040,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -52836,15 +52836,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 167050,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Admiral Hipper META" }
-  }},
+  },
   ["801562"] = {
     barrages = { {
       is_aoa = true,
@@ -52878,7 +52878,7 @@ local p = {
         velocity = 12,
         weapon_id = 170642,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -52907,10 +52907,10 @@ local p = {
         velocity = 12,
         weapon_id = 170643,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Admiral Hipper META" }
-  }},
+  },
   ["801570"] = {
     barrages = { {
       name = "Flame and Fulminance",
@@ -52943,8 +52943,8 @@ local p = {
         velocity = 8,
         weapon_id = 167310,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Flame and Fulminance\n(Slash)",
       parts = { {
         buff_chance = 1,
@@ -52959,10 +52959,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bolzano META" }
-  }},
+  },
   ["801592"] = {
     barrages = { {
       is_aoa = true,
@@ -52994,7 +52994,7 @@ local p = {
         velocity = 3,
         weapon_id = 170702,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 7,
         angle = 120,
@@ -53021,10 +53021,10 @@ local p = {
         velocity = 3,
         weapon_id = 170702,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bolzano META" }
-  }},
+  },
   ["801600"] = {
     barrages = { {
       name = "Shadow of Eternal Night\n(fire)",
@@ -53057,7 +53057,7 @@ local p = {
         velocity = 12,
         weapon_id = 167400,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -53086,8 +53086,8 @@ local p = {
         velocity = 5.5,
         weapon_id = 167410,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Shadow of Eternal Night\n(proximity)",
       parts = { {
         aim_type = 0,
@@ -53116,7 +53116,7 @@ local p = {
         velocity = 14,
         weapon_id = 167460,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -53143,10 +53143,10 @@ local p = {
         velocity = 10,
         weapon_id = 167470,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Andrea Doria META" }
-  }},
+  },
   ["801640"] = {
     barrages = { {
       name = "Torching Strike",
@@ -53181,10 +53181,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 167580,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hornet META" }
-  }},
+  },
   ["801650"] = {
     barrages = { {
       name = "Shadowed Dreams",
@@ -53215,7 +53215,7 @@ local p = {
         velocity = 4,
         weapon_id = 167550,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -53242,7 +53242,7 @@ local p = {
         velocity = 8,
         weapon_id = 167550,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -53269,8 +53269,8 @@ local p = {
         velocity = 8,
         weapon_id = 167550,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Shadowed Dreams\n(Additonal at 5+ Launches)",
       parts = { {
         aim_type = 1,
@@ -53299,10 +53299,10 @@ local p = {
         velocity = 2.5,
         weapon_id = 167560,
         weapon_type = 28
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hornet META" }
-  }},
+  },
   ["801680"] = {
     barrages = { {
       name = "Threat Elimination Order",
@@ -53335,10 +53335,10 @@ local p = {
         velocity = 10,
         weapon_id = 167660,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Nevada META" }
-  }},
+  },
   ["801710"] = {
     barrages = { {
       name = "Uncompromising Duty\n(up to 2 times)",
@@ -53369,8 +53369,8 @@ local p = {
         velocity = 13,
         weapon_id = 167810,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Uncompromising Duty\n(every 10s)",
       parts = { {
         aim_type = 0,
@@ -53399,10 +53399,10 @@ local p = {
         velocity = 13,
         weapon_id = 167820,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Grenville META" }
-  }},
+  },
   ["801720"] = {
     barrages = { {
       name = "Gunfire Blitz\n(1 Bullet)",
@@ -53436,10 +53436,10 @@ local p = {
         velocity = 12,
         weapon_id = 167792,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Grenville META" }
-  }},
+  },
   ["801742"] = {
     barrages = { {
       is_aoa = true,
@@ -53471,10 +53471,10 @@ local p = {
         velocity = 3,
         weapon_id = 170762,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Grenville META" }
-  }},
+  },
   ["801760"] = {
     barrages = { {
       name = "Glorious Forevermore",
@@ -53507,7 +53507,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 167980,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -53535,10 +53535,10 @@ local p = {
         velocity = 3,
         weapon_id = 168000,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Glorious META" }
-  }},
+  },
   ["801770"] = {
     barrages = { {
       name = "Rosen Mark\n(10 counter-attacks)",
@@ -53571,7 +53571,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 167980,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 24,
@@ -53599,10 +53599,10 @@ local p = {
         velocity = 3,
         weapon_id = 168000,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Glorious META" }
-  }},
+  },
   ["801800"] = {
     barrages = { {
       name = "Nitouryuu - Sunset Glow",
@@ -53635,8 +53635,8 @@ local p = {
         velocity = 18,
         weapon_id = 168140,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Nitouryuu - Sunset Glow\n(Followup on hit)",
       parts = { {
         aim_type = 1,
@@ -53667,10 +53667,10 @@ local p = {
         velocity = 4,
         weapon_id = 168150,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kawakaze META" }
-  }},
+  },
   ["801810"] = {
     barrages = { {
       name = "Followed by Bloody Shadows\n(summon)",
@@ -53717,11 +53717,11 @@ local p = {
           velocity = 12,
           weapon_id = 180002,
           weapon_type = 1
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     ships = { "Kawakaze META" }
-  }},
+  },
   ["801832"] = {
     barrages = { {
       is_aoa = true,
@@ -53753,10 +53753,10 @@ local p = {
         velocity = 16,
         weapon_id = 170792,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kawakaze META" }
-  }},
+  },
   ["801840"] = {
     barrages = { {
       name = "The Dessert Demon's Temptation",
@@ -53789,10 +53789,10 @@ local p = {
         velocity = 15,
         weapon_id = 168750,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dunkerque META" }
-  }},
+  },
   ["1005080"] = {
     barrages = { {
       name = "Chevalier's Sabre+",
@@ -53823,7 +53823,7 @@ local p = {
         velocity = 14,
         weapon_id = 164130,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -53850,10 +53850,10 @@ local p = {
         velocity = 6,
         weapon_id = 164140,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Mars" }
-  }},
+  },
   ["1010090"] = {
     barrages = { {
       name = "I Am No. 1!+",
@@ -53884,10 +53884,10 @@ local p = {
         velocity = 12,
         weapon_id = 164660,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "San Diego" }
-  }},
+  },
   ["1010100"] = {
     barrages = { {
       name = "Ghost of Java Coast+",
@@ -53918,7 +53918,7 @@ local p = {
         velocity = 12,
         weapon_id = 162040,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -53947,10 +53947,10 @@ local p = {
         velocity = 12,
         weapon_id = 162050,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Houston" }
-  }},
+  },
   ["1010140"] = {
     barrages = { {
       name = "Eagle's Tears+",
@@ -53981,7 +53981,7 @@ local p = {
         velocity = 15,
         weapon_id = 62520,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -54008,10 +54008,10 @@ local p = {
         velocity = 15,
         weapon_id = 62530,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Arizona" }
-  }},
+  },
   ["1010250"] = {
     barrages = { {
       name = "Javelin Raid+",
@@ -54044,8 +54044,8 @@ local p = {
         velocity = 12,
         weapon_id = 160800,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Javelin Raid+\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -54076,10 +54076,10 @@ local p = {
         velocity = 24,
         weapon_id = 160810,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Javelin" }
-  }},
+  },
   ["1010260"] = {
     barrages = { {
       name = "Armageddon Cannon+",
@@ -54110,10 +54110,10 @@ local p = {
         velocity = 16,
         weapon_id = 167490,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "York" }
-  }},
+  },
   ["1010290"] = {
     barrages = { {
       name = "Royal Navy's Glory+",
@@ -54144,10 +54144,10 @@ local p = {
         velocity = 15,
         weapon_id = 160320,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hood" }
-  }},
+  },
   ["1010310"] = {
     barrages = { {
       name = "Divine Marksman (R)\n(Enhanced)",
@@ -54178,8 +54178,8 @@ local p = {
         velocity = 12,
         weapon_id = 168090,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Divine Marksman (R)+\n(5s and every 15s)",
       parts = { {
         aim_type = 1,
@@ -54211,10 +54211,10 @@ local p = {
         velocity = 0,
         weapon_id = 168120,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Warspite" }
-  }},
+  },
   ["1010340"] = {
     barrages = { {
       name = "Armored Carrier+",
@@ -54246,10 +54246,10 @@ local p = {
         velocity = 15,
         weapon_id = 62900,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Illustrious" }
-  }},
+  },
   ["1010380"] = {
     barrages = { {
       name = "Z Vanguard+",
@@ -54280,7 +54280,7 @@ local p = {
         velocity = 18,
         weapon_id = 79172,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -54306,15 +54306,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 170252,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z1" }
-  }},
+  },
   ["1010480"] = {
     barrages = { {
       is_aoa = true,
@@ -54346,7 +54346,7 @@ local p = {
         velocity = 5,
         weapon_id = 74113,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -54374,8 +54374,8 @@ local p = {
         velocity = 12,
         weapon_id = 74113,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       is_aoa = true,
       name = "All Out Assault - Ning Hai IV\n(augment, Yat Sen)",
       parts = { {
@@ -54405,7 +54405,7 @@ local p = {
         velocity = 5,
         weapon_id = 74114,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -54433,10 +54433,10 @@ local p = {
         velocity = 12,
         weapon_id = 74114,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ning Hai" }
-  }},
+  },
   ["1010510"] = {
     barrages = { {
       name = "Revolyutsiya+",
@@ -54468,7 +54468,7 @@ local p = {
         velocity = 0,
         weapon_id = 62940,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -54496,10 +54496,10 @@ local p = {
         velocity = 0,
         weapon_id = 62940,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Avrora" }
-  }},
+  },
   ["1010660"] = {
     barrages = { {
       name = "Sniper",
@@ -54530,10 +54530,10 @@ local p = {
         velocity = 12,
         weapon_id = 164380,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Scharnhorst" }
-  }},
+  },
   ["1010690"] = {
     barrages = { {
       name = "Iron Blood Hawk+",
@@ -54566,10 +54566,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 62810,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Graf Zeppelin" }
-  }},
+  },
   ["1010720"] = {
     barrages = { {
       name = "Guarding Shield+",
@@ -54600,10 +54600,10 @@ local p = {
         velocity = 16,
         weapon_id = 168790,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Admiral Hipper" }
-  }},
+  },
   ["1010880"] = {
     barrages = { {
       name = "Lucky Lou+",
@@ -54634,7 +54634,7 @@ local p = {
         velocity = 8,
         weapon_id = 168200,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -54662,10 +54662,10 @@ local p = {
         velocity = 18,
         weapon_id = 168200,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "St. Louis" }
-  }},
+  },
   ["1010960"] = {
     barrages = { {
       name = "Special Lead Ship+",
@@ -54696,7 +54696,7 @@ local p = {
         velocity = 18,
         weapon_id = 167530,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -54722,15 +54722,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 4,
         weapon_id = 167540,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fubuki" }
-  }},
+  },
   ["1010980"] = {
     barrages = { {
       name = "AA Protection+",
@@ -54761,10 +54761,10 @@ local p = {
         velocity = 15,
         weapon_id = 164370,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "North Carolina" }
-  }},
+  },
   ["1011000"] = {
     barrages = { {
       name = "Courageous Shelling",
@@ -54795,7 +54795,7 @@ local p = {
         velocity = 15,
         weapon_id = 165460,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -54824,8 +54824,8 @@ local p = {
         velocity = 15,
         weapon_id = 165410,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Courageous Shelling+\n(10s)",
       parts = { {
         aim_type = 0,
@@ -54854,8 +54854,8 @@ local p = {
         velocity = 15,
         weapon_id = 165400,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Courageous Shelling+\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -54884,7 +54884,7 @@ local p = {
         velocity = 15,
         weapon_id = 165450,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -54913,10 +54913,10 @@ local p = {
         velocity = 15,
         weapon_id = 165410,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Washington" }
-  }},
+  },
   ["1011150"] = {
     barrages = { {
       name = "Counterattack of the Barents Sea+",
@@ -54947,10 +54947,10 @@ local p = {
         velocity = 28,
         weapon_id = 167670,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sheffield" }
-  }},
+  },
   ["1011250"] = {
     barrages = { {
       name = "Leyte Gulf's Blitz+",
@@ -54981,7 +54981,7 @@ local p = {
         velocity = 16,
         weapon_id = 168210,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -55008,10 +55008,10 @@ local p = {
         velocity = 4,
         weapon_id = 168220,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Choukai" }
-  }},
+  },
   ["1011360"] = {
     barrages = { {
       name = "Lunga Point's Strike+",
@@ -55042,10 +55042,10 @@ local p = {
         velocity = 12,
         weapon_id = 161030,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Kawakaze" }
-  }},
+  },
   ["1011370"] = {
     barrages = { {
       name = "Fatal Perforation+",
@@ -55076,10 +55076,10 @@ local p = {
         velocity = 4,
         weapon_id = 66930,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-19" }
-  }},
+  },
   ["1011380"] = {
     barrages = { {
       name = "Departing Strike+",
@@ -55110,10 +55110,10 @@ local p = {
         velocity = 4,
         weapon_id = 66910,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "I-58" }
-  }},
+  },
   ["1011440"] = {
     barrages = { {
       name = "The Bull of Scapa Flow+",
@@ -55143,15 +55143,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 163120,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-47" }
-  }},
+  },
   ["1011490"] = {
     barrages = { {
       name = "Frontal Fire+",
@@ -55182,7 +55182,7 @@ local p = {
         velocity = 5.5,
         weapon_id = 165110,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -55211,7 +55211,7 @@ local p = {
         velocity = 12,
         weapon_id = 67110,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 50,
@@ -55240,10 +55240,10 @@ local p = {
         velocity = 14,
         weapon_id = 165100,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dunkerque" }
-  }},
+  },
   ["1011500"] = {
     barrages = { {
       is_aoa = true,
@@ -55275,7 +55275,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 79335,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 4,
         angle = 120,
@@ -55302,10 +55302,10 @@ local p = {
         velocity = 4,
         weapon_id = 79334,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Triomphant" }
-  }},
+  },
   ["1011540"] = {
     barrages = { {
       name = "Final Shot+",
@@ -55336,10 +55336,10 @@ local p = {
         velocity = 15,
         weapon_id = 62690,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Jean Bart" }
-  }},
+  },
   ["1011560"] = {
     barrages = { {
       name = "2,700 Pounds of Justice+",
@@ -55373,10 +55373,10 @@ local p = {
         velocity = 11,
         weapon_id = 167520,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Massachusetts" }
-  }},
+  },
   ["1011620"] = {
     barrages = { {
       name = "Predestined Launch\n(Suisei)",
@@ -55409,8 +55409,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 67390,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Predestined Launch\n(Ryuusei)",
       parts = { {
         aim_type = 1,
@@ -55440,10 +55440,10 @@ local p = {
         velocity = 3,
         weapon_id = 67410,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Taihou" }
-  }},
+  },
   ["1011670"] = {
     barrages = { {
       name = "Surpriiiiiiiise!+",
@@ -55476,10 +55476,10 @@ local p = {
         velocity = 3,
         weapon_id = 160350,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Albacore" }
-  }},
+  },
   ["1011700"] = {
     barrages = { {
       name = "Bold But Reckless+",
@@ -55510,10 +55510,10 @@ local p = {
         velocity = 28,
         weapon_id = 160080,
         weapon_type = 25
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Téméraire" }
-  }},
+  },
   ["1011870"] = {
     barrages = { {
       name = "Divine Marksman\n(Enhanced)",
@@ -55544,8 +55544,8 @@ local p = {
         velocity = 12,
         weapon_id = 168130,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Divine Marksman+\n(5s and every 15s)",
       parts = { {
         aim_type = 1,
@@ -55577,10 +55577,10 @@ local p = {
         velocity = 0,
         weapon_id = 168120,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Warspite" }
-  }},
+  },
   ["1011900"] = {
     barrages = { {
       name = "Protector of the North Passage",
@@ -55613,7 +55613,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 67910,
         weapon_type = 25
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 20,
@@ -55641,10 +55641,10 @@ local p = {
         velocity = 3,
         weapon_id = 67920,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chaser" }
-  }},
+  },
   ["1011940"] = {
     barrages = { {
       name = "Observer of the Sky and Sea",
@@ -55676,7 +55676,7 @@ local p = {
         velocity = 0,
         weapon_id = 67970,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -55704,10 +55704,10 @@ local p = {
         velocity = 0,
         weapon_id = 67980,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shangri-La" }
-  }},
+  },
   ["1011960"] = {
     barrages = { {
       name = "Star of the Shimmering Fjord+",
@@ -55738,7 +55738,7 @@ local p = {
         velocity = 3,
         weapon_id = 168160,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 60,
@@ -55765,10 +55765,10 @@ local p = {
         velocity = 18,
         weapon_id = 168163,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Hardy" }
-  }},
+  },
   ["1012320"] = {
     barrages = { {
       name = "Poisonous Sting+",
@@ -55799,10 +55799,10 @@ local p = {
         velocity = 8,
         weapon_id = 164610,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Le Malin" }
-  }},
+  },
   ["1012350"] = {
     barrages = { {
       name = "Unyielding Magician+",
@@ -55833,10 +55833,10 @@ local p = {
         velocity = 4,
         weapon_id = 161300,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "L'Opiniâtre" }
-  }},
+  },
   ["1012480"] = {
     barrages = { {
       name = "APsolute Ammunition+",
@@ -55869,10 +55869,10 @@ local p = {
         velocity = 28,
         weapon_id = 167680,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Baltimore" }
-  }},
+  },
   ["1012600"] = {
     barrages = { {
       name = "Rosa Bombardamento+",
@@ -55903,7 +55903,7 @@ local p = {
         velocity = 15,
         weapon_id = 68680,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -55930,10 +55930,10 @@ local p = {
         velocity = 18,
         weapon_id = 161290,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Littorio" }
-  }},
+  },
   ["1012670"] = {
     barrages = { {
       name = "Fuoco di Copertura!+",
@@ -55964,10 +55964,10 @@ local p = {
         velocity = 20,
         weapon_id = 62790,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Carabiniere" }
-  }},
+  },
   ["1012940"] = {
     barrages = { {
       name = "For The Queen+",
@@ -55998,7 +55998,7 @@ local p = {
         velocity = 15,
         weapon_id = 79493,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -56025,8 +56025,8 @@ local p = {
         velocity = 15,
         weapon_id = 79493,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "For The Queen+\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -56055,7 +56055,7 @@ local p = {
         velocity = 15,
         weapon_id = 79493,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -56082,10 +56082,10 @@ local p = {
         velocity = 15,
         weapon_id = 79493,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Dido" }
-  }},
+  },
   ["1012990"] = {
     barrages = { {
       name = "Trajectory Marking+",
@@ -56118,10 +56118,10 @@ local p = {
         velocity = 0.75,
         weapon_id = 165090,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Tashkent" }
-  }},
+  },
   ["1013000"] = {
     barrages = { {
       name = "Cavalier of the Ether+",
@@ -56154,7 +56154,7 @@ local p = {
         velocity = 16,
         weapon_id = 164230,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -56184,7 +56184,7 @@ local p = {
         velocity = 16,
         weapon_id = 164230,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -56213,10 +56213,10 @@ local p = {
         velocity = 16,
         weapon_id = 164230,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chapayev" }
-  }},
+  },
   ["1013020"] = {
     barrages = { {
       name = "Lod Obstrel",
@@ -56247,7 +56247,7 @@ local p = {
         velocity = 15,
         weapon_id = 69070,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -56277,7 +56277,7 @@ local p = {
         velocity = 8,
         weapon_id = 69090,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -56307,7 +56307,7 @@ local p = {
         velocity = 8,
         weapon_id = 69100,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -56337,7 +56337,7 @@ local p = {
         velocity = 8,
         weapon_id = 69110,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 3,
         angle = 120,
@@ -56364,10 +56364,10 @@ local p = {
         velocity = 18,
         weapon_id = 69120,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sovetskaya Rossiya" }
-  }},
+  },
   ["1013270"] = {
     barrages = { {
       name = "Bellowing Gusts of Fire+",
@@ -56400,10 +56400,10 @@ local p = {
         velocity = 15,
         weapon_id = 162340,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Algérie" }
-  }},
+  },
   ["1013550"] = {
     barrages = { {
       name = "The Smiling Sawfish+\n(enhanced)",
@@ -56434,8 +56434,8 @@ local p = {
         velocity = 4,
         weapon_id = 164920,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "The Smiling Sawfish+",
       parts = { {
         aim_type = 0,
@@ -56464,10 +56464,10 @@ local p = {
         velocity = 4,
         weapon_id = 69860,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-96" }
-  }},
+  },
   ["1014070"] = {
     barrages = { {
       name = "Purge Evil+",
@@ -56498,7 +56498,7 @@ local p = {
         velocity = 7,
         weapon_id = 167210,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -56525,7 +56525,7 @@ local p = {
         velocity = 7,
         weapon_id = 167210,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -56552,10 +56552,10 @@ local p = {
         velocity = 3,
         weapon_id = 167190,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ying Swei" }
-  }},
+  },
   ["1014090"] = {
     barrages = { {
       name = "Cleanse Impurity+",
@@ -56586,7 +56586,7 @@ local p = {
         velocity = 7,
         weapon_id = 167180,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 120,
@@ -56613,7 +56613,7 @@ local p = {
         velocity = 7,
         weapon_id = 167180,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -56640,10 +56640,10 @@ local p = {
         velocity = 3,
         weapon_id = 167190,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Chao Ho" }
-  }},
+  },
   ["1014340"] = {
     barrages = { {
       name = "Halo of Flames+",
@@ -56674,10 +56674,10 @@ local p = {
         velocity = 18,
         weapon_id = 168610,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Duca degli Abruzzi" }
-  }},
+  },
   ["1017160"] = {
     barrages = { {
       name = "Unseen Phantom+",
@@ -56708,10 +56708,10 @@ local p = {
         velocity = 6,
         weapon_id = 163350,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mary Celeste" }
-  }},
+  },
   ["1017200"] = {
     barrages = { {
       name = "Peerless Cannons of Destruction+",
@@ -56746,7 +56746,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 163400,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 6,
         angle = 25,
@@ -56774,10 +56774,10 @@ local p = {
         velocity = 0.5,
         weapon_id = 163340,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "São Martinho" }
-  }},
+  },
   ["1017210"] = {
     barrages = { {
       name = "For a Good Night's Sleep+",
@@ -56810,10 +56810,10 @@ local p = {
         velocity = 12,
         weapon_id = 163430,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Whydah" }
-  }},
+  },
   ["1017250"] = {
     barrages = { {
       name = "Hindhorn's Grace+",
@@ -56846,10 +56846,10 @@ local p = {
         velocity = 7,
         weapon_id = 163420,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Golden Hind" }
-  }},
+  },
   ["1019020"] = {
     barrages = { {
       name = "Goddess of the Sea+",
@@ -56880,7 +56880,7 @@ local p = {
         velocity = 15,
         weapon_id = 166590,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -56908,7 +56908,7 @@ local p = {
         velocity = 15,
         weapon_id = 166590,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 80,
@@ -56935,10 +56935,10 @@ local p = {
         velocity = 5,
         weapon_id = 166600,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Neptune" }
-  }},
+  },
   ["1019060"] = {
     barrages = { {
       name = "Flash of Lightning+",
@@ -56969,7 +56969,7 @@ local p = {
         velocity = 8,
         weapon_id = 165150,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 180,
@@ -56996,10 +56996,10 @@ local p = {
         velocity = 8,
         weapon_id = 165160,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ibuki" }
-  }},
+  },
   ["1019090"] = {
     barrages = { {
       name = "Expert Loader+",
@@ -57032,7 +57032,7 @@ local p = {
         velocity = 16,
         weapon_id = 166930,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 3,
         angle = 120,
@@ -57061,7 +57061,7 @@ local p = {
         velocity = 16,
         weapon_id = 166930,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -57089,15 +57089,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 166940,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Roon" }
-  }},
+  },
   ["1019110"] = {
     barrages = { {
       name = "Augmented HE Ammo+",
@@ -57128,10 +57128,10 @@ local p = {
         velocity = 1,
         weapon_id = 166950,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Saint Louis" }
-  }},
+  },
   ["1090020"] = {
     barrages = { {
       name = "Full Firepower - Karlsruhe\n(Slash)",
@@ -57146,10 +57146,10 @@ local p = {
         range = 20,
         type = "slash",
         velocity = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Karlsruhe" }
-  }},
+  },
   ["1090040"] = {
     barrages = { {
       name = "Wolf Pack Formation - U-557\n(2 hits)",
@@ -57180,8 +57180,8 @@ local p = {
         velocity = 3.5,
         weapon_id = 62450,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Wolf Pack Formation - U-557\n(6 hits)",
       parts = { {
         aim_type = 0,
@@ -57210,8 +57210,8 @@ local p = {
         velocity = 3.5,
         weapon_id = 62460,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Wolf Pack Formation - U-557\n(10 hits)",
       parts = { {
         aim_type = 0,
@@ -57240,10 +57240,10 @@ local p = {
         velocity = 3.5,
         weapon_id = 62470,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "U-557" }
-  }},
+  },
   ["1090060"] = {
     barrages = { {
       name = "Double Gun - Wichita",
@@ -57276,7 +57276,7 @@ local p = {
         velocity = 15,
         weapon_id = 160340,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -57306,10 +57306,10 @@ local p = {
         velocity = 15,
         weapon_id = 160340,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Wichita" }
-  }},
+  },
   ["1090070"] = {
     barrages = { {
       name = "Artillery Command - Sims",
@@ -57342,10 +57342,10 @@ local p = {
         velocity = 18,
         weapon_id = 64150,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Sims" }
-  }},
+  },
   ["1090090"] = {
     barrages = { {
       name = "Fading Memories of Glory - Cavour",
@@ -57378,10 +57378,10 @@ local p = {
         velocity = 18,
         weapon_id = 160790,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Conte di Cavour" }
-  }},
+  },
   ["1090110"] = {
     barrages = { {
       name = "Torpedo Launch - Gneisenau",
@@ -57411,15 +57411,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 3,
         weapon_id = 161020,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Gneisenau" }
-  }},
+  },
   ["1090120"] = {
     barrages = { {
       name = "Piercing Shells - Z46",
@@ -57450,7 +57450,7 @@ local p = {
         velocity = 18,
         weapon_id = 79215,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -57476,15 +57476,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 79216,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z46" }
-  }},
+  },
   ["1090140"] = {
     barrages = { {
       name = "Artillery Cover - Saratoga",
@@ -57517,7 +57517,7 @@ local p = {
         velocity = 18,
         weapon_id = 161230,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 25,
@@ -57545,7 +57545,7 @@ local p = {
         velocity = 3,
         weapon_id = 161260,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -57574,7 +57574,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 161270,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -57603,10 +57603,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 161280,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Saratoga" }
-  }},
+  },
   ["1090150"] = {
     barrages = { {
       name = "Surface Combat - Surcouf",
@@ -57639,10 +57639,10 @@ local p = {
         velocity = 8,
         weapon_id = 162350,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Surcouf" }
-  }},
+  },
   ["1090170"] = {
     barrages = { {
       name = "AP Protection - Mogami",
@@ -57675,10 +57675,10 @@ local p = {
         velocity = 16,
         weapon_id = 163130,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Mogami" }
-  }},
+  },
   ["1090180"] = {
     barrages = { {
       name = "Cover Fire - Fusou",
@@ -57709,10 +57709,10 @@ local p = {
         velocity = 15,
         weapon_id = 163300,
         weapon_type = 19
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fusou" }
-  }},
+  },
   ["1090190"] = {
     barrages = { {
       name = "Focused Assault - Takao",
@@ -57743,7 +57743,7 @@ local p = {
         velocity = 16,
         weapon_id = 163440,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 120,
@@ -57770,7 +57770,7 @@ local p = {
         velocity = 16,
         weapon_id = 163450,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -57797,10 +57797,10 @@ local p = {
         velocity = 4,
         weapon_id = 163460,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Takao" }
-  }},
+  },
   ["1090220"] = {
     barrages = { {
       name = "Reload Command - Königsberg",
@@ -57831,10 +57831,10 @@ local p = {
         velocity = 12,
         weapon_id = 163760,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Königsberg" }
-  }},
+  },
   ["1090230"] = {
     barrages = { {
       name = "Piercing Shells - Z18",
@@ -57865,10 +57865,10 @@ local p = {
         velocity = 18,
         weapon_id = 163910,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Z18" }
-  }},
+  },
   ["1090250"] = {
     barrages = { {
       name = "Torpedo Command - Comet",
@@ -57899,10 +57899,10 @@ local p = {
         velocity = 15,
         weapon_id = 164190,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Comet" }
-  }},
+  },
   ["1090260"] = {
     barrages = { {
       name = "Quick Reload - Spence",
@@ -57933,7 +57933,7 @@ local p = {
         velocity = 18,
         weapon_id = 164620,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 120,
@@ -57960,10 +57960,10 @@ local p = {
         velocity = 4,
         weapon_id = 164630,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Spence" }
-  }},
+  },
   ["1090270"] = {
     barrages = { {
       name = "Tactical Command - Leipzig",
@@ -57994,7 +57994,7 @@ local p = {
         velocity = 18,
         weapon_id = 164710,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -58020,15 +58020,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 4,
         weapon_id = 164720,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Leipzig" }
-  }},
+  },
   ["1090280"] = {
     barrages = { {
       name = "Quick Takeoff - Long Island",
@@ -58061,8 +58061,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 164941,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Quick Takeoff - Long Island\n(enhanced)",
       parts = { {
         aim_type = 1,
@@ -58093,10 +58093,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 164951,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Long Island" }
-  }},
+  },
   ["1090290"] = {
     barrages = { {
       name = "Double Torpedo - Shiranui",
@@ -58126,15 +58126,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 165120,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shiranui" }
-  }},
+  },
   ["1090310"] = {
     barrages = { {
       name = "Full Firepower - Exeter",
@@ -58167,10 +58167,10 @@ local p = {
         velocity = 1,
         weapon_id = 165170,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Exeter" }
-  }},
+  },
   ["1090320"] = {
     barrages = { {
       name = "Emergency Maneuvers - Bulldog",
@@ -58201,10 +58201,10 @@ local p = {
         velocity = 18,
         weapon_id = 165470,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bulldog" }
-  }},
+  },
   ["1090330"] = {
     barrages = { {
       name = "Torpedo Command - Shiratsuyu",
@@ -58234,15 +58234,15 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 165580,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Shiratsuyu" }
-  }},
+  },
   ["1090340"] = {
     barrages = { {
       name = "Quick Takeoff - Bogue",
@@ -58275,10 +58275,10 @@ local p = {
         velocity = 15,
         weapon_id = 166860,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Bogue" }
-  }},
+  },
   ["1090350"] = {
     barrages = { {
       name = "Full Firepower - Yuubari",
@@ -58310,7 +58310,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 166880,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -58337,7 +58337,7 @@ local p = {
         velocity = 4,
         weapon_id = 68190,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -58366,7 +58366,7 @@ local p = {
         velocity = 12,
         weapon_id = 920,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -58393,7 +58393,7 @@ local p = {
         velocity = 0,
         weapon_id = 166890,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 2,
         angle = 50,
@@ -58422,10 +58422,10 @@ local p = {
         velocity = 12,
         weapon_id = 166920,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Yuubari" }
-  }},
+  },
   ["1090360"] = {
     barrages = { {
       name = "Air Support - Houshou",
@@ -58457,10 +58457,10 @@ local p = {
         velocity = 3,
         weapon_id = 166910,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Houshou" }
-  }},
+  },
   ["1090380"] = {
     barrages = { {
       name = "Double Torpedo - Atago",
@@ -58492,10 +58492,10 @@ local p = {
         velocity = 16,
         weapon_id = 167300,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Atago" }
-  }},
+  },
   ["1090390"] = {
     barrages = { {
       name = "Anti-Air Mode - Columbia",
@@ -58529,10 +58529,10 @@ local p = {
         velocity = 1,
         weapon_id = 167360,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Columbia" }
-  }},
+  },
   ["1090400"] = {
     barrages = { {
       name = "Full Firepower - Köln\n(Variant 1)",
@@ -58563,7 +58563,7 @@ local p = {
         velocity = 22,
         weapon_id = 67070,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -58589,13 +58589,13 @@ local p = {
         tracker = {
           angular = 1.6,
           range = 14
-        }},
+        },
         type = "weapon",
         velocity = 2,
         weapon_id = 67090,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 2)",
       parts = { {
         aim_type = 0,
@@ -58624,7 +58624,7 @@ local p = {
         velocity = 10,
         weapon_id = 167130,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -58652,8 +58652,8 @@ local p = {
         velocity = 18,
         weapon_id = 167130,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 3)",
       parts = { {
         aim_type = 0,
@@ -58682,7 +58682,7 @@ local p = {
         velocity = 22,
         weapon_id = 161070,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -58709,8 +58709,8 @@ local p = {
         velocity = 4,
         weapon_id = 161080,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 4)",
       parts = { {
         aim_type = 1,
@@ -58739,8 +58739,8 @@ local p = {
         velocity = 15,
         weapon_id = 167500,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 5)",
       parts = { {
         aim_type = 1,
@@ -58769,8 +58769,8 @@ local p = {
         velocity = 15,
         weapon_id = 69610,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 6)",
       parts = { {
         aim_type = 0,
@@ -58799,7 +58799,7 @@ local p = {
         velocity = 10,
         weapon_id = 64880,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 360,
@@ -58826,8 +58826,8 @@ local p = {
         velocity = 5.5,
         weapon_id = 64900,
         weapon_type = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 7)",
       parts = { {
         aim_type = 0,
@@ -58856,7 +58856,7 @@ local p = {
         velocity = 10,
         weapon_id = 65520,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -58883,8 +58883,8 @@ local p = {
         velocity = 5.5,
         weapon_id = 65520,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 8)",
       parts = { {
         aim_type = 0,
@@ -58913,7 +58913,7 @@ local p = {
         velocity = 15,
         weapon_id = 167510,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -58941,8 +58941,8 @@ local p = {
         velocity = 15,
         weapon_id = 167510,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 9)",
       parts = { {
         aim_type = 1,
@@ -58971,8 +58971,8 @@ local p = {
         velocity = 15,
         weapon_id = 62350,
         weapon_type = 1
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Full Firepower - Köln\n(Variant 10)",
       parts = { {
         aim_type = 1,
@@ -59001,7 +59001,7 @@ local p = {
         velocity = 18,
         weapon_id = 64400,
         weapon_type = 19
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 120,
@@ -59028,10 +59028,10 @@ local p = {
         velocity = 22,
         weapon_id = 64390,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Köln" }
-  }},
+  },
   ["1090420"] = {
     barrages = { {
       name = "Full Firepower - Grozny",
@@ -59062,10 +59062,10 @@ local p = {
         velocity = 18,
         weapon_id = 168550,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Grozny" }
-  }},
+  },
   ["10150530"] = {
     barrages = { {
       name = "Invitation to Drowning Dreams+",
@@ -59096,10 +59096,10 @@ local p = {
         velocity = 12,
         weapon_id = 165480,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Amity" }
-  }},
+  },
   ["10150570"] = {
     barrages = { {
       name = "Phantom of the Deep+",
@@ -59130,7 +59130,7 @@ local p = {
         velocity = 35,
         weapon_id = 165500,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -59158,7 +59158,7 @@ local p = {
         velocity = 35,
         weapon_id = 165500,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -59186,7 +59186,7 @@ local p = {
         velocity = 35,
         weapon_id = 165500,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -59214,7 +59214,7 @@ local p = {
         velocity = 35,
         weapon_id = 165500,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -59242,10 +59242,10 @@ local p = {
         velocity = 35,
         weapon_id = 165500,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Fancy" }
-  }},
+  },
   ["10150580"] = {
     barrages = { {
       name = "Winds of Purification and Restoration+",
@@ -59277,7 +59277,7 @@ local p = {
         velocity = 0.5,
         weapon_id = 165530,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 60,
@@ -59304,7 +59304,7 @@ local p = {
         velocity = 12,
         weapon_id = 165510,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 6,
         angle = 25,
@@ -59332,10 +59332,10 @@ local p = {
         velocity = 6,
         weapon_id = 165550,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     ships = { "Ganj-i-Sawai" }
-  }}
-}}
+  }
+}
 
 return p

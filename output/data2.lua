@@ -29,10 +29,10 @@ local p = {
         velocity = 1,
         weapon_id = 61517,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Dynamic Cannon" }
-  }},
+  },
   ["6940"] = {
     barrages = { {
       name = "Goldburn",
@@ -65,10 +65,10 @@ local p = {
         velocity = 1.6,
         weapon_id = 445,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Goldburn" }
-  }},
+  },
   ["60130"] = {
     barrages = { {
       name = "Inflict Burns",
@@ -101,10 +101,10 @@ local p = {
         velocity = 10,
         weapon_id = 61506,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Grand Bomb" }
-  }},
+  },
   ["60140"] = {
     barrages = { {
       name = "Slowdown",
@@ -137,10 +137,10 @@ local p = {
         velocity = 10,
         weapon_id = 61507,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Crystal Ice Bomb" }
-  }},
+  },
   ["60150"] = {
     barrages = { {
       name = "Senselessness",
@@ -173,10 +173,10 @@ local p = {
         velocity = 10,
         weapon_id = 61508,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Laute Plajig" }
-  }},
+  },
   ["60160"] = {
     barrages = { {
       name = "Maximum Wind",
@@ -209,7 +209,7 @@ local p = {
         velocity = 10,
         weapon_id = 61509,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -237,10 +237,10 @@ local p = {
         velocity = 0,
         weapon_id = 61516,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Wirbel Luft" }
-  }},
+  },
   ["60180"] = {
     barrages = { {
       name = "Echoing Seas\n(enhanced)",
@@ -273,8 +273,8 @@ local p = {
         velocity = 10,
         weapon_id = 61513,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Echoing Seas",
       parts = { {
         aim_type = 1,
@@ -305,10 +305,10 @@ local p = {
         velocity = 10,
         weapon_id = 61513,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Genesis Hammer" }
-  }},
+  },
   ["60190"] = {
     barrages = { {
       name = "Bubbly Prison\n(enhanced)",
@@ -341,8 +341,8 @@ local p = {
         velocity = 10,
         weapon_id = 61514,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Bubbly Prison",
       parts = { {
         aim_type = 1,
@@ -373,7 +373,7 @@ local p = {
         velocity = 10,
         weapon_id = 61514,
         weapon_type = 23
-      }}, {
+      }, {
         aim_type = 0,
         airdrop = true,
         ammo = 6,
@@ -401,10 +401,10 @@ local p = {
         velocity = 0,
         weapon_id = 61515,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Bubble Bullet" }
-  }},
+  },
   ["60210"] = {
     barrages = { {
       name = "Soulstealer's Engraving\n(enhanced)",
@@ -437,8 +437,8 @@ local p = {
         velocity = 10,
         weapon_id = 61510,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Soulstealer's Engraving",
       parts = { {
         aim_type = 1,
@@ -469,10 +469,10 @@ local p = {
         velocity = 10,
         weapon_id = 61510,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Apocalypse" }
-  }},
+  },
   ["60220"] = {
     barrages = { {
       name = "Infinite Explosion\n(enhanced)",
@@ -505,8 +505,8 @@ local p = {
         velocity = 10,
         weapon_id = 61511,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Infinite Explosion",
       parts = { {
         aim_type = 1,
@@ -537,10 +537,10 @@ local p = {
         velocity = 10,
         weapon_id = 61511,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     equips = { "N/A" }
-  }},
+  },
   ["60420"] = {
     barrages = { {
       name = "Simulation Command\n(version 1)",
@@ -571,8 +571,8 @@ local p = {
         velocity = 2,
         weapon_id = 481,
         weapon_type = 16
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Simulation Command\n(version 2)",
       parts = { {
         aim_type = 0,
@@ -601,10 +601,10 @@ local p = {
         velocity = 10,
         weapon_id = 480,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Anti-EM Commands" }
-  }},
+  },
   ["60490"] = {
     barrages = { {
       name = "Ninjutsu Scroll",
@@ -635,10 +635,10 @@ local p = {
         velocity = 15,
         weapon_id = 161501,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Ninjutsu Scroll" }
-  }},
+  },
   ["60500"] = {
     barrages = { {
       name = "Sea of Stars Area B20 Access Pass",
@@ -670,7 +670,7 @@ local p = {
         velocity = 12,
         weapon_id = 50350,
         weapon_type = 4
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 5,
         angle = 80,
@@ -698,10 +698,10 @@ local p = {
         velocity = 12,
         weapon_id = 50550,
         weapon_type = 4
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Sea of Stars Area B20 Access Pass" }
-  }},
+  },
   ["60520"] = {
     barrages = { {
       name = "Cross Brooch",
@@ -732,7 +732,7 @@ local p = {
         velocity = 12,
         weapon_id = 485,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 2,
         angle = 360,
@@ -759,10 +759,10 @@ local p = {
         velocity = 15,
         weapon_id = 485,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Cross Brooch" }
-  }},
+  },
   ["60540"] = {
     barrages = { {
       name = "RPG Adventure Interface",
@@ -794,7 +794,7 @@ local p = {
         velocity = 12,
         weapon_id = 487,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -822,7 +822,7 @@ local p = {
         velocity = 0.1,
         weapon_id = 487,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 1,
         angle = 360,
@@ -851,10 +851,10 @@ local p = {
         velocity = 8,
         weapon_id = 487,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     equips = { "RPG Adventure Interface" }
-  }},
+  },
   ["60660"] = {
     barrages = { {
       name = "Fargo Direct Drone",
@@ -886,10 +886,10 @@ local p = {
         velocity = 10,
         weapon_id = 494,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Fargo Direct Drone" }
-  }},
+  },
   ["60830"] = {
     barrages = { {
       name = "Fairey Gannet",
@@ -921,10 +921,10 @@ local p = {
         velocity = 3,
         weapon_id = 51273,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Fairey Gannet" }
-  }},
+  },
   ["60860"] = {
     barrages = { {
       name = "Granshine\n(No Manaflow)",
@@ -957,8 +957,8 @@ local p = {
         velocity = 10,
         weapon_id = 180004,
         weapon_type = 23
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Granshine\n(Manaflow)",
       parts = { {
         aim_type = 1,
@@ -989,10 +989,10 @@ local p = {
         velocity = 10,
         weapon_id = 180004,
         weapon_type = 23
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Granshine" }
-  }},
+  },
   ["60870"] = {
     barrages = { {
       name = "Superior Grimoire\n(No Manaflow)",
@@ -1024,8 +1024,8 @@ local p = {
         velocity = 16,
         weapon_id = 180008,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Superior Grimoire\n(Manaflow)",
       parts = { {
         aim_type = 1,
@@ -1055,10 +1055,10 @@ local p = {
         velocity = 16,
         weapon_id = 180009,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Superior Grimoire" }
-  }},
+  },
   ["60880"] = {
     barrages = { {
       name = "Endemeteo\n(No Manaflow)",
@@ -1093,8 +1093,8 @@ local p = {
         velocity = 1.5,
         weapon_id = 180012,
         weapon_type = 2
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Endemeteo\n(Manaflow)",
       parts = { {
         aim_type = 1,
@@ -1127,7 +1127,7 @@ local p = {
         velocity = 1.5,
         weapon_id = 180012,
         weapon_type = 2
-      }}, {
+      }, {
         aim_type = 1,
         airdrop = true,
         ammo = 6,
@@ -1158,10 +1158,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 180013,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Endemeteo" }
-  }},
+  },
   ["108410"] = {
     barrages = { {
       name = "Primal Accepter",
@@ -1192,10 +1192,10 @@ local p = {
         velocity = 1,
         weapon_id = 162115,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Primal Accepter" }
-  }},
+  },
   ["108420"] = {
     barrages = { {
       name = "Confinement Program\n(summon)",
@@ -1242,7 +1242,7 @@ local p = {
           velocity = 22,
           weapon_id = 474,
           weapon_type = 2
-        }}, {
+        }, {
           aim_type = 0,
           ammo = 1,
           angle = 360,
@@ -1270,11 +1270,11 @@ local p = {
           velocity = 1,
           weapon_id = 475,
           weapon_type = 17
-        }} }
-      }} }
-    }} },
+        } }
+      } }
+    } },
     equips = { "Confinement Program" }
-  }},
+  },
   ["108450"] = {
     barrages = { {
       name = "Dyna Wing",
@@ -1307,10 +1307,10 @@ local p = {
         velocity = 1,
         weapon_id = 162190,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Dyna Wing" }
-  }},
+  },
   ["108470"] = {
     barrages = { {
       name = "Kaiju Seed",
@@ -1342,7 +1342,7 @@ local p = {
         velocity = 4,
         weapon_id = 63410,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 180,
@@ -1370,10 +1370,10 @@ local p = {
         velocity = 2,
         weapon_id = 63420,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Kaiju Seed" }
-  }},
+  },
   ["108480"] = {
     barrages = { {
       name = "Sounderous",
@@ -1406,10 +1406,10 @@ local p = {
         velocity = 1.5,
         weapon_id = 477,
         weapon_type = 2
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Live Baton" }
-  }},
+  },
   ["108490"] = {
     barrages = { {
       name = "Supporting Roar",
@@ -1440,10 +1440,10 @@ local p = {
         velocity = 1,
         weapon_id = 162080,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Dragon Ornament" }
-  }},
+  },
   ["111200"] = {
     barrages = { {
       name = "Deviluke Royal Might - Lala",
@@ -1474,8 +1474,8 @@ local p = {
         velocity = 1,
         weapon_id = 497,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Deviluke Royal Might - Lala\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -1504,10 +1504,10 @@ local p = {
         velocity = 1,
         weapon_id = 498,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Omnitool" }
-  }},
+  },
   ["111210"] = {
     barrages = { {
       name = "Deviluke Royal Might - Nana",
@@ -1538,8 +1538,8 @@ local p = {
         velocity = 1,
         weapon_id = 499,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Deviluke Royal Might - Nana\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -1568,10 +1568,10 @@ local p = {
         velocity = 1,
         weapon_id = 500,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Animal Attack" }
-  }},
+  },
   ["111220"] = {
     barrages = { {
       name = "Deviluke Royal Might - Momo",
@@ -1602,8 +1602,8 @@ local p = {
         velocity = 1,
         weapon_id = 497,
         weapon_type = 24
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Deviluke Royal Might - Momo\n(enhanced)",
       parts = { {
         aim_type = 0,
@@ -1632,10 +1632,10 @@ local p = {
         velocity = 1,
         weapon_id = 498,
         weapon_type = 24
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Burst Flower" }
-  }},
+  },
   ["111230"] = {
     barrages = { {
       name = "Living Weapon",
@@ -1666,7 +1666,7 @@ local p = {
         velocity = 0.1,
         weapon_id = 166761,
         weapon_type = 3
-      }}, {
+      }, {
         aim_type = 1,
         ammo = 1,
         angle = 360,
@@ -1695,10 +1695,10 @@ local p = {
         velocity = 0.1,
         weapon_id = 61691,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Golden Slash" }
-  }},
+  },
   ["111240"] = {
     barrages = { {
       name = "This Way, Girls!",
@@ -1731,10 +1731,10 @@ local p = {
         velocity = 12,
         weapon_id = 61518,
         weapon_type = 1
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Emergency Fire Extinguisher" }
-  }},
+  },
   ["901010"] = {
     barrages = { {
       name = "Slash - Spread\n(Level 1)",
@@ -1749,8 +1749,8 @@ local p = {
         range = 24,
         type = "slash",
         velocity = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Slash - Spread\n(Level 2)",
       parts = { {
         clears = { 1 },
@@ -1763,8 +1763,8 @@ local p = {
         range = 24,
         type = "slash",
         velocity = 3
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Slash - Spread\n(Level 3)",
       parts = { {
         buff_chance = 1,
@@ -1779,10 +1779,10 @@ local p = {
         range = 24,
         type = "slash",
         velocity = 3
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Ambrosial Violet Whispers", "Baobao", "Blade of the Holy Mountain", "Bludgeon of Faith", "Bright Moon After the Rain", "Carabinier's Honored Hallmark", "Cherished Cleaning Equipment", "Custom-made Companion Rigging - Raubtier", "Da Bao", "Delicious Nagara-class Nabemono", "Don't Throw Me Away", "Fabulous Fioretto", "Floaty Sparkly", "Flowering Courage", "Full Burst Javelin", "Grinding Day and Night", "Guardian Fishy", "Hammer", "Hermit Dragon of Iwashimizu's Shingon Blade", "Holy Lance of Judgment", "Huggy Pillow of Bravery", "Knight-Princess's Gauntlets", "Królik and Canteen", "Li'l Smile", "Lucky Lou", "Magie de l'Amitié", "Mini Lebe", "Mutsuki's Candy!", "Neptune's Trident", "Night Princess's Caprice", "Order of the White Rose", "Plum-Red Silksteps", "Poisonous Elegance", "Public-Private Schedule", "Purse of Everyday Items", "Ryuuki Full Moon", "Shining Comet", "Sims' Playtime", "Sister's Care Package", "Speed S", "Storm-Breaking Fist?", "Super Bubblegum Pro Max", "Sword", "T3 Sakura Tech Pack (Display Sample)", "Teachings of the Seven Bridges", "Tem and Opie", "The Guardian's Bestowed Sword", "The Ice Sprite's Kindness", "To Become Statuesque?", "Upgrade Tool Pro Max", "Watch Your Head!", "You Don't Fear What You Don't Hear" }
-  }},
+  },
   ["901020"] = {
     barrages = { {
       name = "Slash - Area\n(Level 1)",
@@ -1797,8 +1797,8 @@ local p = {
         range = 32,
         type = "slash",
         velocity = 0
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Slash - Area\n(Level 2)",
       parts = { {
         clears = { 3 },
@@ -1811,8 +1811,8 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }}, {
+      } }
+    }, {
       name = "Slash - Area\n(Level 3)",
       parts = { {
         buff_chance = 1,
@@ -1827,10 +1827,10 @@ local p = {
         range = 45,
         type = "slash",
         velocity = 0
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Afternoon of Surging Elegance", "Another Precious Thing", "Dual Swords", "Greatsword", "Halo of Fortune", "Just Like Cleve", "My Friends A and Y", "Pirozhki", "The Ace's Card", "The General's Battlecoat", "The Lucky Winner", "The One and Only Style", "The Sweetness of Cloudwatching", "The White Cavalier's Reins", "Tunken der Liebe" }
-  }},
+  },
   ["902200"] = {
     barrages = { {
       name = "Fantastic Loop",
@@ -1861,7 +1861,7 @@ local p = {
         velocity = 0.75,
         weapon_id = 160910,
         weapon_type = 1
-      }}, {
+      }, {
         aim_type = 0,
         ammo = 4,
         angle = 60,
@@ -1888,10 +1888,10 @@ local p = {
         velocity = 4,
         weapon_id = 160920,
         weapon_type = 3
-      }} }
-    }} },
+      } }
+    } },
     equips = { "Fantastic Loop" }
-  }}
-}}
+  }
+}
 
 return p

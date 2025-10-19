@@ -17,5 +17,8 @@
     "test": "bun test",
     "update": "bun update --latest && git submodule update --init --recursive",
     "prepare": "bunx lefthook install"
+  },
+  "dependencies": {
+    "mwn": "^3.0.1"
   }
 }
