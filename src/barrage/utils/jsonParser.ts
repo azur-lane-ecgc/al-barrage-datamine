@@ -1,4 +1,9 @@
-import { augmentData, barrageData, equipmentData, shipData } from "./data"
+import {
+  augmentData,
+  barrageData,
+  equipmentData,
+  shipData,
+} from "@/barrage/utils/data"
 
 export const createShipBarragesJson = (): Record<
   string,
@@ -76,10 +81,12 @@ export const createShipBarragesJson = (): Record<
     const skillIdStr = skillId.toString()
     if (barrages[skillIdStr]) {
       const barrageArray = barrages[skillIdStr]
-      const enhancedBarrages = barrageArray.map((barrage) => ({
-        ...barrage,
-        name: barrage.name.replace(/\s*\(([^)]+)\)$/, "\n($1)"),
-      }))
+      const enhancedBarrages = barrageArray.map(
+        (barrage: { name: string; [key: string]: unknown }) => ({
+          ...barrage,
+          name: barrage.name.replace(/\s*\(([^)]+)\)$/, "\n($1)"),
+        }),
+      )
 
       result[skillIdStr] = {
         barrages: enhancedBarrages,
@@ -139,10 +146,12 @@ export const createEquipAndAugBarrageJson = (): Record<
     const skillIdStr = skillId.toString()
     if (barrages[skillIdStr]) {
       const barrageArray = barrages[skillIdStr]
-      const enhancedBarrages = barrageArray.map((barrage) => ({
-        ...barrage,
-        name: barrage.name.replace(/\s*\(([^)]+)\)$/, "\n($1)"),
-      }))
+      const enhancedBarrages = barrageArray.map(
+        (barrage: { name: string; [key: string]: unknown }) => ({
+          ...barrage,
+          name: barrage.name.replace(/\s*\(([^)]+)\)$/, "\n($1)"),
+        }),
+      )
 
       result[skillIdStr] = {
         barrages: enhancedBarrages,

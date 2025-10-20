@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { createShipBarragesJson } from "../src/utils/jsonParser"
+import { createShipBarragesJson } from "@/barrage/utils/jsonParser"
 
 describe("Parsing Tests", () => {
   const shipBarrages = createShipBarragesJson()

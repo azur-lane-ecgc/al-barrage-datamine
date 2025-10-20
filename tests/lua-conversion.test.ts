@@ -2,8 +2,8 @@ import { describe, expect, test } from "bun:test"
 import { mkdtemp, rm } from "node:fs/promises"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { createShipBarragesJson } from "../src/utils/jsonParser"
-import { convertJsonToLua, jsonToLua } from "../src/utils/luaConverter"
+import { createShipBarragesJson } from "@/barrage/utils/jsonParser"
+import { convertJsonToLua, jsonToLua } from "@/barrage/utils/luaConverter"
 
 describe("Lua Conversion Tests", () => {
   test("Basic Syntax Validation - Numbers", () => {

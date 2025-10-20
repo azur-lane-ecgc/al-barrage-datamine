@@ -1,7 +1,9 @@
 # Agent Guidelines for al-barrage-datamine
 
 ## Build/Lint/Test Commands
-- **Build/Run**: `bun run start` (processes data and runs linting)
+- **Build/Run**: `bun run start` (runs full pipeline: barrage processing + wiki)
+- **Barrage Only**: `bun run barrage` (processes barrage data and runs linting)
+- **Wiki**: `bun run wiki` (runs wiki functionality)
 - **Lint**: `bun run lint` (Biome formatting and linting)
 - **Test**: `bun test` (Bun test runner)
 
@@ -25,7 +27,11 @@
 - Use `const functionName = () => {}` instead of `function functionName()`
 
 ### Imports & Modules
-- Path aliases: `@/*` for `src/*`, `@/data/*` for `AzurLaneData/data/*`
+- Path aliases: 
+  - `@/*` for `src/*`
+  - `@/data/*` for `AzurLaneData/data/*`
+  - `@/types/*` for `AzurLaneData/types/*`
+  - `@/barrage/*` for `src/barrage/*`
 - Group imports: built-ins, then external packages, then local imports
 - Use named imports over default imports where possible
 
@@ -45,3 +51,8 @@
 - Use early returns to reduce nesting
 - Prefer functional programming patterns (map, filter, reduce)
 - Export functions explicitly rather than default exports
+- **Project Structure**:
+  - `src/barrage/` - Barrage parsing functionality
+  - `src/wiki/` - Wiki-related functionality
+  - `src/barrage/types/` - Type definitions for barrage data
+  - `src/barrage/utils/` - Utility functions for barrage processing

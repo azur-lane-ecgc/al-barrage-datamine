@@ -13,20 +13,37 @@ bun install
 ## Usage
 
 ```bash
-bun run start
+bun run start    # Run full pipeline: barrage processing + wiki
+bun run barrage  # Process barrage data and run linting
+bun run wiki     # Run wiki functionality
 ```
 
-Generates output files in the `output/` directory:
+### Output Files
+
+Generated in `output/` directory:
 - `barrages.json` - Ship barrages
 - `barrages2.json` - Equipment and augment barrages  
 - `data.lua` - Lua module version of barrages.json
 - `data2.lua` - Lua module version of barrages2.json
 
+### Project Structure
+
+```
+src/
+├── barrage/          # Barrage parsing functionality
+│   ├── index.ts      # Main barrage processing script
+│   ├── types/        # Type definitions
+│   └── utils/        # Utility functions
+└── wiki/             # Wiki functionality
+    └── index.ts      # Wiki operations
+```
+
 ## Development
 
 ```bash
-bun run lint  # Format and lint code
-bun test      # Run tests
+bun run lint   # Format and lint code
+bun test       # Run tests
+bun run start  # Process data and lint (full pipeline)
 ```
 
 ## Credits

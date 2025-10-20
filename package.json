@@ -7,8 +7,9 @@
   "main": "src/index.ts",
   "module": "src/index.ts",
   "scripts": {
-    "start": "bun run src/index.ts && bun run lint",
-    "wiki": "bun run wiki/wiki.ts",
+    "start": "bun run barrage && bun run wiki",
+    "barrage": "bun run src/barrage/index.ts && bun run lint",
+    "wiki": "bun run src/wiki/index.ts",
     "test": "bun test",
     "lint": "biome check --write .",
     "update": "bun update --latest && git submodule update --init --recursive",
